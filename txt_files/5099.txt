@@ -1,0 +1,15 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Programming languages are essential for software development.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+There exist a lot of different approaches for each of those tasks.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Different programming languages support different styles of programming (called programming paradigms).
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Following a consistent programming style often helps readability.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+There are many approaches to the Software development process.

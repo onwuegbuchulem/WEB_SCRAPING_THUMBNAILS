@@ -1,0 +1,16 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Integrated development environments (IDEs) aim to integrate all such help.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+This is interpreted into machine code.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+There are many approaches to the Software development process.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.

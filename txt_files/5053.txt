@@ -1,0 +1,16 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Many applications use a mix of several languages in their construction and use.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Code-breaking algorithms have also existed for centuries.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

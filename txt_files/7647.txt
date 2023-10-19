@@ -1,0 +1,15 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+There are many approaches to the Software development process.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Programming languages are essential for software development.
+There exist a lot of different approaches for each of those tasks.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Programs were mostly entered using punched cards or paper tape.
+Use of a static code analysis tool can help detect some possible problems.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.

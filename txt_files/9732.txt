@@ -1,0 +1,19 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Use of a static code analysis tool can help detect some possible problems.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

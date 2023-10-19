@@ -1,0 +1,16 @@
+Use of a static code analysis tool can help detect some possible problems.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Techniques like Code refactoring can enhance readability.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+To produce machine code, the source code must either be compiled or transpiled.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Different programming languages support different styles of programming (called programming paradigms).

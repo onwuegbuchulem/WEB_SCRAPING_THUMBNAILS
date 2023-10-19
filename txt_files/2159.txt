@@ -1,0 +1,16 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, readability is more than just programming style.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+However, readability is more than just programming style.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Many applications use a mix of several languages in their construction and use.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Programs were mostly entered using punched cards or paper tape.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

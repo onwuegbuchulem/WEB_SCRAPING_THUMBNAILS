@@ -1,0 +1,17 @@
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Integrated development environments (IDEs) aim to integrate all such help.
+Normally the first step in debugging is to attempt to reproduce the problem.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+There exist a lot of different approaches for each of those tasks.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ It is very difficult to determine what are the most popular modern programming languages.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Different programming languages support different styles of programming (called programming paradigms).

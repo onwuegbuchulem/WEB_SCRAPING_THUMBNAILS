@@ -1,0 +1,15 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many applications use a mix of several languages in their construction and use.
+Programming languages are essential for software development.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+This is interpreted into machine code.
+There exist a lot of different approaches for each of those tasks.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Scripting and breakpointing is also part of this process.

@@ -1,0 +1,17 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+There exist a lot of different approaches for each of those tasks.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Many applications use a mix of several languages in their construction and use.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Use of a static code analysis tool can help detect some possible problems.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.

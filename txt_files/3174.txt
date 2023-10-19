@@ -1,0 +1,15 @@
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Integrated development environments (IDEs) aim to integrate all such help.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Programming languages are essential for software development.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

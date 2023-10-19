@@ -1,0 +1,15 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+However, readability is more than just programming style.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+However, readability is more than just programming style.
+There are many approaches to the Software development process.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Following a consistent programming style often helps readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Programming languages are essential for software development.

@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Ideally, the programming language best suited for the task at hand will be selected.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+This is interpreted into machine code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+One approach popular for requirements analysis is Use Case analysis.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+This is interpreted into machine code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Ideally, the programming language best suited for the task at hand will be selected.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

@@ -1,0 +1,16 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Techniques like Code refactoring can enhance readability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ It is very difficult to determine what are the most popular modern programming languages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

@@ -1,0 +1,17 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+This is interpreted into machine code.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+There exist a lot of different approaches for each of those tasks.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

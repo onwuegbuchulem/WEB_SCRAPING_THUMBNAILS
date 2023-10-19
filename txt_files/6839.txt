@@ -1,0 +1,16 @@
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Use of a static code analysis tool can help detect some possible problems.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.

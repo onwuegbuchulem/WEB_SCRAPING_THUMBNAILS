@@ -1,0 +1,16 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Programs were mostly entered using punched cards or paper tape.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Programs were mostly entered using punched cards or paper tape.
+Many applications use a mix of several languages in their construction and use.
+It is usually easier to code in "high-level" languages than in "low-level" ones.

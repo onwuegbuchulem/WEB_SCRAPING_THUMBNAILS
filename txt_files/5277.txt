@@ -1,0 +1,16 @@
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+One approach popular for requirements analysis is Use Case analysis.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

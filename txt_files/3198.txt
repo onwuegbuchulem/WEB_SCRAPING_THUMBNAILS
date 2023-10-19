@@ -1,0 +1,15 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+To produce machine code, the source code must either be compiled or transpiled.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Integrated development environments (IDEs) aim to integrate all such help.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+One approach popular for requirements analysis is Use Case analysis.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.

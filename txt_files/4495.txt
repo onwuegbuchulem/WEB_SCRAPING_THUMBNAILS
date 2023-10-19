@@ -1,0 +1,16 @@
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Use of a static code analysis tool can help detect some possible problems.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+To produce machine code, the source code must either be compiled or transpiled.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+This is interpreted into machine code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Code-breaking algorithms have also existed for centuries.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.

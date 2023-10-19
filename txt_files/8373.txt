@@ -1,0 +1,16 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+Many applications use a mix of several languages in their construction and use.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+Use of a static code analysis tool can help detect some possible problems.
+Scripting and breakpointing is also part of this process.
+There are many approaches to the Software development process.
+However, readability is more than just programming style.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Use of a static code analysis tool can help detect some possible problems.
+Programming languages are essential for software development.
+Programming languages are essential for software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Use of a static code analysis tool can help detect some possible problems.

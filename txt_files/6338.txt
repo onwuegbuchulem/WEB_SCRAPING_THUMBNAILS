@@ -1,0 +1,15 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Integrated development environments (IDEs) aim to integrate all such help.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, readability is more than just programming style.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.

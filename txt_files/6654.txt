@@ -1,0 +1,15 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Scripting and breakpointing is also part of this process.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.

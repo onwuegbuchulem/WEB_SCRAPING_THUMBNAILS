@@ -1,0 +1,15 @@
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Integrated development environments (IDEs) aim to integrate all such help.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+However, readability is more than just programming style.
+One approach popular for requirements analysis is Use Case analysis.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Use of a static code analysis tool can help detect some possible problems.
+ Following a consistent programming style often helps readability.

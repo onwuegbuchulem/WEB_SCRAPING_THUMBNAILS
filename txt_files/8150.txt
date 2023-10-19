@@ -1,0 +1,15 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Programming languages are essential for software development.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Techniques like Code refactoring can enhance readability.
+Techniques like Code refactoring can enhance readability.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+There exist a lot of different approaches for each of those tasks.
+Programming languages are essential for software development.

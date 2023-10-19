@@ -1,0 +1,16 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There exist a lot of different approaches for each of those tasks.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Scripting and breakpointing is also part of this process.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Ideally, the programming language best suited for the task at hand will be selected.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Integrated development environments (IDEs) aim to integrate all such help.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

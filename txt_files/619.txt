@@ -1,0 +1,18 @@
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Use of a static code analysis tool can help detect some possible problems.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+There exist a lot of different approaches for each of those tasks.
+
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Scripting and breakpointing is also part of this process.

@@ -1,0 +1,15 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Use of a static code analysis tool can help detect some possible problems.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Many applications use a mix of several languages in their construction and use.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.

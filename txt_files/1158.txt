@@ -1,0 +1,18 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Ideally, the programming language best suited for the task at hand will be selected.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+One approach popular for requirements analysis is Use Case analysis.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Integrated development environments (IDEs) aim to integrate all such help.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Different programming languages support different styles of programming (called programming paradigms).
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+There exist a lot of different approaches for each of those tasks.

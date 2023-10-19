@@ -1,0 +1,17 @@
+There exist a lot of different approaches for each of those tasks.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Programming languages are essential for software development.
+To produce machine code, the source code must either be compiled or transpiled.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+There are many approaches to the Software development process.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).

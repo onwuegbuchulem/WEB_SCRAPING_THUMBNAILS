@@ -1,0 +1,16 @@
+However, readability is more than just programming style.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Techniques like Code refactoring can enhance readability.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

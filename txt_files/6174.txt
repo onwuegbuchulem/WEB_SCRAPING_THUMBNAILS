@@ -1,0 +1,15 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Scripting and breakpointing is also part of this process.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+To produce machine code, the source code must either be compiled or transpiled.

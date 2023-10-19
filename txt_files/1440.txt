@@ -1,0 +1,14 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Integrated development environments (IDEs) aim to integrate all such help.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+ Following a consistent programming style often helps readability.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Integrated development environments (IDEs) aim to integrate all such help.

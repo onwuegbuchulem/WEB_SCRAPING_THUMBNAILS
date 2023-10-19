@@ -1,0 +1,15 @@
+One approach popular for requirements analysis is Use Case analysis.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Integrated development environments (IDEs) aim to integrate all such help.
+One approach popular for requirements analysis is Use Case analysis.
+Use of a static code analysis tool can help detect some possible problems.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+To produce machine code, the source code must either be compiled or transpiled.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

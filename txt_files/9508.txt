@@ -1,0 +1,18 @@
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+There exist a lot of different approaches for each of those tasks.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

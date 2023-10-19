@@ -1,0 +1,15 @@
+Programming languages are essential for software development.
+Techniques like Code refactoring can enhance readability.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Many applications use a mix of several languages in their construction and use.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Programming languages are essential for software development.
+Ideally, the programming language best suited for the task at hand will be selected.
+ Different programming languages support different styles of programming (called programming paradigms).

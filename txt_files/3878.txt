@@ -1,0 +1,16 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+There are many approaches to the Software development process.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+There exist a lot of different approaches for each of those tasks.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.

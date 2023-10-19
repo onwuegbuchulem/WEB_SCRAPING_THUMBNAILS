@@ -1,0 +1,15 @@
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many applications use a mix of several languages in their construction and use.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Programmable devices have existed for centuries.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Integrated development environments (IDEs) aim to integrate all such help.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Ideally, the programming language best suited for the task at hand will be selected.
+Scripting and breakpointing is also part of this process.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.

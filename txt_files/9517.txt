@@ -1,0 +1,15 @@
+However, readability is more than just programming style.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Ideally, the programming language best suited for the task at hand will be selected.
+Techniques like Code refactoring can enhance readability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Use of a static code analysis tool can help detect some possible problems.
+ Following a consistent programming style often helps readability.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Compiling takes the source code from a low-level programming language and converts it into machine code.

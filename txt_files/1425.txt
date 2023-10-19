@@ -1,0 +1,17 @@
+To produce machine code, the source code must either be compiled or transpiled.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+One approach popular for requirements analysis is Use Case analysis.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Normally the first step in debugging is to attempt to reproduce the problem.
+
+ Different programming languages support different styles of programming (called programming paradigms).
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Different programming languages support different styles of programming (called programming paradigms).

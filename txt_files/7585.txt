@@ -1,0 +1,15 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Techniques like Code refactoring can enhance readability.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+To produce machine code, the source code must either be compiled or transpiled.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Programming languages are essential for software development.

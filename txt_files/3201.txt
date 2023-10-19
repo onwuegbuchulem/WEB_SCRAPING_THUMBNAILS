@@ -1,0 +1,16 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+One approach popular for requirements analysis is Use Case analysis.
+Scripting and breakpointing is also part of this process.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Relatedly, software engineering combines engineering techniques and principles with software development.

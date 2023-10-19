@@ -1,0 +1,15 @@
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+There exist a lot of different approaches for each of those tasks.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, readability is more than just programming style.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Computer programmers are those who write computer software.
+Programming languages are essential for software development.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.

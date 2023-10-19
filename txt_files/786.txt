@@ -1,0 +1,17 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+To produce machine code, the source code must either be compiled or transpiled.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

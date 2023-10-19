@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+There exist a lot of different approaches for each of those tasks.
+Many applications use a mix of several languages in their construction and use.
+Techniques like Code refactoring can enhance readability.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Scripting and breakpointing is also part of this process.
+Integrated development environments (IDEs) aim to integrate all such help.
+Many applications use a mix of several languages in their construction and use.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Programming languages are essential for software development.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.

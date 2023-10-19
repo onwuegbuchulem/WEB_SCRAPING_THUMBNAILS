@@ -1,0 +1,17 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Integrated development environments (IDEs) aim to integrate all such help.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+There are many approaches to the Software development process.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Integrated development environments (IDEs) aim to integrate all such help.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.

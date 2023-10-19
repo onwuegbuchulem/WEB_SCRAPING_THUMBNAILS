@@ -1,0 +1,15 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many applications use a mix of several languages in their construction and use.
+This is interpreted into machine code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

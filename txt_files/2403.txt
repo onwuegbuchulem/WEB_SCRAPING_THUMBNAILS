@@ -1,0 +1,17 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Scripting and breakpointing is also part of this process.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Programming languages are essential for software development.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+One approach popular for requirements analysis is Use Case analysis.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.

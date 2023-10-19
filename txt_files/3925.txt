@@ -1,0 +1,17 @@
+Normally the first step in debugging is to attempt to reproduce the problem.
+Programming languages are essential for software development.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Programming languages are essential for software development.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Computer programmers are those who write computer software.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Code-breaking algorithms have also existed for centuries.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+To produce machine code, the source code must either be compiled or transpiled.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Following a consistent programming style often helps readability.

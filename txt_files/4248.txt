@@ -1,0 +1,16 @@
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Scripting and breakpointing is also part of this process.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+This is interpreted into machine code.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).

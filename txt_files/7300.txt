@@ -1,0 +1,15 @@
+To produce machine code, the source code must either be compiled or transpiled.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+However, readability is more than just programming style.

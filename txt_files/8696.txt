@@ -1,0 +1,15 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+To produce machine code, the source code must either be compiled or transpiled.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

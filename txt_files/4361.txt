@@ -1,0 +1,18 @@
+There are many approaches to the Software development process.
+One approach popular for requirements analysis is Use Case analysis.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Use of a static code analysis tool can help detect some possible problems.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Compiling takes the source code from a low-level programming language and converts it into machine code.

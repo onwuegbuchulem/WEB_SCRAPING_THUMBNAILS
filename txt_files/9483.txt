@@ -1,0 +1,15 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There exist a lot of different approaches for each of those tasks.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+To produce machine code, the source code must either be compiled or transpiled.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.

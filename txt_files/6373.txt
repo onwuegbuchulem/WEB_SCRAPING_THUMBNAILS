@@ -1,0 +1,15 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Techniques like Code refactoring can enhance readability.
+There are many approaches to the Software development process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There exist a lot of different approaches for each of those tasks.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+To produce machine code, the source code must either be compiled or transpiled.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.

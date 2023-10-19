@@ -1,0 +1,15 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Scripting and breakpointing is also part of this process.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Ideally, the programming language best suited for the task at hand will be selected.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+To produce machine code, the source code must either be compiled or transpiled.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.

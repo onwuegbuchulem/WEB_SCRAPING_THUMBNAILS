@@ -1,0 +1,15 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+To produce machine code, the source code must either be compiled or transpiled.
+There are many approaches to the Software development process.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Techniques like Code refactoring can enhance readability.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+To produce machine code, the source code must either be compiled or transpiled.
+To produce machine code, the source code must either be compiled or transpiled.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Many applications use a mix of several languages in their construction and use.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.

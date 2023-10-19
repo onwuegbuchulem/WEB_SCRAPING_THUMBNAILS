@@ -1,0 +1,15 @@
+Techniques like Code refactoring can enhance readability.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Use of a static code analysis tool can help detect some possible problems.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Integrated development environments (IDEs) aim to integrate all such help.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Programming languages are essential for software development.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Code-breaking algorithms have also existed for centuries.
+ Different programming languages support different styles of programming (called programming paradigms).
+Many applications use a mix of several languages in their construction and use.

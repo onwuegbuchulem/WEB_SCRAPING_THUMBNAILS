@@ -1,0 +1,15 @@
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Use of a static code analysis tool can help detect some possible problems.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+However, readability is more than just programming style.
+Scripting and breakpointing is also part of this process.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).

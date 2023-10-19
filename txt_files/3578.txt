@@ -1,0 +1,15 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Integrated development environments (IDEs) aim to integrate all such help.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+However, readability is more than just programming style.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Different programming languages support different styles of programming (called programming paradigms).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

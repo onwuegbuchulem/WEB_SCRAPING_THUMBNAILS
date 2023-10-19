@@ -1,0 +1,15 @@
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Scripting and breakpointing is also part of this process.
+To produce machine code, the source code must either be compiled or transpiled.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Programming languages are essential for software development.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

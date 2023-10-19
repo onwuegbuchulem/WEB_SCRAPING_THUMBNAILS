@@ -1,0 +1,19 @@
+One approach popular for requirements analysis is Use Case analysis.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Techniques like Code refactoring can enhance readability.
+To produce machine code, the source code must either be compiled or transpiled.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many applications use a mix of several languages in their construction and use.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, readability is more than just programming style.

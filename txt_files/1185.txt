@@ -1,0 +1,15 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+One approach popular for requirements analysis is Use Case analysis.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+
+Integrated development environments (IDEs) aim to integrate all such help.
+ Programs were mostly entered using punched cards or paper tape.

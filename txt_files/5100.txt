@@ -1,0 +1,16 @@
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+To produce machine code, the source code must either be compiled or transpiled.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+There are many approaches to the Software development process.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Integrated development environments (IDEs) aim to integrate all such help.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Techniques like Code refactoring can enhance readability.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.

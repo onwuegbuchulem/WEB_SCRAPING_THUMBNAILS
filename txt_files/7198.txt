@@ -1,0 +1,15 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

@@ -1,0 +1,16 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Programming languages are essential for software development.
+However, readability is more than just programming style.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

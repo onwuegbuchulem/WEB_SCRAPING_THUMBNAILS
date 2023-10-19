@@ -1,0 +1,15 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+One approach popular for requirements analysis is Use Case analysis.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ It is very difficult to determine what are the most popular modern programming languages.
+ It is very difficult to determine what are the most popular modern programming languages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+To produce machine code, the source code must either be compiled or transpiled.

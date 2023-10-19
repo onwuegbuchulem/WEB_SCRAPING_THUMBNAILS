@@ -1,0 +1,15 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Use of a static code analysis tool can help detect some possible problems.
+However, readability is more than just programming style.
+However, readability is more than just programming style.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ It is very difficult to determine what are the most popular modern programming languages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Techniques like Code refactoring can enhance readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.

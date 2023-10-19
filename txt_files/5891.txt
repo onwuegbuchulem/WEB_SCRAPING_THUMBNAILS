@@ -1,0 +1,15 @@
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Programming languages are essential for software development.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Scripting and breakpointing is also part of this process.
+There are many approaches to the Software development process.
+ Programs were mostly entered using punched cards or paper tape.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

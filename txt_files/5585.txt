@@ -1,0 +1,15 @@
+One approach popular for requirements analysis is Use Case analysis.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+This is interpreted into machine code.
+There are many approaches to the Software development process.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Normally the first step in debugging is to attempt to reproduce the problem.
+This is interpreted into machine code.

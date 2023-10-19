@@ -1,0 +1,15 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Programming languages are essential for software development.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+There exist a lot of different approaches for each of those tasks.
+However, readability is more than just programming style.
+Many applications use a mix of several languages in their construction and use.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Many applications use a mix of several languages in their construction and use.
+
+Many applications use a mix of several languages in their construction and use.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Compiling takes the source code from a low-level programming language and converts it into machine code.

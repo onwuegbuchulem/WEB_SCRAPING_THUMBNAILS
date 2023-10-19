@@ -1,0 +1,17 @@
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+One approach popular for requirements analysis is Use Case analysis.
+Use of a static code analysis tool can help detect some possible problems.
+To produce machine code, the source code must either be compiled or transpiled.
+There are many approaches to the Software development process.
+Ideally, the programming language best suited for the task at hand will be selected.
+Use of a static code analysis tool can help detect some possible problems.
+ Programmable devices have existed for centuries.
+Use of a static code analysis tool can help detect some possible problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ Computer programmers are those who write computer software.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

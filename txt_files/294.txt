@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Scripting and breakpointing is also part of this process.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Computer programmers are those who write computer software.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.

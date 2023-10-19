@@ -1,0 +1,19 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+One approach popular for requirements analysis is Use Case analysis.
+There are many approaches to the Software development process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Techniques like Code refactoring can enhance readability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Techniques like Code refactoring can enhance readability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Integrated development environments (IDEs) aim to integrate all such help.

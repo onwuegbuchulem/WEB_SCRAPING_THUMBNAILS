@@ -1,0 +1,19 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Many applications use a mix of several languages in their construction and use.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+There exist a lot of different approaches for each of those tasks.
+Programming languages are essential for software development.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

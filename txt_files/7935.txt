@@ -1,0 +1,16 @@
+However, readability is more than just programming style.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many applications use a mix of several languages in their construction and use.
+ It is very difficult to determine what are the most popular modern programming languages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.

@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Use of a static code analysis tool can help detect some possible problems.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+One approach popular for requirements analysis is Use Case analysis.

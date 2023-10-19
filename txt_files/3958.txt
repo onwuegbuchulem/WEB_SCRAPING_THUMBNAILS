@@ -1,0 +1,16 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, readability is more than just programming style.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ It is very difficult to determine what are the most popular modern programming languages.
+
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.

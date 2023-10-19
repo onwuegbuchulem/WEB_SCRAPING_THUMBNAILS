@@ -1,0 +1,15 @@
+One approach popular for requirements analysis is Use Case analysis.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+However, readability is more than just programming style.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Scripting and breakpointing is also part of this process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There are many approaches to the Software development process.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Following a consistent programming style often helps readability.
+ Code-breaking algorithms have also existed for centuries.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.

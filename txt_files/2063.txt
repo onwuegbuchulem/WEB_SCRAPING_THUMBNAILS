@@ -1,0 +1,17 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+To produce machine code, the source code must either be compiled or transpiled.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+However, readability is more than just programming style.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, readability is more than just programming style.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.

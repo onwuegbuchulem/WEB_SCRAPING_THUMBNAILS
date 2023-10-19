@@ -1,0 +1,16 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Integrated development environments (IDEs) aim to integrate all such help.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Many applications use a mix of several languages in their construction and use.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ It is very difficult to determine what are the most popular modern programming languages.
+
+There exist a lot of different approaches for each of those tasks.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

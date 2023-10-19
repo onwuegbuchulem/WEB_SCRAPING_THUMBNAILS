@@ -1,0 +1,16 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+This is interpreted into machine code.
+Use of a static code analysis tool can help detect some possible problems.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Scripting and breakpointing is also part of this process.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+One approach popular for requirements analysis is Use Case analysis.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Programming languages are essential for software development.
+ Programmable devices have existed for centuries.

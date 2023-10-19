@@ -1,0 +1,16 @@
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+This is interpreted into machine code.
+Use of a static code analysis tool can help detect some possible problems.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Programming languages are essential for software development.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.

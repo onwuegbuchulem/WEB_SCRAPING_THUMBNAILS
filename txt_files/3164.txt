@@ -1,0 +1,15 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+There are many approaches to the Software development process.

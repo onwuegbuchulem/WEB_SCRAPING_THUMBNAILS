@@ -1,0 +1,15 @@
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+There are many approaches to the Software development process.
+There are many approaches to the Software development process.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Scripting and breakpointing is also part of this process.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+One approach popular for requirements analysis is Use Case analysis.
+Ideally, the programming language best suited for the task at hand will be selected.
+ Computer programmers are those who write computer software.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Scripting and breakpointing is also part of this process.

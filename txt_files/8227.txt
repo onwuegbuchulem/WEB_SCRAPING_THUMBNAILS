@@ -1,0 +1,20 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+There are many approaches to the Software development process.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+To produce machine code, the source code must either be compiled or transpiled.
+Techniques like Code refactoring can enhance readability.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+There exist a lot of different approaches for each of those tasks.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Code-breaking algorithms have also existed for centuries.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+However, readability is more than just programming style.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.

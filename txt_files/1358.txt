@@ -1,0 +1,16 @@
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Many applications use a mix of several languages in their construction and use.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+There exist a lot of different approaches for each of those tasks.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Programs were mostly entered using punched cards or paper tape.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

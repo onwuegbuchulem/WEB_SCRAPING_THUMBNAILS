@@ -1,0 +1,17 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+There are many approaches to the Software development process.
+To produce machine code, the source code must either be compiled or transpiled.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Integrated development environments (IDEs) aim to integrate all such help.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+One approach popular for requirements analysis is Use Case analysis.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

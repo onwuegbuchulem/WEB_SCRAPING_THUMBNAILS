@@ -1,0 +1,16 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, readability is more than just programming style.
+Use of a static code analysis tool can help detect some possible problems.
+There are many approaches to the Software development process.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).

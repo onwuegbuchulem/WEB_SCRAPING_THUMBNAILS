@@ -1,0 +1,15 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Techniques like Code refactoring can enhance readability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+To produce machine code, the source code must either be compiled or transpiled.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

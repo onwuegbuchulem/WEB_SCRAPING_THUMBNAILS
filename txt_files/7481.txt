@@ -1,0 +1,16 @@
+Use of a static code analysis tool can help detect some possible problems.
+There are many approaches to the Software development process.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Programming languages are essential for software development.
+
+ Different programming languages support different styles of programming (called programming paradigms).
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).

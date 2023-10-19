@@ -1,0 +1,16 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

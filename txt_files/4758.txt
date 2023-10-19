@@ -1,0 +1,16 @@
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.

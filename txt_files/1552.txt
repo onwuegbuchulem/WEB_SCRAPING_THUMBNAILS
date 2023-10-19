@@ -1,0 +1,17 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Programming languages are essential for software development.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+There exist a lot of different approaches for each of those tasks.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Integrated development environments (IDEs) aim to integrate all such help.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

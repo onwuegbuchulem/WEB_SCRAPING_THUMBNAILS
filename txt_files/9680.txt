@@ -1,0 +1,16 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+There exist a lot of different approaches for each of those tasks.
+Many applications use a mix of several languages in their construction and use.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

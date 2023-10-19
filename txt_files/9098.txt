@@ -1,0 +1,15 @@
+To produce machine code, the source code must either be compiled or transpiled.
+To produce machine code, the source code must either be compiled or transpiled.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Programming languages are essential for software development.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.

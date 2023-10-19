@@ -1,0 +1,15 @@
+To produce machine code, the source code must either be compiled or transpiled.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+There are many approaches to the Software development process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Many applications use a mix of several languages in their construction and use.
+Integrated development environments (IDEs) aim to integrate all such help.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Scripting and breakpointing is also part of this process.
+Techniques like Code refactoring can enhance readability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There exist a lot of different approaches for each of those tasks.

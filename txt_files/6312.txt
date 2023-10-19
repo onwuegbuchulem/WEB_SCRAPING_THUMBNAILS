@@ -1,0 +1,15 @@
+Many applications use a mix of several languages in their construction and use.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+To produce machine code, the source code must either be compiled or transpiled.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Following a consistent programming style often helps readability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+One approach popular for requirements analysis is Use Case analysis.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

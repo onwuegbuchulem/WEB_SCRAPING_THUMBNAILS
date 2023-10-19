@@ -1,0 +1,15 @@
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Ideally, the programming language best suited for the task at hand will be selected.
+This is interpreted into machine code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

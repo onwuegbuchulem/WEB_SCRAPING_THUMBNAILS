@@ -1,0 +1,16 @@
+However, readability is more than just programming style.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Techniques like Code refactoring can enhance readability.
+To produce machine code, the source code must either be compiled or transpiled.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Scripting and breakpointing is also part of this process.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.

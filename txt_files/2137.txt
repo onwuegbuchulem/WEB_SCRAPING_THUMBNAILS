@@ -1,0 +1,15 @@
+Use of a static code analysis tool can help detect some possible problems.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+There exist a lot of different approaches for each of those tasks.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+To produce machine code, the source code must either be compiled or transpiled.
+To produce machine code, the source code must either be compiled or transpiled.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

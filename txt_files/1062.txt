@@ -1,0 +1,17 @@
+There exist a lot of different approaches for each of those tasks.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Ideally, the programming language best suited for the task at hand will be selected.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+There exist a lot of different approaches for each of those tasks.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+
+ It is very difficult to determine what are the most popular modern programming languages.
+ Computer programmers are those who write computer software.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.

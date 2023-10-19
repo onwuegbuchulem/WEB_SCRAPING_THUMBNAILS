@@ -1,0 +1,15 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Techniques like Code refactoring can enhance readability.
+There are many approaches to the Software development process.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+There exist a lot of different approaches for each of those tasks.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Techniques like Code refactoring can enhance readability.
+Scripting and breakpointing is also part of this process.

@@ -1,0 +1,15 @@
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+There are many approaches to the Software development process.
+To produce machine code, the source code must either be compiled or transpiled.
+One approach popular for requirements analysis is Use Case analysis.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Use of a static code analysis tool can help detect some possible problems.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

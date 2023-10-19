@@ -1,0 +1,15 @@
+Scripting and breakpointing is also part of this process.
+To produce machine code, the source code must either be compiled or transpiled.
+Integrated development environments (IDEs) aim to integrate all such help.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Scripting and breakpointing is also part of this process.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Computer programmers are those who write computer software.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+One approach popular for requirements analysis is Use Case analysis.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

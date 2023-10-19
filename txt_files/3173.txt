@@ -1,0 +1,15 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Integrated development environments (IDEs) aim to integrate all such help.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+One approach popular for requirements analysis is Use Case analysis.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Ideally, the programming language best suited for the task at hand will be selected.
+ Computer programmers are those who write computer software.

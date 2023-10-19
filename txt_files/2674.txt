@@ -1,0 +1,15 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Integrated development environments (IDEs) aim to integrate all such help.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+There exist a lot of different approaches for each of those tasks.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Scripting and breakpointing is also part of this process.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

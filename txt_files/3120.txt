@@ -1,0 +1,15 @@
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+One approach popular for requirements analysis is Use Case analysis.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Scripting and breakpointing is also part of this process.
+To produce machine code, the source code must either be compiled or transpiled.
+ Programs were mostly entered using punched cards or paper tape.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

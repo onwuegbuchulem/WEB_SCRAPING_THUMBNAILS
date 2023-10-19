@@ -1,0 +1,15 @@
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+There exist a lot of different approaches for each of those tasks.

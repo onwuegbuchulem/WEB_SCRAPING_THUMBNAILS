@@ -1,0 +1,18 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Scripting and breakpointing is also part of this process.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+One approach popular for requirements analysis is Use Case analysis.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Different programming languages support different styles of programming (called programming paradigms).
+Normally the first step in debugging is to attempt to reproduce the problem.

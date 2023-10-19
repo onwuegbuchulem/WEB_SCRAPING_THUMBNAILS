@@ -1,0 +1,17 @@
+However, readability is more than just programming style.
+Techniques like Code refactoring can enhance readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Use of a static code analysis tool can help detect some possible problems.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+This is interpreted into machine code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Normally the first step in debugging is to attempt to reproduce the problem.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.

@@ -1,0 +1,16 @@
+To produce machine code, the source code must either be compiled or transpiled.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Many applications use a mix of several languages in their construction and use.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Many applications use a mix of several languages in their construction and use.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Techniques like Code refactoring can enhance readability.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Normally the first step in debugging is to attempt to reproduce the problem.

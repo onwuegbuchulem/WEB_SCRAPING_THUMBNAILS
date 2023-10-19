@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+To produce machine code, the source code must either be compiled or transpiled.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Different programming languages support different styles of programming (called programming paradigms).
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Ideally, the programming language best suited for the task at hand will be selected.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Techniques like Code refactoring can enhance readability.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Ideally, the programming language best suited for the task at hand will be selected.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.

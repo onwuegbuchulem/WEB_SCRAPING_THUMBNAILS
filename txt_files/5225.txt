@@ -1,0 +1,15 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+There are many approaches to the Software development process.
+There exist a lot of different approaches for each of those tasks.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+There are many approaches to the Software development process.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Integrated development environments (IDEs) aim to integrate all such help.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Many applications use a mix of several languages in their construction and use.

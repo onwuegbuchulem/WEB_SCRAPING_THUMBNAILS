@@ -1,0 +1,15 @@
+There exist a lot of different approaches for each of those tasks.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+However, readability is more than just programming style.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Normally the first step in debugging is to attempt to reproduce the problem.

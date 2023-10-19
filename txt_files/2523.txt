@@ -1,0 +1,17 @@
+Scripting and breakpointing is also part of this process.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+However, readability is more than just programming style.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, readability is more than just programming style.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+There exist a lot of different approaches for each of those tasks.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Use of a static code analysis tool can help detect some possible problems.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.

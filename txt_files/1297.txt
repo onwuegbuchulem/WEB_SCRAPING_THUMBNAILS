@@ -1,0 +1,15 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+To produce machine code, the source code must either be compiled or transpiled.
+Use of a static code analysis tool can help detect some possible problems.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+There exist a lot of different approaches for each of those tasks.
+Scripting and breakpointing is also part of this process.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+There are many approaches to the Software development process.
+
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

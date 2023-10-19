@@ -1,0 +1,15 @@
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Ideally, the programming language best suited for the task at hand will be selected.
+There are many approaches to the Software development process.
+Many applications use a mix of several languages in their construction and use.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+There exist a lot of different approaches for each of those tasks.
+ Programmable devices have existed for centuries.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.

@@ -1,0 +1,16 @@
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+There are many approaches to the Software development process.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+However, readability is more than just programming style.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Programming languages are essential for software development.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many applications use a mix of several languages in their construction and use.
+Many applications use a mix of several languages in their construction and use.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Following a consistent programming style often helps readability.

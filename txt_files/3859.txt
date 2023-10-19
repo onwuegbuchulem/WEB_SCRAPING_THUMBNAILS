@@ -1,0 +1,17 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Scripting and breakpointing is also part of this process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+To produce machine code, the source code must either be compiled or transpiled.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+To produce machine code, the source code must either be compiled or transpiled.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Programs were mostly entered using punched cards or paper tape.
+ Following a consistent programming style often helps readability.

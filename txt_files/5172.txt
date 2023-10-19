@@ -1,0 +1,17 @@
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+There are many approaches to the Software development process.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Programming languages are essential for software development.
+Relatedly, software engineering combines engineering techniques and principles with software development.

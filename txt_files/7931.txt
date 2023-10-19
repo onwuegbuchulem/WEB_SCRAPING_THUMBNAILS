@@ -1,0 +1,15 @@
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Programming languages are essential for software development.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, readability is more than just programming style.

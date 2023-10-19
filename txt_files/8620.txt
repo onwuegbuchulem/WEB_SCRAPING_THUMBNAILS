@@ -1,0 +1,15 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+This is interpreted into machine code.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Programming languages are essential for software development.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Code-breaking algorithms have also existed for centuries.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.

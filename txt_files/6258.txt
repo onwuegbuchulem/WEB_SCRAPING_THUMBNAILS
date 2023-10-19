@@ -1,0 +1,15 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+One approach popular for requirements analysis is Use Case analysis.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ It is very difficult to determine what are the most popular modern programming languages.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

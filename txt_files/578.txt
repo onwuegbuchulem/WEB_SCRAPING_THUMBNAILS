@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Programming languages are essential for software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+There exist a lot of different approaches for each of those tasks.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Techniques like Code refactoring can enhance readability.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+To produce machine code, the source code must either be compiled or transpiled.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

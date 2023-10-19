@@ -1,0 +1,15 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Ideally, the programming language best suited for the task at hand will be selected.
+However, readability is more than just programming style.
+Programming languages are essential for software development.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+ Computer programmers are those who write computer software.

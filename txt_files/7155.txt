@@ -1,0 +1,16 @@
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Many applications use a mix of several languages in their construction and use.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Scripting and breakpointing is also part of this process.
+There exist a lot of different approaches for each of those tasks.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

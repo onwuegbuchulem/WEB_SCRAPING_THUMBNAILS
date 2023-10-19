@@ -1,0 +1,15 @@
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+There are many approaches to the Software development process.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+There exist a lot of different approaches for each of those tasks.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+To produce machine code, the source code must either be compiled or transpiled.
+Many applications use a mix of several languages in their construction and use.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+There exist a lot of different approaches for each of those tasks.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).

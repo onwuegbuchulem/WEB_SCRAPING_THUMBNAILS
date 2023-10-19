@@ -1,0 +1,15 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+This is interpreted into machine code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Different programming languages support different styles of programming (called programming paradigms).
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+To produce machine code, the source code must either be compiled or transpiled.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

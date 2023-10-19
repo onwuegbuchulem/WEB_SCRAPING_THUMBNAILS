@@ -1,0 +1,15 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Use of a static code analysis tool can help detect some possible problems.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.

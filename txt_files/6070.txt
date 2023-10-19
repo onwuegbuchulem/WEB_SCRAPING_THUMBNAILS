@@ -1,0 +1,16 @@
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+This is interpreted into machine code.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Ideally, the programming language best suited for the task at hand will be selected.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+There exist a lot of different approaches for each of those tasks.
+To produce machine code, the source code must either be compiled or transpiled.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Different programming languages support different styles of programming (called programming paradigms).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.

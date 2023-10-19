@@ -1,0 +1,17 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Techniques like Code refactoring can enhance readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Programming languages are essential for software development.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Different programming languages support different styles of programming (called programming paradigms).
+However, readability is more than just programming style.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

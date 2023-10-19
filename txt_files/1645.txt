@@ -1,0 +1,16 @@
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Code-breaking algorithms have also existed for centuries.
+ It is very difficult to determine what are the most popular modern programming languages.
+Integrated development environments (IDEs) aim to integrate all such help.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+Programming languages are essential for software development.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

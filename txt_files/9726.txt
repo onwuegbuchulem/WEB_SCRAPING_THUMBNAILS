@@ -1,0 +1,15 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+To produce machine code, the source code must either be compiled or transpiled.
+Use of a static code analysis tool can help detect some possible problems.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Many applications use a mix of several languages in their construction and use.
+To produce machine code, the source code must either be compiled or transpiled.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Use of a static code analysis tool can help detect some possible problems.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Techniques like Code refactoring can enhance readability.

@@ -1,0 +1,16 @@
+Use of a static code analysis tool can help detect some possible problems.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Use of a static code analysis tool can help detect some possible problems.
+Programming languages are essential for software development.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+It is usually easier to code in "high-level" languages than in "low-level" ones.

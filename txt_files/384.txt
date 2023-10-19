@@ -1,0 +1,16 @@
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+There exist a lot of different approaches for each of those tasks.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+There are many approaches to the Software development process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

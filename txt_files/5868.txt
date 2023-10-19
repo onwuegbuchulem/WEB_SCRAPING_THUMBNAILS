@@ -1,0 +1,16 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There exist a lot of different approaches for each of those tasks.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Ideally, the programming language best suited for the task at hand will be selected.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

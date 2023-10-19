@@ -1,0 +1,16 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, readability is more than just programming style.
+There exist a lot of different approaches for each of those tasks.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Ideally, the programming language best suited for the task at hand will be selected.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, readability is more than just programming style.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.

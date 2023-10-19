@@ -1,0 +1,16 @@
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Scripting and breakpointing is also part of this process.
+Normally the first step in debugging is to attempt to reproduce the problem.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Scripting and breakpointing is also part of this process.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Integrated development environments (IDEs) aim to integrate all such help.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+There exist a lot of different approaches for each of those tasks.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.

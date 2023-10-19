@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There are many approaches to the Software development process.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+To produce machine code, the source code must either be compiled or transpiled.
+Techniques like Code refactoring can enhance readability.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

@@ -1,0 +1,15 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+One approach popular for requirements analysis is Use Case analysis.
+Programming languages are essential for software development.
+Techniques like Code refactoring can enhance readability.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).

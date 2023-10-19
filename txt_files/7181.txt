@@ -1,0 +1,17 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+This is interpreted into machine code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+There exist a lot of different approaches for each of those tasks.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+There exist a lot of different approaches for each of those tasks.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

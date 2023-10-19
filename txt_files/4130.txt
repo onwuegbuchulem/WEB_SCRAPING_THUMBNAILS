@@ -1,0 +1,18 @@
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Scripting and breakpointing is also part of this process.
+This is interpreted into machine code.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+One approach popular for requirements analysis is Use Case analysis.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, readability is more than just programming style.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.

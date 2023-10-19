@@ -1,0 +1,15 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There are many approaches to the Software development process.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+One approach popular for requirements analysis is Use Case analysis.
+Integrated development environments (IDEs) aim to integrate all such help.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+To produce machine code, the source code must either be compiled or transpiled.
+Techniques like Code refactoring can enhance readability.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Normally the first step in debugging is to attempt to reproduce the problem.

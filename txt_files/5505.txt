@@ -1,0 +1,15 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Use of a static code analysis tool can help detect some possible problems.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+One approach popular for requirements analysis is Use Case analysis.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There exist a lot of different approaches for each of those tasks.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Different programming languages support different styles of programming (called programming paradigms).

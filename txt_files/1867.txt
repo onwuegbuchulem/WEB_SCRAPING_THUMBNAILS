@@ -1,0 +1,15 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Techniques like Code refactoring can enhance readability.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+One approach popular for requirements analysis is Use Case analysis.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+There exist a lot of different approaches for each of those tasks.

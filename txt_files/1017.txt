@@ -1,0 +1,15 @@
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+There are many approaches to the Software development process.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+This is interpreted into machine code.

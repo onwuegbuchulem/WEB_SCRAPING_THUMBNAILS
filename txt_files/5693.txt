@@ -1,0 +1,15 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.

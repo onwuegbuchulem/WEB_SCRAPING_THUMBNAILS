@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Techniques like Code refactoring can enhance readability.
+Integrated development environments (IDEs) aim to integrate all such help.
+Many applications use a mix of several languages in their construction and use.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Techniques like Code refactoring can enhance readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+ Following a consistent programming style often helps readability.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+ Programmable devices have existed for centuries.

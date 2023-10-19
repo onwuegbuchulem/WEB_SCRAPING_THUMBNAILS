@@ -1,0 +1,16 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+One approach popular for requirements analysis is Use Case analysis.
+Techniques like Code refactoring can enhance readability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Scripting and breakpointing is also part of this process.
+This is interpreted into machine code.
+Scripting and breakpointing is also part of this process.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

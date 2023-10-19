@@ -1,0 +1,15 @@
+Many applications use a mix of several languages in their construction and use.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Programming languages are essential for software development.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Programs were mostly entered using punched cards or paper tape.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

@@ -1,0 +1,15 @@
+Use of a static code analysis tool can help detect some possible problems.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+One approach popular for requirements analysis is Use Case analysis.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There exist a lot of different approaches for each of those tasks.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

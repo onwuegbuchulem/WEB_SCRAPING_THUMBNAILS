@@ -1,0 +1,16 @@
+One approach popular for requirements analysis is Use Case analysis.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Many applications use a mix of several languages in their construction and use.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Different programming languages support different styles of programming (called programming paradigms).

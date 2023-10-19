@@ -1,0 +1,15 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Integrated development environments (IDEs) aim to integrate all such help.
+Integrated development environments (IDEs) aim to integrate all such help.
+Ideally, the programming language best suited for the task at hand will be selected.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

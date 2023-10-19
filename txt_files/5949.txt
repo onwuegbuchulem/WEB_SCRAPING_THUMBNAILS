@@ -1,0 +1,15 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Scripting and breakpointing is also part of this process.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Programming languages are essential for software development.
+ Code-breaking algorithms have also existed for centuries.
+However, readability is more than just programming style.

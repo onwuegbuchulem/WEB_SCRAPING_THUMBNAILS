@@ -1,0 +1,20 @@
+Programming languages are essential for software development.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Techniques like Code refactoring can enhance readability.
+One approach popular for requirements analysis is Use Case analysis.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+There exist a lot of different approaches for each of those tasks.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, readability is more than just programming style.
+It is usually easier to code in "high-level" languages than in "low-level" ones.

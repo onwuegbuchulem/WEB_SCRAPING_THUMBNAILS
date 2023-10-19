@@ -1,0 +1,15 @@
+However, readability is more than just programming style.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+There exist a lot of different approaches for each of those tasks.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+There exist a lot of different approaches for each of those tasks.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Code-breaking algorithms have also existed for centuries.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, readability is more than just programming style.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

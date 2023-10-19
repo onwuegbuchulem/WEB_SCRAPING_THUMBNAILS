@@ -1,0 +1,15 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+There are many approaches to the Software development process.
+To produce machine code, the source code must either be compiled or transpiled.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.

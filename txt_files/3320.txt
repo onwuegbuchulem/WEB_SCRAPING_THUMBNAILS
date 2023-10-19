@@ -1,0 +1,15 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+There exist a lot of different approaches for each of those tasks.
+Many applications use a mix of several languages in their construction and use.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+There are many approaches to the Software development process.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+There exist a lot of different approaches for each of those tasks.

@@ -1,0 +1,17 @@
+Scripting and breakpointing is also part of this process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Ideally, the programming language best suited for the task at hand will be selected.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Techniques like Code refactoring can enhance readability.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Many applications use a mix of several languages in their construction and use.

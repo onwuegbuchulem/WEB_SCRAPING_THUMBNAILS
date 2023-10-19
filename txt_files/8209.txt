@@ -1,0 +1,15 @@
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Programming languages are essential for software development.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+One approach popular for requirements analysis is Use Case analysis.
+To produce machine code, the source code must either be compiled or transpiled.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

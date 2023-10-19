@@ -1,0 +1,16 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+One approach popular for requirements analysis is Use Case analysis.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There exist a lot of different approaches for each of those tasks.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Programming languages are essential for software development.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Programming languages are essential for software development.

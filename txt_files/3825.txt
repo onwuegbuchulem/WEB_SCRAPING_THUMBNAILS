@@ -1,0 +1,15 @@
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many applications use a mix of several languages in their construction and use.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+One approach popular for requirements analysis is Use Case analysis.
+This is interpreted into machine code.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

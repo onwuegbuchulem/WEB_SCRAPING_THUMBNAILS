@@ -1,0 +1,15 @@
+Techniques like Code refactoring can enhance readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+One approach popular for requirements analysis is Use Case analysis.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Different programming languages support different styles of programming (called programming paradigms).
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.

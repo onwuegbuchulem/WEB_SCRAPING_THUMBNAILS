@@ -1,0 +1,16 @@
+Use of a static code analysis tool can help detect some possible problems.
+Many applications use a mix of several languages in their construction and use.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+There exist a lot of different approaches for each of those tasks.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

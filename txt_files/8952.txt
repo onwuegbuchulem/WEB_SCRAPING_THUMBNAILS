@@ -1,0 +1,17 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Use of a static code analysis tool can help detect some possible problems.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+However, readability is more than just programming style.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many applications use a mix of several languages in their construction and use.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Use of a static code analysis tool can help detect some possible problems.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

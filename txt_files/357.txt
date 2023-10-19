@@ -1,0 +1,15 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Many applications use a mix of several languages in their construction and use.
+Many applications use a mix of several languages in their construction and use.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

@@ -1,0 +1,17 @@
+Use of a static code analysis tool can help detect some possible problems.
+Many applications use a mix of several languages in their construction and use.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+There exist a lot of different approaches for each of those tasks.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+One approach popular for requirements analysis is Use Case analysis.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+However, readability is more than just programming style.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.

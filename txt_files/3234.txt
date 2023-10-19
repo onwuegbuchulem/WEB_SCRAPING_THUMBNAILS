@@ -1,0 +1,17 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Many applications use a mix of several languages in their construction and use.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

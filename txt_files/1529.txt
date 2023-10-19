@@ -1,0 +1,15 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Programming languages are essential for software development.
+To produce machine code, the source code must either be compiled or transpiled.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+To produce machine code, the source code must either be compiled or transpiled.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Compiling takes the source code from a low-level programming language and converts it into machine code.

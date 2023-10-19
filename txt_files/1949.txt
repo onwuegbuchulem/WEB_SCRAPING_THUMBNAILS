@@ -1,0 +1,15 @@
+To produce machine code, the source code must either be compiled or transpiled.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, readability is more than just programming style.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Many applications use a mix of several languages in their construction and use.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+There are many approaches to the Software development process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+There are many approaches to the Software development process.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Different programming languages support different styles of programming (called programming paradigms).
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Scripting and breakpointing is also part of this process.

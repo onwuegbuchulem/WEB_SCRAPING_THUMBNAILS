@@ -1,0 +1,15 @@
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+To produce machine code, the source code must either be compiled or transpiled.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+There are many approaches to the Software development process.
+Programming languages are essential for software development.
+One approach popular for requirements analysis is Use Case analysis.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.

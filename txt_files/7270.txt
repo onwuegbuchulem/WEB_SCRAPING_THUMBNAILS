@@ -1,0 +1,15 @@
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+To produce machine code, the source code must either be compiled or transpiled.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Many applications use a mix of several languages in their construction and use.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Integrated development environments (IDEs) aim to integrate all such help.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

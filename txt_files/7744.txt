@@ -1,0 +1,16 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Following a consistent programming style often helps readability.
+However, readability is more than just programming style.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

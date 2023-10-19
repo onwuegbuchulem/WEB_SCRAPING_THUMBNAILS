@@ -1,0 +1,19 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Programming languages are essential for software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Techniques like Code refactoring can enhance readability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Programmable devices have existed for centuries.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

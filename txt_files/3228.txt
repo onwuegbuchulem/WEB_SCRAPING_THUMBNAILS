@@ -1,0 +1,15 @@
+Programming languages are essential for software development.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Ideally, the programming language best suited for the task at hand will be selected.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Techniques like Code refactoring can enhance readability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ It is very difficult to determine what are the most popular modern programming languages.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

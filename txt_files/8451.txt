@@ -1,0 +1,15 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Use of a static code analysis tool can help detect some possible problems.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).

@@ -1,0 +1,15 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Many applications use a mix of several languages in their construction and use.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+One approach popular for requirements analysis is Use Case analysis.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Integrated development environments (IDEs) aim to integrate all such help.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Integrated development environments (IDEs) aim to integrate all such help.
+There exist a lot of different approaches for each of those tasks.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Many applications use a mix of several languages in their construction and use.

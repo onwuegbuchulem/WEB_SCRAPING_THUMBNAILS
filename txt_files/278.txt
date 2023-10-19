@@ -1,0 +1,17 @@
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Scripting and breakpointing is also part of this process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+One approach popular for requirements analysis is Use Case analysis.
+However, readability is more than just programming style.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+It is usually easier to code in "high-level" languages than in "low-level" ones.

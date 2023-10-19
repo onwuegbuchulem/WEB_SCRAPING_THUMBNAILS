@@ -1,0 +1,16 @@
+Many applications use a mix of several languages in their construction and use.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+One approach popular for requirements analysis is Use Case analysis.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+To produce machine code, the source code must either be compiled or transpiled.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+This is interpreted into machine code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.

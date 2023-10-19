@@ -1,0 +1,15 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+However, readability is more than just programming style.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Techniques like Code refactoring can enhance readability.
+Programming languages are essential for software development.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Scripting and breakpointing is also part of this process.
+
+Many applications use a mix of several languages in their construction and use.
+One approach popular for requirements analysis is Use Case analysis.
+To produce machine code, the source code must either be compiled or transpiled.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).

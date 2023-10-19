@@ -1,0 +1,17 @@
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+This is interpreted into machine code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+To produce machine code, the source code must either be compiled or transpiled.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Computer programmers are those who write computer software.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.

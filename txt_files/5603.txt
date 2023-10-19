@@ -1,0 +1,17 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Scripting and breakpointing is also part of this process.

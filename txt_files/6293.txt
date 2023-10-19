@@ -1,0 +1,18 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Programming languages are essential for software development.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Integrated development environments (IDEs) aim to integrate all such help.
+Use of a static code analysis tool can help detect some possible problems.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.

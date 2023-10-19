@@ -1,0 +1,16 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+This is interpreted into machine code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+To produce machine code, the source code must either be compiled or transpiled.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Use of a static code analysis tool can help detect some possible problems.

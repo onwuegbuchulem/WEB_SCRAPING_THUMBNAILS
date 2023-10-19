@@ -1,0 +1,17 @@
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+There are many approaches to the Software development process.
+Use of a static code analysis tool can help detect some possible problems.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

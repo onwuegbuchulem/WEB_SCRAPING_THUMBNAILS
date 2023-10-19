@@ -1,0 +1,15 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Programming languages are essential for software development.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Scripting and breakpointing is also part of this process.
+Techniques like Code refactoring can enhance readability.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Programs were mostly entered using punched cards or paper tape.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Many applications use a mix of several languages in their construction and use.

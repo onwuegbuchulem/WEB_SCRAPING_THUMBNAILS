@@ -1,0 +1,16 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Scripting and breakpointing is also part of this process.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Different programming languages support different styles of programming (called programming paradigms).
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.

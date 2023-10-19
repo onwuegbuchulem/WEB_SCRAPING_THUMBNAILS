@@ -1,0 +1,16 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.

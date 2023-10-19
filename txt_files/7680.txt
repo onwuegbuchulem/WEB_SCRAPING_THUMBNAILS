@@ -1,0 +1,17 @@
+To produce machine code, the source code must either be compiled or transpiled.
+There are many approaches to the Software development process.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, readability is more than just programming style.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+There exist a lot of different approaches for each of those tasks.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, readability is more than just programming style.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

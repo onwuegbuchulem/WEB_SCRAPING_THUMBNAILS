@@ -1,0 +1,16 @@
+Techniques like Code refactoring can enhance readability.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Integrated development environments (IDEs) aim to integrate all such help.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, readability is more than just programming style.
+Compiling takes the source code from a low-level programming language and converts it into machine code.

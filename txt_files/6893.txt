@@ -1,0 +1,15 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Programmable devices have existed for centuries.

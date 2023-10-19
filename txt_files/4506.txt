@@ -1,0 +1,16 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+To produce machine code, the source code must either be compiled or transpiled.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+To produce machine code, the source code must either be compiled or transpiled.

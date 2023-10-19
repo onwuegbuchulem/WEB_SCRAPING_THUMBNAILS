@@ -1,0 +1,15 @@
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Integrated development environments (IDEs) aim to integrate all such help.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

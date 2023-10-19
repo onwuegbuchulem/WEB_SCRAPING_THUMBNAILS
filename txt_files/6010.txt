@@ -1,0 +1,16 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+One approach popular for requirements analysis is Use Case analysis.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+One approach popular for requirements analysis is Use Case analysis.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Scripting and breakpointing is also part of this process.
+One approach popular for requirements analysis is Use Case analysis.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.

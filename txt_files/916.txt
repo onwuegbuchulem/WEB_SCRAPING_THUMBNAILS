@@ -1,0 +1,17 @@
+There exist a lot of different approaches for each of those tasks.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+To produce machine code, the source code must either be compiled or transpiled.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Different programming languages support different styles of programming (called programming paradigms).
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+ Programmable devices have existed for centuries.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

@@ -1,0 +1,17 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+There exist a lot of different approaches for each of those tasks.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+To produce machine code, the source code must either be compiled or transpiled.
+This is interpreted into machine code.
+To produce machine code, the source code must either be compiled or transpiled.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+There are many approaches to the Software development process.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.

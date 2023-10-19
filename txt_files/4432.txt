@@ -1,0 +1,15 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Use of a static code analysis tool can help detect some possible problems.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Integrated development environments (IDEs) aim to integrate all such help.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

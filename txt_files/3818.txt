@@ -1,0 +1,15 @@
+One approach popular for requirements analysis is Use Case analysis.
+Many applications use a mix of several languages in their construction and use.
+Scripting and breakpointing is also part of this process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+There are many approaches to the Software development process.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+There exist a lot of different approaches for each of those tasks.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.

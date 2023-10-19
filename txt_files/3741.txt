@@ -1,0 +1,15 @@
+Use of a static code analysis tool can help detect some possible problems.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+This is interpreted into machine code.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

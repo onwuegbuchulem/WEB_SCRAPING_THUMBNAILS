@@ -1,0 +1,17 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Use of a static code analysis tool can help detect some possible problems.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

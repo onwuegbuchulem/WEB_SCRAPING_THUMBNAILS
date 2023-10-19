@@ -1,0 +1,17 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Integrated development environments (IDEs) aim to integrate all such help.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Many applications use a mix of several languages in their construction and use.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.

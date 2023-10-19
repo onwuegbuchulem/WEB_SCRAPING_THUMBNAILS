@@ -1,0 +1,15 @@
+Many applications use a mix of several languages in their construction and use.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Programs were mostly entered using punched cards or paper tape.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+There exist a lot of different approaches for each of those tasks.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Programming languages are essential for software development.

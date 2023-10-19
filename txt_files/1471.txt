@@ -1,0 +1,15 @@
+Normally the first step in debugging is to attempt to reproduce the problem.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+To produce machine code, the source code must either be compiled or transpiled.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+One approach popular for requirements analysis is Use Case analysis.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+To produce machine code, the source code must either be compiled or transpiled.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Scripting and breakpointing is also part of this process.

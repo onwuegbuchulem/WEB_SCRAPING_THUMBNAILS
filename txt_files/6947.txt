@@ -1,0 +1,15 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Integrated development environments (IDEs) aim to integrate all such help.
+Integrated development environments (IDEs) aim to integrate all such help.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Use of a static code analysis tool can help detect some possible problems.
+Techniques like Code refactoring can enhance readability.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+One approach popular for requirements analysis is Use Case analysis.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Computer programmers are those who write computer software.
+Ideally, the programming language best suited for the task at hand will be selected.

@@ -1,0 +1,15 @@
+To produce machine code, the source code must either be compiled or transpiled.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Many applications use a mix of several languages in their construction and use.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Use of a static code analysis tool can help detect some possible problems.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

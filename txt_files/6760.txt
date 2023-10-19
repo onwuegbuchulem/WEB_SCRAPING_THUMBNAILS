@@ -1,0 +1,15 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+There exist a lot of different approaches for each of those tasks.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Use of a static code analysis tool can help detect some possible problems.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.

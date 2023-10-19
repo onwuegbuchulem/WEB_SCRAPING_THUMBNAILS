@@ -1,0 +1,15 @@
+One approach popular for requirements analysis is Use Case analysis.
+However, readability is more than just programming style.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+One approach popular for requirements analysis is Use Case analysis.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Scripting and breakpointing is also part of this process.
+However, readability is more than just programming style.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

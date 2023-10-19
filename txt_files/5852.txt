@@ -1,0 +1,15 @@
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Integrated development environments (IDEs) aim to integrate all such help.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Use of a static code analysis tool can help detect some possible problems.
+There exist a lot of different approaches for each of those tasks.
+ Following a consistent programming style often helps readability.

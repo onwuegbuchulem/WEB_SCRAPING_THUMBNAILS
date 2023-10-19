@@ -1,0 +1,15 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There are many approaches to the Software development process.
+There exist a lot of different approaches for each of those tasks.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Integrated development environments (IDEs) aim to integrate all such help.
+Techniques like Code refactoring can enhance readability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Ideally, the programming language best suited for the task at hand will be selected.
+To produce machine code, the source code must either be compiled or transpiled.
+To produce machine code, the source code must either be compiled or transpiled.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

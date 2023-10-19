@@ -1,0 +1,15 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Techniques like Code refactoring can enhance readability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Programs were mostly entered using punched cards or paper tape.
+ Following a consistent programming style often helps readability.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Programs were mostly entered using punched cards or paper tape.

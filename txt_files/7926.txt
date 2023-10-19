@@ -1,0 +1,15 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+ Programmable devices have existed for centuries.
+ Programmable devices have existed for centuries.

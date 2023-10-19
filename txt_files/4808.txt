@@ -1,0 +1,16 @@
+This is interpreted into machine code.
+There are many approaches to the Software development process.
+Many applications use a mix of several languages in their construction and use.
+To produce machine code, the source code must either be compiled or transpiled.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+To produce machine code, the source code must either be compiled or transpiled.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+There are many approaches to the Software development process.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.

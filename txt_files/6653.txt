@@ -1,0 +1,15 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+This is interpreted into machine code.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Techniques like Code refactoring can enhance readability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+This is interpreted into machine code.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

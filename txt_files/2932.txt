@@ -1,0 +1,15 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+One approach popular for requirements analysis is Use Case analysis.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+However, readability is more than just programming style.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Many applications use a mix of several languages in their construction and use.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Normally the first step in debugging is to attempt to reproduce the problem.

@@ -1,0 +1,15 @@
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+To produce machine code, the source code must either be compiled or transpiled.

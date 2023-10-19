@@ -1,0 +1,16 @@
+Many applications use a mix of several languages in their construction and use.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Many applications use a mix of several languages in their construction and use.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+However, readability is more than just programming style.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.

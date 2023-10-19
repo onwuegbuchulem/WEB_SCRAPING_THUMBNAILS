@@ -1,0 +1,16 @@
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Many applications use a mix of several languages in their construction and use.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

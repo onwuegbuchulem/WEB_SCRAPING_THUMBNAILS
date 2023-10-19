@@ -1,0 +1,15 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Techniques like Code refactoring can enhance readability.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+There are many approaches to the Software development process.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

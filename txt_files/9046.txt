@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Integrated development environments (IDEs) aim to integrate all such help.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Techniques like Code refactoring can enhance readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

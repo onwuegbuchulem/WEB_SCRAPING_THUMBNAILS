@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+This is interpreted into machine code.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Normally the first step in debugging is to attempt to reproduce the problem.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Techniques like Code refactoring can enhance readability.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ It is very difficult to determine what are the most popular modern programming languages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Integrated development environments (IDEs) aim to integrate all such help.

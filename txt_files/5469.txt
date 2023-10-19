@@ -1,0 +1,15 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Use of a static code analysis tool can help detect some possible problems.
+Many applications use a mix of several languages in their construction and use.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, readability is more than just programming style.
+Many applications use a mix of several languages in their construction and use.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+There exist a lot of different approaches for each of those tasks.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.

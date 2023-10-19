@@ -1,0 +1,15 @@
+Many applications use a mix of several languages in their construction and use.
+Use of a static code analysis tool can help detect some possible problems.
+Programming languages are essential for software development.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Programming languages are essential for software development.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.

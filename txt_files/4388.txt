@@ -1,0 +1,15 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+There exist a lot of different approaches for each of those tasks.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Techniques like Code refactoring can enhance readability.
+Techniques like Code refactoring can enhance readability.
+Programming languages are essential for software development.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many applications use a mix of several languages in their construction and use.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

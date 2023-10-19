@@ -1,0 +1,17 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+To produce machine code, the source code must either be compiled or transpiled.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Many applications use a mix of several languages in their construction and use.
+There are many approaches to the Software development process.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+To produce machine code, the source code must either be compiled or transpiled.

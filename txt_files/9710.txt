@@ -1,0 +1,15 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+There are many approaches to the Software development process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+To produce machine code, the source code must either be compiled or transpiled.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

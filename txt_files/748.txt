@@ -1,0 +1,15 @@
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Techniques like Code refactoring can enhance readability.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+However, readability is more than just programming style.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+However, readability is more than just programming style.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.

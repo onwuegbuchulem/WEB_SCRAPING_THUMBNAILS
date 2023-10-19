@@ -1,0 +1,16 @@
+To produce machine code, the source code must either be compiled or transpiled.
+One approach popular for requirements analysis is Use Case analysis.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+This is interpreted into machine code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Techniques like Code refactoring can enhance readability.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.

@@ -1,0 +1,17 @@
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Scripting and breakpointing is also part of this process.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+To produce machine code, the source code must either be compiled or transpiled.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Use of a static code analysis tool can help detect some possible problems.
+Ideally, the programming language best suited for the task at hand will be selected.

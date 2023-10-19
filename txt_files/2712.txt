@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Ideally, the programming language best suited for the task at hand will be selected.
+Use of a static code analysis tool can help detect some possible problems.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Scripting and breakpointing is also part of this process.
+ Different programming languages support different styles of programming (called programming paradigms).
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.

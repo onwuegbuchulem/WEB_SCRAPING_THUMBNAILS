@@ -1,0 +1,18 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, readability is more than just programming style.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Programming languages are essential for software development.
+Programming languages are essential for software development.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+There are many approaches to the Software development process.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.

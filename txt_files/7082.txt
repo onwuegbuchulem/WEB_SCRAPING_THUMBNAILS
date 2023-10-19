@@ -1,0 +1,15 @@
+Normally the first step in debugging is to attempt to reproduce the problem.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Use of a static code analysis tool can help detect some possible problems.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Programs were mostly entered using punched cards or paper tape.
+To produce machine code, the source code must either be compiled or transpiled.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.

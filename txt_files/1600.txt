@@ -1,0 +1,18 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There are many approaches to the Software development process.
+Many applications use a mix of several languages in their construction and use.
+One approach popular for requirements analysis is Use Case analysis.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Programming languages are essential for software development.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

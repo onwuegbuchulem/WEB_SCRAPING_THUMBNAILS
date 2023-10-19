@@ -1,0 +1,15 @@
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+This is interpreted into machine code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Integrated development environments (IDEs) aim to integrate all such help.
+Use of a static code analysis tool can help detect some possible problems.
+One approach popular for requirements analysis is Use Case analysis.
+There are many approaches to the Software development process.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+One approach popular for requirements analysis is Use Case analysis.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

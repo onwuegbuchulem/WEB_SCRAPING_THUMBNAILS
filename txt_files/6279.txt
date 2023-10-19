@@ -1,0 +1,15 @@
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+However, readability is more than just programming style.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Techniques like Code refactoring can enhance readability.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Integrated development environments (IDEs) aim to integrate all such help.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.

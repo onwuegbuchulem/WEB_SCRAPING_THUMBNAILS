@@ -1,0 +1,15 @@
+Use of a static code analysis tool can help detect some possible problems.
+Use of a static code analysis tool can help detect some possible problems.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Scripting and breakpointing is also part of this process.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).

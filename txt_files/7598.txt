@@ -1,0 +1,17 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Many applications use a mix of several languages in their construction and use.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+There exist a lot of different approaches for each of those tasks.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+One approach popular for requirements analysis is Use Case analysis.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+One approach popular for requirements analysis is Use Case analysis.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.

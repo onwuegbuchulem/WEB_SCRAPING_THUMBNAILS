@@ -1,0 +1,15 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Ideally, the programming language best suited for the task at hand will be selected.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Scripting and breakpointing is also part of this process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+To produce machine code, the source code must either be compiled or transpiled.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+However, readability is more than just programming style.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+To produce machine code, the source code must either be compiled or transpiled.

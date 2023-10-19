@@ -1,0 +1,15 @@
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+To produce machine code, the source code must either be compiled or transpiled.
+Techniques like Code refactoring can enhance readability.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+This is interpreted into machine code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+To produce machine code, the source code must either be compiled or transpiled.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.

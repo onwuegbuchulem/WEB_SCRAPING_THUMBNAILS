@@ -1,0 +1,15 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Programming languages are essential for software development.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+One approach popular for requirements analysis is Use Case analysis.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+This is interpreted into machine code.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.

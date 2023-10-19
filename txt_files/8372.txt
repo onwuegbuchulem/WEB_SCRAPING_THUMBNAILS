@@ -1,0 +1,15 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+There exist a lot of different approaches for each of those tasks.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+There are many approaches to the Software development process.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+One approach popular for requirements analysis is Use Case analysis.
+Integrated development environments (IDEs) aim to integrate all such help.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Many applications use a mix of several languages in their construction and use.
+Integrated development environments (IDEs) aim to integrate all such help.
+There exist a lot of different approaches for each of those tasks.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.

@@ -1,0 +1,16 @@
+This is interpreted into machine code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+One approach popular for requirements analysis is Use Case analysis.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.

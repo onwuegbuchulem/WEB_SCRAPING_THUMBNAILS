@@ -1,0 +1,15 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Programs were mostly entered using punched cards or paper tape.
+Programming languages are essential for software development.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).

@@ -1,0 +1,17 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+One approach popular for requirements analysis is Use Case analysis.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, readability is more than just programming style.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).

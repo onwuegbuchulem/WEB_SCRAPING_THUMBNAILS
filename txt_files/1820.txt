@@ -1,0 +1,18 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+There are many approaches to the Software development process.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+To produce machine code, the source code must either be compiled or transpiled.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+
+ Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+ Programmable devices have existed for centuries.
+Programming languages are essential for software development.
+ Code-breaking algorithms have also existed for centuries.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

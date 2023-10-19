@@ -1,0 +1,16 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+There are many approaches to the Software development process.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+However, readability is more than just programming style.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

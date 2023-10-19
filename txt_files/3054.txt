@@ -1,0 +1,15 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+One approach popular for requirements analysis is Use Case analysis.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, readability is more than just programming style.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Programs were mostly entered using punched cards or paper tape.
+ Programmable devices have existed for centuries.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Following a consistent programming style often helps readability.
+There are many approaches to the Software development process.

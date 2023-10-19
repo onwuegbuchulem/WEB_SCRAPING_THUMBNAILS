@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Many applications use a mix of several languages in their construction and use.
+There exist a lot of different approaches for each of those tasks.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Programming languages are essential for software development.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Programming languages are essential for software development.
+However, readability is more than just programming style.
+Scripting and breakpointing is also part of this process.
+There exist a lot of different approaches for each of those tasks.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

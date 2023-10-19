@@ -1,0 +1,17 @@
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+However, readability is more than just programming style.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Integrated development environments (IDEs) aim to integrate all such help.
+Use of a static code analysis tool can help detect some possible problems.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Integrated development environments (IDEs) aim to integrate all such help.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.

@@ -1,0 +1,17 @@
+Many applications use a mix of several languages in their construction and use.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+One approach popular for requirements analysis is Use Case analysis.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Scripting and breakpointing is also part of this process.
+Scripting and breakpointing is also part of this process.
+ Code-breaking algorithms have also existed for centuries.
+ Following a consistent programming style often helps readability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

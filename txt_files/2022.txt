@@ -1,0 +1,16 @@
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Normally the first step in debugging is to attempt to reproduce the problem.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, readability is more than just programming style.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, readability is more than just programming style.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.

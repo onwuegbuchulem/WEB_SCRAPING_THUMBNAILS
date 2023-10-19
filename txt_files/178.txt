@@ -1,0 +1,15 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Programming languages are essential for software development.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Many applications use a mix of several languages in their construction and use.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+It is usually easier to code in "high-level" languages than in "low-level" ones.

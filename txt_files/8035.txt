@@ -1,0 +1,15 @@
+Programming languages are essential for software development.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Integrated development environments (IDEs) aim to integrate all such help.
+To produce machine code, the source code must either be compiled or transpiled.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+Many applications use a mix of several languages in their construction and use.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.

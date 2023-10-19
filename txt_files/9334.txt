@@ -1,0 +1,16 @@
+Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+There are many approaches to the Software development process.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Techniques like Code refactoring can enhance readability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.

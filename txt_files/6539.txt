@@ -1,0 +1,17 @@
+Relatedly, software engineering combines engineering techniques and principles with software development.
+There are many approaches to the Software development process.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Scripting and breakpointing is also part of this process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+
+ Code-breaking algorithms have also existed for centuries.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

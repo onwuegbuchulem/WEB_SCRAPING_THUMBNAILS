@@ -1,0 +1,16 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many applications use a mix of several languages in their construction and use.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many applications use a mix of several languages in their construction and use.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.

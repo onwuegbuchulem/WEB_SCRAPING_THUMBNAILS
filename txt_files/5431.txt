@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+There exist a lot of different approaches for each of those tasks.
+There exist a lot of different approaches for each of those tasks.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

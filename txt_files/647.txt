@@ -1,0 +1,16 @@
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Normally the first step in debugging is to attempt to reproduce the problem.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Use of a static code analysis tool can help detect some possible problems.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ It is very difficult to determine what are the most popular modern programming languages.
+However, readability is more than just programming style.

@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+There exist a lot of different approaches for each of those tasks.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, readability is more than just programming style.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+To produce machine code, the source code must either be compiled or transpiled.
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Use of a static code analysis tool can help detect some possible problems.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

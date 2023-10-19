@@ -1,0 +1,15 @@
+To produce machine code, the source code must either be compiled or transpiled.
+Techniques like Code refactoring can enhance readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There are many approaches to the Software development process.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+There exist a lot of different approaches for each of those tasks.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+To produce machine code, the source code must either be compiled or transpiled.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Code-breaking algorithms have also existed for centuries.

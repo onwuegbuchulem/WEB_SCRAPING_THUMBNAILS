@@ -1,0 +1,15 @@
+Relatedly, software engineering combines engineering techniques and principles with software development.
+Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Techniques like Code refactoring can enhance readability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Integrated development environments (IDEs) aim to integrate all such help.
+Compiling takes the source code from a low-level programming language and converts it into machine code.
+There are many approaches to the Software development process.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Use of a static code analysis tool can help detect some possible problems.
+There are many approaches to the Software development process.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.

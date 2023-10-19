@@ -1,0 +1,15 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There are many approaches to the Software development process.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+There exist a lot of different approaches for each of those tasks.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+There exist a lot of different approaches for each of those tasks.
+This is interpreted into machine code.

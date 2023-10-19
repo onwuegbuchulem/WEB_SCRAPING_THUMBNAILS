@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+Many applications use a mix of several languages in their construction and use.
+Integrated development environments (IDEs) aim to integrate all such help.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Use of a static code analysis tool can help detect some possible problems.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Relatedly, software engineering combines engineering techniques and principles with software development.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

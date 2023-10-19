@@ -1,0 +1,15 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+There exist a lot of different approaches for each of those tasks.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Techniques like Code refactoring can enhance readability.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Different programming languages support different styles of programming (called programming paradigms).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
