@@ -1,15 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-One approach popular for requirements analysis is Use Case analysis.
-There exist a lot of different approaches for each of those tasks.
-This is interpreted into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22dcb027972cbb6878f8109c6ebb0aedada497ce0aade18e81d305faf510899e
+size 1955

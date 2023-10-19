@@ -1,16 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Programming languages are essential for software development.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb05734c827f80483949408962a53af766009934e0bd75e74224b26e7e973381
+size 2145

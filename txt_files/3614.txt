@@ -1,15 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Many applications use a mix of several languages in their construction and use.
-Techniques like Code refactoring can enhance readability.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Techniques like Code refactoring can enhance readability.
-Integrated development environments (IDEs) aim to integrate all such help.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-One approach popular for requirements analysis is Use Case analysis.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7001b843d766702e9c3f532994229e2f6f4e31ca5cf1e1d935554f2f8db8a238
+size 1918

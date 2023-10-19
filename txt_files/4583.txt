@@ -1,16 +1,3 @@
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-There exist a lot of different approaches for each of those tasks.
-Many applications use a mix of several languages in their construction and use.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Ideally, the programming language best suited for the task at hand will be selected.
-Ideally, the programming language best suited for the task at hand will be selected.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:337f610a46b3236bc14228dbbd23a7c286e81c67cbe63dc9f9cd30f36e777446
+size 2042

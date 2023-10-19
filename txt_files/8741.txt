@@ -1,15 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many applications use a mix of several languages in their construction and use.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Techniques like Code refactoring can enhance readability.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
- Computer programmers are those who write computer software.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cba3afd257da6fe650726757ade6d2cde2183fb54508c30d1cdf3feb3c02d80
+size 1937

@@ -1,16 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-There exist a lot of different approaches for each of those tasks.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Integrated development environments (IDEs) aim to integrate all such help.
-Use of a static code analysis tool can help detect some possible problems.
-This is interpreted into machine code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31188ca87067efb357c907ddf768c1850d558c58cbbcc1cd2de4a1d774eed34c
+size 2345

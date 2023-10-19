@@ -1,15 +1,3 @@
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Techniques like Code refactoring can enhance readability.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Ideally, the programming language best suited for the task at hand will be selected.
-To produce machine code, the source code must either be compiled or transpiled.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+version https://git-lfs.github.com/spec/v1
+oid sha256:82550878830f6ae0f6a0cb0408d096b6cc34781e5b85b66726e516358226ae83
+size 2040

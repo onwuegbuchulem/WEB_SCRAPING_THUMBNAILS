@@ -1,15 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Scripting and breakpointing is also part of this process.
-However, readability is more than just programming style.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- Programs were mostly entered using punched cards or paper tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:787f9cf9b7837d2f71dc17eb0a80272df36f6333d55bf9b6bb55f058322867a1
+size 2026

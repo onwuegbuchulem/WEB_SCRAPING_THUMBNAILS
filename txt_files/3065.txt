@@ -1,17 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-This is interpreted into machine code.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca63bc3c23e4084804d7ae1af04217017aad12f9684e7b147a94a6e4ca10db18
+size 2560

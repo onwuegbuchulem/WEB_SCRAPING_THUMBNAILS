@@ -1,15 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Normally the first step in debugging is to attempt to reproduce the problem.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-However, readability is more than just programming style.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Scripting and breakpointing is also part of this process.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Programming languages are essential for software development.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-However, readability is more than just programming style.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Many applications use a mix of several languages in their construction and use.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aa00bbdcd2ab0524773c066671c1dde1359843c2b5a9fc4b65195e44f7226fb
+size 2043

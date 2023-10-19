@@ -1,15 +1,3 @@
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-To produce machine code, the source code must either be compiled or transpiled.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-However, readability is more than just programming style.
-Ideally, the programming language best suited for the task at hand will be selected.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-To produce machine code, the source code must either be compiled or transpiled.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:301570079606cd5396c20ab85498301b05afddfcbb0a31cd65b1fb374666e3fb
+size 2153

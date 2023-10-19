@@ -1,17 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-To produce machine code, the source code must either be compiled or transpiled.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Ideally, the programming language best suited for the task at hand will be selected.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- Following a consistent programming style often helps readability.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8280e6b9472373c2f34736c71693b25ceb825e2067edd0f78fc6c5f20f60d73d
+size 1849

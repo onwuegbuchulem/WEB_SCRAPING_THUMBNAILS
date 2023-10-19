@@ -1,15 +1,3 @@
-To produce machine code, the source code must either be compiled or transpiled.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-There are many approaches to the Software development process.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-There are many approaches to the Software development process.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There are many approaches to the Software development process.
-One approach popular for requirements analysis is Use Case analysis.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c886e618a99819ee0b2c8e3bc289f3fe373a07866fb9e7490c4eb26aaeec2b8
+size 1691

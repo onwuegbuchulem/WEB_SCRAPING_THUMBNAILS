@@ -1,18 +1,3 @@
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-To produce machine code, the source code must either be compiled or transpiled.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-There are many approaches to the Software development process.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Integrated development environments (IDEs) aim to integrate all such help.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- Different programming languages support different styles of programming (called programming paradigms).
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ada9225235dade5b40d431edcb086e91b5bc40a5cc81bb7e11e797926127f41
+size 2420

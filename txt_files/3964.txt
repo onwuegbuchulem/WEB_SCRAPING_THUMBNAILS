@@ -1,16 +1,3 @@
-This is interpreted into machine code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Scripting and breakpointing is also part of this process.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Scripting and breakpointing is also part of this process.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There are many approaches to the Software development process.
-However, readability is more than just programming style.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f905f4fdc96dafcc5c916ded34acca4eca995e04aed2a91b61291fb91d939759
+size 1885

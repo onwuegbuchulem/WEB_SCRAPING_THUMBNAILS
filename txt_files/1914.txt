@@ -1,16 +1,3 @@
-However, readability is more than just programming style.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Ideally, the programming language best suited for the task at hand will be selected.
-This is interpreted into machine code.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-There exist a lot of different approaches for each of those tasks.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a314a75f9d4c25802370c6647ede3b86115c8fa82dee08dcd70e71dc8523edd
+size 2440

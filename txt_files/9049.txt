@@ -1,15 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-Programming languages are essential for software development.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
- Following a consistent programming style often helps readability.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Ideally, the programming language best suited for the task at hand will be selected.
-Integrated development environments (IDEs) aim to integrate all such help.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c33774b92e5a0c132c8d714615f85bc4c475834c1d25f4824bfd04b0a7ef18
+size 1945

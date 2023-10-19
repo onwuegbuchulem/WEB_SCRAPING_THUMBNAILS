@@ -1,17 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-There exist a lot of different approaches for each of those tasks.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There exist a lot of different approaches for each of those tasks.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50a83cd3b47190b4eedda117597f48c26f33043bb964586e0658989bee363587
+size 1944

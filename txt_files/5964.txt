@@ -1,15 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Use of a static code analysis tool can help detect some possible problems.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Many applications use a mix of several languages in their construction and use.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57308c3808a3c375ab1b01d5d0afe379e4a5788cd1e747f6b87061b3ac42404
+size 2110

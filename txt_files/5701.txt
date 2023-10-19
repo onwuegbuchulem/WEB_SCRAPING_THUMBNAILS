@@ -1,16 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Programming languages are essential for software development.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Many applications use a mix of several languages in their construction and use.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
- It is very difficult to determine what are the most popular modern programming languages.
- Computer programmers are those who write computer software.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- Computer programmers are those who write computer software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57867f715161b6b9bc728732f7f26bbe4460a79edd9e47783775ad3e5a90edc1
+size 1669

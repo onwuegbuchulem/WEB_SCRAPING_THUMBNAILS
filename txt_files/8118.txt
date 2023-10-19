@@ -1,18 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Ideally, the programming language best suited for the task at hand will be selected.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Scripting and breakpointing is also part of this process.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c28f4057ba74ed7fa4f60a016f151542a1c4af27d24b4a819ea4ad018335e309
+size 2387

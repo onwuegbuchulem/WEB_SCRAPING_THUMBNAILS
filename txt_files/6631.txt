@@ -1,15 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Integrated development environments (IDEs) aim to integrate all such help.
-Normally the first step in debugging is to attempt to reproduce the problem.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Programming languages are essential for software development.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- Programs were mostly entered using punched cards or paper tape.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bf42dca1fef4b5bc325ba6a2674d068bdbef7e442ae6c46e08f6cb9979ec319
+size 2028

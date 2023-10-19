@@ -1,15 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, readability is more than just programming style.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-However, readability is more than just programming style.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Programmable devices have existed for centuries.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3217f69a030afb831b06270e9efeeeffd7695031f5c6635806a4242f2d6a0937
+size 1998

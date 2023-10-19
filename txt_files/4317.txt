@@ -1,15 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-This is interpreted into machine code.
-One approach popular for requirements analysis is Use Case analysis.
-Techniques like Code refactoring can enhance readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Integrated development environments (IDEs) aim to integrate all such help.
-One approach popular for requirements analysis is Use Case analysis.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Normally the first step in debugging is to attempt to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97c5ba0eb795c98f526df91459c5a6412aa2e1a5aba6d613e560b734f973959
+size 1790

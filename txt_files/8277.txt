@@ -1,16 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-There are many approaches to the Software development process.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Use of a static code analysis tool can help detect some possible problems.
-Ideally, the programming language best suited for the task at hand will be selected.
-Many applications use a mix of several languages in their construction and use.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-Many applications use a mix of several languages in their construction and use.
-Use of a static code analysis tool can help detect some possible problems.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Integrated development environments (IDEs) aim to integrate all such help.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81d1a9a387372e4a17d811c0286cf80e4eaf409fbffa9a4b943a8d3d48f0f52e
+size 1797

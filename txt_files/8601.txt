@@ -1,15 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-One approach popular for requirements analysis is Use Case analysis.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Integrated development environments (IDEs) aim to integrate all such help.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-One approach popular for requirements analysis is Use Case analysis.
-However, readability is more than just programming style.
-To produce machine code, the source code must either be compiled or transpiled.
-Techniques like Code refactoring can enhance readability.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Programming languages are essential for software development.
- Programs were mostly entered using punched cards or paper tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edcbe9654ea3c4026cff26be5128cf981ee3d0fd0ca39470ad6f825e312a052e
+size 1350

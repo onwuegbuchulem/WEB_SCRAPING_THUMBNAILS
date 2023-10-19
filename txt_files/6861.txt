@@ -1,17 +1,3 @@
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-There exist a lot of different approaches for each of those tasks.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- Programmable devices have existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc70e35e7f0aa0ecde31eae83f8f8c42f759c51cbfe257c7e067698047961c6f
+size 2307

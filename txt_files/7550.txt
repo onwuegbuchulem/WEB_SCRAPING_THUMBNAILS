@@ -1,15 +1,3 @@
-This is interpreted into machine code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There are many approaches to the Software development process.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-There exist a lot of different approaches for each of those tasks.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85f1569f6023369a291cb6d7ba5420cab829bffc0ba02dfdb1bb485a8eee1f9e
+size 2132

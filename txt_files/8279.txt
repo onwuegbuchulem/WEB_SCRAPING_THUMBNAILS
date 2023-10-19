@@ -1,16 +1,3 @@
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Use of a static code analysis tool can help detect some possible problems.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-This is interpreted into machine code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ada76af6dc535db2254771737890a8d60d8487d71346991bdbc1fec59d405e0
+size 2297

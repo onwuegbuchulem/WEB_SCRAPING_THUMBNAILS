@@ -1,16 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-To produce machine code, the source code must either be compiled or transpiled.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Programming languages are essential for software development.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- Code-breaking algorithms have also existed for centuries.
- Code-breaking algorithms have also existed for centuries.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d13e57961b22152dc30fe43cd6158722a1d9a11edc1054d5218db605b3702484
+size 2038

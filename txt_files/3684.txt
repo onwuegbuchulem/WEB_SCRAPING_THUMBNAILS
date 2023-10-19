@@ -1,15 +1,3 @@
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Techniques like Code refactoring can enhance readability.
-This is interpreted into machine code.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, readability is more than just programming style.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- Programmable devices have existed for centuries.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94fd9e46b9cf27334a5fece4ecdc23a39686b2ca3bacd8192a1a93e8aaebf013
+size 1940

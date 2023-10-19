@@ -1,17 +1,3 @@
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Scripting and breakpointing is also part of this process.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Use of a static code analysis tool can help detect some possible problems.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Techniques like Code refactoring can enhance readability.
-Techniques like Code refactoring can enhance readability.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
- Different programming languages support different styles of programming (called programming paradigms).
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-Integrated development environments (IDEs) aim to integrate all such help.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68b065eeaf7448ee47f38036600e1260383387dfa3e053a647d8d25a68456408
+size 2003

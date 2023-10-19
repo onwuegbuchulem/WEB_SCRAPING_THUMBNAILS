@@ -1,15 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Integrated development environments (IDEs) aim to integrate all such help.
-Ideally, the programming language best suited for the task at hand will be selected.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-To produce machine code, the source code must either be compiled or transpiled.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
- Programmable devices have existed for centuries.
- Different programming languages support different styles of programming (called programming paradigms).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e39ff54d9469c709fc964404765e9ec0e6efc61a3c434c2eff5a3c150180a0
+size 1892

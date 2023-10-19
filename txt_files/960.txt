@@ -1,17 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-However, readability is more than just programming style.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-There are many approaches to the Software development process.
-Ideally, the programming language best suited for the task at hand will be selected.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
- Following a consistent programming style often helps readability.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b250d525793627a52dd86e58a223c4dc277ea3b7e1d7f6414dc709914620cc8
+size 2343

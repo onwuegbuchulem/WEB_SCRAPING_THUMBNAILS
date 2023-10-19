@@ -1,17 +1,3 @@
-Scripting and breakpointing is also part of this process.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Techniques like Code refactoring can enhance readability.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-This is interpreted into machine code.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-There exist a lot of different approaches for each of those tasks.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c442c4fcaf6ddf9d4ec73ac72e1a3a473283045ff57cd183f8b0f331a237191
+size 2227

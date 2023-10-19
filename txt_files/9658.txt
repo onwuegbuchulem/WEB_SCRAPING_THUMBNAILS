@@ -1,15 +1,3 @@
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Programming languages are essential for software development.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9cc571d704830bd24dfcea906a6676c1ab7a2043b18a207600d9174e255f57d
+size 2241

@@ -1,15 +1,3 @@
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-One approach popular for requirements analysis is Use Case analysis.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-This is interpreted into machine code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-Ideally, the programming language best suited for the task at hand will be selected.
-Integrated development environments (IDEs) aim to integrate all such help.
-Programming languages are essential for software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c82194a71b2d0989ae7921173cde0bf064aacc78b452a6f080458091c0266f
+size 2128

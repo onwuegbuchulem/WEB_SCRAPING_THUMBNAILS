@@ -1,16 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Scripting and breakpointing is also part of this process.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-To produce machine code, the source code must either be compiled or transpiled.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-There are many approaches to the Software development process.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-There exist a lot of different approaches for each of those tasks.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8acf117e6d5031564b216179b4554d5546f3a484fa52e6f8e23dddfe1c31272
+size 2026

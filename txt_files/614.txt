@@ -1,16 +1,3 @@
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Programming languages are essential for software development.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:097712813694d6a1cfe1ca1e4ee4dae9ad31ed505fc40a77e9ea0b23b0b5c1c6
+size 2426

@@ -1,19 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, readability is more than just programming style.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Techniques like Code refactoring can enhance readability.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fafede1df19a96fc88da90aec6797a27f4645e93910bca14820d1fac2e5f70ca
+size 1727

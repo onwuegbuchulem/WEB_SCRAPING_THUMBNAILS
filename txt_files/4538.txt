@@ -1,15 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-To produce machine code, the source code must either be compiled or transpiled.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There exist a lot of different approaches for each of those tasks.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-This is interpreted into machine code.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Different programming languages support different styles of programming (called programming paradigms).
- Programs were mostly entered using punched cards or paper tape.
- Computer programmers are those who write computer software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba7fabf4eb3aa7bc57b35d3d77245796d569d22304705618724ac933f2dfcfe
+size 1762

@@ -1,15 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-However, readability is more than just programming style.
-Ideally, the programming language best suited for the task at hand will be selected.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-There exist a lot of different approaches for each of those tasks.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-One approach popular for requirements analysis is Use Case analysis.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b82418a1f1f237b9f96186ccf23be6e9db99be611165f9729a92588be187d62
+size 2309

@@ -1,16 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Different programming languages support different styles of programming (called programming paradigms).
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c9679de3c35ba1ac62d94578f2a778971f118757e1afb59d154c236ebfdac16
+size 2324

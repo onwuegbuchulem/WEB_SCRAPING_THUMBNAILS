@@ -1,15 +1,3 @@
-Ideally, the programming language best suited for the task at hand will be selected.
-Integrated development environments (IDEs) aim to integrate all such help.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, readability is more than just programming style.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Normally the first step in debugging is to attempt to reproduce the problem.
- Computer programmers are those who write computer software.
-Ideally, the programming language best suited for the task at hand will be selected.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Normally the first step in debugging is to attempt to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3911d7820569e286e67425f98b99b1a33987258cd75417a8576e132e5f515519
+size 1809

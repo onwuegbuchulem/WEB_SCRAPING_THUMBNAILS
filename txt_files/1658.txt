@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Programs were mostly entered using punched cards or paper tape.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- It is very difficult to determine what are the most popular modern programming languages.
-Techniques like Code refactoring can enhance readability.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7efa321bde7e1e9f7bcfe65bb953470fea88623a5000d590926d3780bd60e823
+size 2205

@@ -1,15 +1,3 @@
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Ideally, the programming language best suited for the task at hand will be selected.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Ideally, the programming language best suited for the task at hand will be selected.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-There are many approaches to the Software development process.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
- Following a consistent programming style often helps readability.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0d2e9c2486a8cbb0876764e20cc7d3510ed01aaab71a25ad94a3d3628c7797d
+size 1851

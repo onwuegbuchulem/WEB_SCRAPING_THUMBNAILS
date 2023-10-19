@@ -1,16 +1,3 @@
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Use of a static code analysis tool can help detect some possible problems.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Scripting and breakpointing is also part of this process.
-Many applications use a mix of several languages in their construction and use.
-Techniques like Code refactoring can enhance readability.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f254e8dcab4a40d4856043456b8fad28848cecea3292ca5359df963be3e03689
+size 2266

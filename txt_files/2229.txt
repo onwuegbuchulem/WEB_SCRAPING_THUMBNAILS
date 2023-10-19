@@ -1,17 +1,3 @@
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Techniques like Code refactoring can enhance readability.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Use of a static code analysis tool can help detect some possible problems.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-There exist a lot of different approaches for each of those tasks.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Following a consistent programming style often helps readability.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+version https://git-lfs.github.com/spec/v1
+oid sha256:53dba5199e8c34f235635b42800c53655ea4c1a60e7a39993dc31d9a7755779a
+size 2307

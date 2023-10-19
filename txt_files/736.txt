@@ -1,18 +1,3 @@
-To produce machine code, the source code must either be compiled or transpiled.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-One approach popular for requirements analysis is Use Case analysis.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-There exist a lot of different approaches for each of those tasks.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85fce043142909d7df4c6c3c9dca58f9d327da60834c6736245c773aefdcc748
+size 2080

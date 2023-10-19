@@ -1,16 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Normally the first step in debugging is to attempt to reproduce the problem.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-Techniques like Code refactoring can enhance readability.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
- Computer programmers are those who write computer software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01381dd7abeaa6c96a9444fc7258c740dd85c7352957dfab97d7cfeaf38cb8f1
+size 2086

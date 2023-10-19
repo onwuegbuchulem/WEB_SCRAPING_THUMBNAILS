@@ -1,15 +1,3 @@
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Scripting and breakpointing is also part of this process.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Programming languages are essential for software development.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-However, readability is more than just programming style.
-Normally the first step in debugging is to attempt to reproduce the problem.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-Ideally, the programming language best suited for the task at hand will be selected.
-Ideally, the programming language best suited for the task at hand will be selected.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- It is very difficult to determine what are the most popular modern programming languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:948cff996e44f6aa75c59ac405b97a3b1c11579220ed2caf15b2f984403ae684
+size 1811

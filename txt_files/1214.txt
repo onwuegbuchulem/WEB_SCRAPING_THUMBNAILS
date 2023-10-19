@@ -1,16 +1,3 @@
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, readability is more than just programming style.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Scripting and breakpointing is also part of this process.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- Computer programmers are those who write computer software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8eb2553d97483ab97bd07bec113ca102ad05d21c840204b31762516b3127a5
+size 2045

@@ -1,15 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-There exist a lot of different approaches for each of those tasks.
-Ideally, the programming language best suited for the task at hand will be selected.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca31e95e980357cb30c43a0f64c09102e197680bf3faf59c2a7b535ae44c9c69
+size 2168

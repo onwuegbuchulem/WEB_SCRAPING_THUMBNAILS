@@ -1,15 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Scripting and breakpointing is also part of this process.
-However, readability is more than just programming style.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, readability is more than just programming style.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a7d4b226805b6ee17c538dc4854df2bde80768bbeb676b96a0208079ba98a4
+size 1777

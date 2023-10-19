@@ -1,15 +1,3 @@
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Use of a static code analysis tool can help detect some possible problems.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Techniques like Code refactoring can enhance readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Use of a static code analysis tool can help detect some possible problems.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49529cb4459763d305f30595f638bb3da9f3c4114a2648e3436c499b4702ad9d
+size 2361

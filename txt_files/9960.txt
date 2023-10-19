@@ -1,17 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There exist a lot of different approaches for each of those tasks.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Computer programmers are those who write computer software.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4326dffaca8046a7a4df0269112413d367fdd233ea933838f742bcfa7b74a66e
+size 2165

@@ -1,14 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Normally the first step in debugging is to attempt to reproduce the problem.
-There exist a lot of different approaches for each of those tasks.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Computer programmers are those who write computer software.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7de2aafa61b6f40db6db6fa0da41533c39b381916edc5d3899f96c45eb71c8d
+size 2169

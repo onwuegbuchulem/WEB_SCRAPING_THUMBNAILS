@@ -1,16 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Integrated development environments (IDEs) aim to integrate all such help.
-Programming languages are essential for software development.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Ideally, the programming language best suited for the task at hand will be selected.
-One approach popular for requirements analysis is Use Case analysis.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57cc7aec41e558a9c2915ba1f25233da7f411a0295cc39acb1332004b4db8528
+size 2093

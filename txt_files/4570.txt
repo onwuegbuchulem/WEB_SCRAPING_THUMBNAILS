@@ -1,16 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-Ideally, the programming language best suited for the task at hand will be selected.
-This is interpreted into machine code.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Ideally, the programming language best suited for the task at hand will be selected.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Relatedly, software engineering combines engineering techniques and principles with software development.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73601d906f763bddfd15ae29bbc7cbfd0162df860a4aafcad9326f095f4c67b5
+size 2261

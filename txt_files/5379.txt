@@ -1,17 +1,3 @@
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Use of a static code analysis tool can help detect some possible problems.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-There are many approaches to the Software development process.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Integrated development environments (IDEs) aim to integrate all such help.
-Many applications use a mix of several languages in their construction and use.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdbd150339bbe95a637480addbf3306730e0ad7345deb6bf35ef3d05a246efbe
+size 2066

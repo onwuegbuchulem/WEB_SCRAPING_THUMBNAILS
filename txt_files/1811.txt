@@ -1,16 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Techniques like Code refactoring can enhance readability.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Scripting and breakpointing is also part of this process.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-This is interpreted into machine code.
-Programming languages are essential for software development.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bacfe6e4d9d0bb8c118de49db226f1548db01cd6a49ce6eef44d8133e73f6565
+size 2074

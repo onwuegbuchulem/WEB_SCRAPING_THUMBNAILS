@@ -1,15 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Ideally, the programming language best suited for the task at hand will be selected.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8638f59a0bb9cd9fab8fae276fbef9374d7f651127b4a81577d4dc5820399859
+size 2505

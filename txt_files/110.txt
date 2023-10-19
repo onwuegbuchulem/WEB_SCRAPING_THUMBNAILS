@@ -1,16 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-There are many approaches to the Software development process.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Ideally, the programming language best suited for the task at hand will be selected.
-This is interpreted into machine code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Ideally, the programming language best suited for the task at hand will be selected.
-To produce machine code, the source code must either be compiled or transpiled.
-Use of a static code analysis tool can help detect some possible problems.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-To produce machine code, the source code must either be compiled or transpiled.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3436aef8d5227f5c3258490d87606a1857a7d8376f56dc5e4c6607526a39f550
+size 1685

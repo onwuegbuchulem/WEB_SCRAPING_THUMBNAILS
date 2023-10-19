@@ -1,17 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de00253e1c73c383c52c2abdc3c72f85499a78bc0be87666eee802a1a641e0d
+size 2472

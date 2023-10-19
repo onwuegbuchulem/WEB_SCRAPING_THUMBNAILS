@@ -1,15 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-There are many approaches to the Software development process.
-Integrated development environments (IDEs) aim to integrate all such help.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Programming languages are essential for software development.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-There exist a lot of different approaches for each of those tasks.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-However, readability is more than just programming style.
-However, readability is more than just programming style.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78d477d5a09cb0cc769b37bf5cbca7301ac0e373b3b38ddf39b68684e6dba042
+size 2176

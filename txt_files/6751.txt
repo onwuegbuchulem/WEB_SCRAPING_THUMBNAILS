@@ -1,16 +1,3 @@
-Use of a static code analysis tool can help detect some possible problems.
-Ideally, the programming language best suited for the task at hand will be selected.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Integrated development environments (IDEs) aim to integrate all such help.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Scripting and breakpointing is also part of this process.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-There are many approaches to the Software development process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f2b5c20d444bfdba1e545aae8b26eb2652a4d81644fb7a1d79468d6a43658b
+size 1964

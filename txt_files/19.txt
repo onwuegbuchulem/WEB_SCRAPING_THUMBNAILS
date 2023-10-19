@@ -1,18 +1,3 @@
-Ideally, the programming language best suited for the task at hand will be selected.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Techniques like Code refactoring can enhance readability.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Programming languages are essential for software development.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Different programming languages support different styles of programming (called programming paradigms).
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4cb62a691517c273829644bd4c8bc3db7e6f7f64f30860195ed66ed7ac344f4
+size 2425

@@ -1,17 +1,3 @@
-Techniques like Code refactoring can enhance readability.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- It is very difficult to determine what are the most popular modern programming languages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
+version https://git-lfs.github.com/spec/v1
+oid sha256:590a579ad37ff0e7b9bbe0913031ceb8d11697725b14a964a9fceac770522bf7
+size 2244

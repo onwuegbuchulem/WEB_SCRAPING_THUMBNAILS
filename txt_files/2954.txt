@@ -1,16 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- Code-breaking algorithms have also existed for centuries.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-To produce machine code, the source code must either be compiled or transpiled.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ee504c2e1b41a984a3f86c1e69d58e797ea1bc72297b5560dea6325abc4145a
+size 2235

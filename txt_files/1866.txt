@@ -1,17 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-There are many approaches to the Software development process.
-To produce machine code, the source code must either be compiled or transpiled.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Scripting and breakpointing is also part of this process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bbe673f02e33ed6427b630b7c17ef8ecac72edeafe1dd9873e73867da66ee03
+size 2043

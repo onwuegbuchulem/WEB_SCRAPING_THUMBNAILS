@@ -1,18 +1,3 @@
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Programming languages are essential for software development.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Use of a static code analysis tool can help detect some possible problems.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Techniques like Code refactoring can enhance readability.
-There are many approaches to the Software development process.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Programs were mostly entered using punched cards or paper tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f0d190d58522fbbd93a18939e60334e2235940cfeb5deba83b62c4b10d5e4b
+size 2225

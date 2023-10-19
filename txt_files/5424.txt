@@ -1,16 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-One approach popular for requirements analysis is Use Case analysis.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Integrated development environments (IDEs) aim to integrate all such help.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df0d4aee5f96b713febba625c7b956826f78a3a92d0a6ea952fc3b00e7ef612
+size 2089

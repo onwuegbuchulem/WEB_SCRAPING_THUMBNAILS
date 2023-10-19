@@ -1,16 +1,3 @@
-To produce machine code, the source code must either be compiled or transpiled.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There are many approaches to the Software development process.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Integrated development environments (IDEs) aim to integrate all such help.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cccee1251856807355383753ceb1d4c365d17c27cfff9dfa7b32c7e6b292ea1
+size 1887

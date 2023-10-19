@@ -1,15 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-To produce machine code, the source code must either be compiled or transpiled.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18e479500159f40922a39232b6f84260d1f872c15428485138d9fa172c12f8b4
+size 2256

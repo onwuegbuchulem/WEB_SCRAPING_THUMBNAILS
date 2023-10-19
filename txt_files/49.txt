@@ -1,18 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Use of a static code analysis tool can help detect some possible problems.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-There are many approaches to the Software development process.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2440adff6e0c4aad337cd8be3f6a87a6e183ce36bbf9c466572c5f54dac3e017
+size 2179

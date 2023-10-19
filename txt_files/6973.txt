@@ -1,15 +1,3 @@
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Different programming languages support different styles of programming (called programming paradigms).
-
-Use of a static code analysis tool can help detect some possible problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1249718ba9dc6efd7b01d8036f39469011514de3bd364fb04a4bf0af749220dc
+size 2113

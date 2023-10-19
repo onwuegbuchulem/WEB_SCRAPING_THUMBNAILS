@@ -1,15 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-Ideally, the programming language best suited for the task at hand will be selected.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-However, readability is more than just programming style.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Programming languages are essential for software development.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f5645fc6561ed9ee9014a5b17a67f1efeddacd76cdde53501c11dd60cf6646d
+size 1992

@@ -1,15 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Many applications use a mix of several languages in their construction and use.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-To produce machine code, the source code must either be compiled or transpiled.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5826fdfe67f64a57f8bf20ddeb8c0417ed673aaca0d4e2fcd2ac131f49c07bb6
+size 2077

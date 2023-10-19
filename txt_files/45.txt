@@ -1,15 +1,3 @@
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-There exist a lot of different approaches for each of those tasks.
-Many applications use a mix of several languages in their construction and use.
-To produce machine code, the source code must either be compiled or transpiled.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Ideally, the programming language best suited for the task at hand will be selected.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:523fc90914849cdfaa0420f4ebb047d2c5a77c595cb4288f4523d7fc8faadd41
+size 1947

@@ -1,15 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- Computer programmers are those who write computer software.
-Integrated development environments (IDEs) aim to integrate all such help.
- Programmable devices have existed for centuries.
- Programs were mostly entered using punched cards or paper tape.
-Use of a static code analysis tool can help detect some possible problems.
-To produce machine code, the source code must either be compiled or transpiled.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-Techniques like Code refactoring can enhance readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40aa1eea33a67c449d50fd7477cbc946c5626beb7a7578002ce59e4ba458bfd2
+size 1913

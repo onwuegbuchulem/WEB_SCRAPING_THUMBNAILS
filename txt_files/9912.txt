@@ -1,15 +1,3 @@
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-However, readability is more than just programming style.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
- Computer programmers are those who write computer software.
-Ideally, the programming language best suited for the task at hand will be selected.
- It is very difficult to determine what are the most popular modern programming languages.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb2d9aadae2ed8fca85595536ed4eb6ffd5b7451b1672e1b47adba3b72b04612
+size 2239

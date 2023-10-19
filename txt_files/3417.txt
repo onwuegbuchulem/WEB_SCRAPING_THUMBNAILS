@@ -1,15 +1,3 @@
-Techniques like Code refactoring can enhance readability.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Normally the first step in debugging is to attempt to reproduce the problem.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Techniques like Code refactoring can enhance readability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Normally the first step in debugging is to attempt to reproduce the problem.
-Relatedly, software engineering combines engineering techniques and principles with software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b12667f4253d77b82c110a4d5e630783732c377045451d0139c83edb634f526
+size 1825

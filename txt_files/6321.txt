@@ -1,15 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-There are many approaches to the Software development process.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-To produce machine code, the source code must either be compiled or transpiled.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc4f471eac6e97dfa07cea6f8a7f46e23088c7ed0cb9e50a8b2e8e4bf31b0939
+size 2305

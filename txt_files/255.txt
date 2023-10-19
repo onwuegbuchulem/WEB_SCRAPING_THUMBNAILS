@@ -1,15 +1,3 @@
-Scripting and breakpointing is also part of this process.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Many applications use a mix of several languages in their construction and use.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Ideally, the programming language best suited for the task at hand will be selected.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Integrated development environments (IDEs) aim to integrate all such help.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Ideally, the programming language best suited for the task at hand will be selected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d47cf9469d4ea7530e964e38aac9dfa1a88095b1ca6ace641315bfe8293d807
+size 1760

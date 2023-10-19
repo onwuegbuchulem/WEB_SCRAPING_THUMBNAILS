@@ -1,17 +1,3 @@
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-
-One approach popular for requirements analysis is Use Case analysis.
- It is very difficult to determine what are the most popular modern programming languages.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d9e9d00994b82d946c424789d96af4fec4b3c72f20269f23da3fc6631bb22e
+size 2072

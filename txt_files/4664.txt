@@ -1,15 +1,3 @@
-There are many approaches to the Software development process.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Scripting and breakpointing is also part of this process.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Ideally, the programming language best suited for the task at hand will be selected.
-However, readability is more than just programming style.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-There are many approaches to the Software development process.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8465125b7dd08f6915b7d9e088674242d1d96f0f7659356dfe64836d56e9c67d
+size 1992

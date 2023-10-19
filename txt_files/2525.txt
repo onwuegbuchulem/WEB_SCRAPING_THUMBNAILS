@@ -1,15 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Many applications use a mix of several languages in their construction and use.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Scripting and breakpointing is also part of this process.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b11eea0ee9340f8ebff22df49ee987e6c32ef64b0ebc89fdf679fb759b8870b
+size 2191

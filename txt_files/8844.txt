@@ -1,16 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, readability is more than just programming style.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-There exist a lot of different approaches for each of those tasks.
-Programming languages are essential for software development.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-There exist a lot of different approaches for each of those tasks.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-One approach popular for requirements analysis is Use Case analysis.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
- Different programming languages support different styles of programming (called programming paradigms).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b2eeff59bce499d690864dea0f0c59c5543005ca2039d5ac9e32e5e4ebb2172
+size 1982

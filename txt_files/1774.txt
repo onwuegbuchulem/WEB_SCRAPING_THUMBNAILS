@@ -1,15 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-There exist a lot of different approaches for each of those tasks.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, readability is more than just programming style.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:697251b961f8a1e6b5185fcc302956945ff9fee21172d25e1bb455387922a4f0
+size 2083

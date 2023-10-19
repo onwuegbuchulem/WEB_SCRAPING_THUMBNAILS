@@ -1,16 +1,3 @@
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-To produce machine code, the source code must either be compiled or transpiled.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-Programming languages are essential for software development.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e0fab51098385c2a02a1eb4513ea4bd775ad1324a6f6530d88a787e1e52711b
+size 2592

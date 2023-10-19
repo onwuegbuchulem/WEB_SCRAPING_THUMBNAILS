@@ -1,15 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Integrated development environments (IDEs) aim to integrate all such help.
-Integrated development environments (IDEs) aim to integrate all such help.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Programming languages are essential for software development.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Many applications use a mix of several languages in their construction and use.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60067f9afd236bced8031b0d91442485e5c72deb08f964ebc7efdd1c52a896bd
+size 1696

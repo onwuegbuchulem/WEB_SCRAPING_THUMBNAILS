@@ -1,16 +1,3 @@
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-There exist a lot of different approaches for each of those tasks.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- Following a consistent programming style often helps readability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fecfaf557087d911f0552cd1f222d687c524f54488cd8a100e28a3400a23de7b
+size 2445

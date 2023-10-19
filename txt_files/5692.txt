@@ -1,15 +1,3 @@
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, readability is more than just programming style.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-To produce machine code, the source code must either be compiled or transpiled.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Normally the first step in debugging is to attempt to reproduce the problem.
-To produce machine code, the source code must either be compiled or transpiled.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3653f83e1740b84d4672569419d5997febad5cef9e3f7457850fcb77e1497d1
+size 2149

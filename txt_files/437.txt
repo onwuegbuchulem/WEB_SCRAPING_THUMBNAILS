@@ -1,15 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Programming languages are essential for software development.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Programming languages are essential for software development.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Integrated development environments (IDEs) aim to integrate all such help.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d039042a4afe0fe5df5b6fd498dc2fed7d742dd48c3b654725646f36787bb84
+size 2215

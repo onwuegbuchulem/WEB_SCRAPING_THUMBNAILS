@@ -1,16 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-One approach popular for requirements analysis is Use Case analysis.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Scripting and breakpointing is also part of this process.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Programming languages are essential for software development.
- Programs were mostly entered using punched cards or paper tape.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Use of a static code analysis tool can help detect some possible problems.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45592c4a4c70046a90a73a181d8feafc101f48a59282bb4f685eda03df0ec59a
+size 2153

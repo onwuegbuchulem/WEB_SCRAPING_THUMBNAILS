@@ -1,17 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-To produce machine code, the source code must either be compiled or transpiled.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, readability is more than just programming style.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Ideally, the programming language best suited for the task at hand will be selected.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Integrated development environments (IDEs) aim to integrate all such help.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2fb653b058bffde43a81eaae751269cb5933cf2bfc95910d31fddd32d9ffb1
+size 2226

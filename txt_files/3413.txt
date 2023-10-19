@@ -1,17 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Relatedly, software engineering combines engineering techniques and principles with software development.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-To produce machine code, the source code must either be compiled or transpiled.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Following a consistent programming style often helps readability.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba047003da71522e6c056bb3d37496c06632db2ca2196acc95cdd581da28a2f
+size 2279

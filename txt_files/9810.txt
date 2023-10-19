@@ -1,15 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-To produce machine code, the source code must either be compiled or transpiled.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-There are many approaches to the Software development process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, readability is more than just programming style.
-However, readability is more than just programming style.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- It is very difficult to determine what are the most popular modern programming languages.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af93ab3f68e9a802fad006815a60df2554dd4c9f150d87c15d0bbddcdd2be8a5
+size 1728

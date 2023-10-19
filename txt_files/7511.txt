@@ -1,16 +1,3 @@
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:597ba72f5e19880c5ff604a4c813943cbe261b79264a378dc520643f7329acef
+size 2536

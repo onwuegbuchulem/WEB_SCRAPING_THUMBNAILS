@@ -1,16 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50276ae873c311c24bb59aaa8d5d9086b74987b69f6d1c37fc59eafff384d1de
+size 2419

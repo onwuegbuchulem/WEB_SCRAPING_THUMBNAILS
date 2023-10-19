@@ -1,17 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Scripting and breakpointing is also part of this process.
-Integrated development environments (IDEs) aim to integrate all such help.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-There are many approaches to the Software development process.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Use of a static code analysis tool can help detect some possible problems.
- Programmable devices have existed for centuries.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f7556642c24d0686edf3fd71e17d975b776f9880ceef4f84c51da9a7975ba2a
+size 2055

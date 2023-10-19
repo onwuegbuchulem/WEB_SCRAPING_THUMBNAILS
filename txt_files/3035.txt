@@ -1,18 +1,3 @@
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-One approach popular for requirements analysis is Use Case analysis.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-To produce machine code, the source code must either be compiled or transpiled.
-One approach popular for requirements analysis is Use Case analysis.
-Scripting and breakpointing is also part of this process.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f056d213aab1170f567b72986a5acaea75b1d0d404c6cc537b5069cead2a284b
+size 2217

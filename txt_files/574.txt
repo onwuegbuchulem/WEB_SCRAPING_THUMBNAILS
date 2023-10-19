@@ -1,16 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Use of a static code analysis tool can help detect some possible problems.
-There are many approaches to the Software development process.
-This is interpreted into machine code.
-Integrated development environments (IDEs) aim to integrate all such help.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- Following a consistent programming style often helps readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e032c9c075d563937a974165d3002f88c93a1a7e59063420ca2f182e010c466
+size 1860

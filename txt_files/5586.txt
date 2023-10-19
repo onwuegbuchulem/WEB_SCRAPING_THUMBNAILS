@@ -1,17 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-There are many approaches to the Software development process.
-To produce machine code, the source code must either be compiled or transpiled.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Scripting and breakpointing is also part of this process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
- Programs were mostly entered using punched cards or paper tape.
-One approach popular for requirements analysis is Use Case analysis.
- Different programming languages support different styles of programming (called programming paradigms).
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-Techniques like Code refactoring can enhance readability.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab560cc6f672eaad18e2a44237ea5917d6f97d1fec156c0ec67dfb9178170b54
+size 2070

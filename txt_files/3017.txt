@@ -1,19 +1,3 @@
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Integrated development environments (IDEs) aim to integrate all such help.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Many applications use a mix of several languages in their construction and use.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-To produce machine code, the source code must either be compiled or transpiled.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Ideally, the programming language best suited for the task at hand will be selected.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-Integrated development environments (IDEs) aim to integrate all such help.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb71d001f74dcc36c0075abcdd218add866a9678be77730fbfd21f61a2d0248
+size 2280

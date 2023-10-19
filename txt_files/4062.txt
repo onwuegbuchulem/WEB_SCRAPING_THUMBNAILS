@@ -1,15 +1,3 @@
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Many applications use a mix of several languages in their construction and use.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Scripting and breakpointing is also part of this process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-There are many approaches to the Software development process.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-There are many approaches to the Software development process.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8f08a7abbef71b6108aa2c843456c138bb5e0ed54cf9fdd43db38350159f1d1
+size 1972

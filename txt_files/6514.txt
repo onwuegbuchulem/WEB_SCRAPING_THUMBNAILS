@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-There are many approaches to the Software development process.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b046f148f5ada1372724aec1aa570e2bd7218c50f02b01540f4dc5ca22dfec8f
+size 2287

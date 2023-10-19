@@ -1,17 +1,3 @@
-There are many approaches to the Software development process.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Many applications use a mix of several languages in their construction and use.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Techniques like Code refactoring can enhance readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Many applications use a mix of several languages in their construction and use.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6839ddabfe5a0b1fb5ef3def0d94e44df7851089df33d0037ff90d14e8199f5b
+size 1971

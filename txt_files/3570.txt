@@ -1,20 +1,3 @@
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Use of a static code analysis tool can help detect some possible problems.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-However, readability is more than just programming style.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Use of a static code analysis tool can help detect some possible problems.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-However, readability is more than just programming style.
-There exist a lot of different approaches for each of those tasks.
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0356b05d23a60d2904973fe644c9e385f6785236b578382bc06c966140bc4a31
+size 2107

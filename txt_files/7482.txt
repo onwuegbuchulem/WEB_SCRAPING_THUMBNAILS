@@ -1,15 +1,3 @@
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-However, readability is more than just programming style.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many applications use a mix of several languages in their construction and use.
-There exist a lot of different approaches for each of those tasks.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Programming languages are essential for software development.
-This is interpreted into machine code.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e86640b63eeec6c2049e8c6f1c89a779145065f83922eb0067b3aa30f9e91bf7
+size 1855

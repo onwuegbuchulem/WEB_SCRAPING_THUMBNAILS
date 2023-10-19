@@ -1,15 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-One approach popular for requirements analysis is Use Case analysis.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Techniques like Code refactoring can enhance readability.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
- Code-breaking algorithms have also existed for centuries.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-To produce machine code, the source code must either be compiled or transpiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b669ad2e1a85df5d2b696f5b9e0a05534b13428907f4d93bb22abd97364b9cbf
+size 2226

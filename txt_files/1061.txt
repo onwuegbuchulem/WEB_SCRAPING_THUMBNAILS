@@ -1,17 +1,3 @@
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-To produce machine code, the source code must either be compiled or transpiled.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c9a1f134c720b814cb8552e2912ac4a04b186039841547ddd2a412532939eb
+size 2614

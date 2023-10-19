@@ -1,16 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Relatedly, software engineering combines engineering techniques and principles with software development.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Many applications use a mix of several languages in their construction and use.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Ideally, the programming language best suited for the task at hand will be selected.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f705d997214057be70c1de7a9f19aa7f32aed4b95db4e1d9e9ff96b1ec1aa2
+size 2314

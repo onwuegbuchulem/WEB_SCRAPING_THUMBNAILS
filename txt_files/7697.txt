@@ -1,15 +1,3 @@
-One approach popular for requirements analysis is Use Case analysis.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
- Different programming languages support different styles of programming (called programming paradigms).
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- Following a consistent programming style often helps readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c65210586523cec1be871838e4115a3b0421c25055ff0893887059572bfce375
+size 2117

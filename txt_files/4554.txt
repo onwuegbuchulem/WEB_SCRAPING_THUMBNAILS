@@ -1,15 +1,3 @@
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Integrated development environments (IDEs) aim to integrate all such help.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-However, readability is more than just programming style.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Many applications use a mix of several languages in their construction and use.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d5e603a950c55057bf1f67108d577e4f8dc55870be3abaa4caccd57e7d7a0ec
+size 2155

@@ -1,15 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-To produce machine code, the source code must either be compiled or transpiled.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Code-breaking algorithms have also existed for centuries.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8ab9e3e448ccf176145d889b3722a67df7c2fac57b0fe9dec1ef7dec496b3d7
+size 2281

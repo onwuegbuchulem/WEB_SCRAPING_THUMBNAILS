@@ -1,18 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Integrated development environments (IDEs) aim to integrate all such help.
-To produce machine code, the source code must either be compiled or transpiled.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-There are many approaches to the Software development process.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a2a9916572cdbc32c2561b23dd996a178342236395e63c4286f0a2bdf3c013e
+size 2144

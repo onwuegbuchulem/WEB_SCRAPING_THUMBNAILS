@@ -1,15 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-One approach popular for requirements analysis is Use Case analysis.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There exist a lot of different approaches for each of those tasks.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-There exist a lot of different approaches for each of those tasks.
-To produce machine code, the source code must either be compiled or transpiled.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02ae064dca56fcbbccdb41d5c33b5a428f8b01383c935f388b6c95e6b6d478a
+size 2057

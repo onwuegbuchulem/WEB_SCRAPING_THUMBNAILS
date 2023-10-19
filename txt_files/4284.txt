@@ -1,15 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Ideally, the programming language best suited for the task at hand will be selected.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-This is interpreted into machine code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Programs were mostly entered using punched cards or paper tape.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4189c9530ee8c3a0378b99c73c13618f7432c36fbe31bfb9236560fd9e6dad20
+size 2165

@@ -1,17 +1,3 @@
-Use of a static code analysis tool can help detect some possible problems.
-Integrated development environments (IDEs) aim to integrate all such help.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-To produce machine code, the source code must either be compiled or transpiled.
-Techniques like Code refactoring can enhance readability.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:386809bf20680e1f5fc66ee8045125af4e014369634de0ece677a9c567bb31a4
+size 2566

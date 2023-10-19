@@ -1,15 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, readability is more than just programming style.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- Different programming languages support different styles of programming (called programming paradigms).
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3996aab0c89f5bacefff17dd1e9fe3423d1441d11075a54ea31184e9418cdcc8
+size 2497

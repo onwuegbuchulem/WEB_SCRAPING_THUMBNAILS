@@ -1,16 +1,3 @@
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Many applications use a mix of several languages in their construction and use.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Use of a static code analysis tool can help detect some possible problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12ac1a8a84da1c0f903e3bbc4a9296db9825737d3cc6ac84ac8c943d2fda4aab
+size 2270

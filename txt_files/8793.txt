@@ -1,15 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Use of a static code analysis tool can help detect some possible problems.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
- Programs were mostly entered using punched cards or paper tape.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Programs were mostly entered using punched cards or paper tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2137bc8f5132146d46e2b84bdc6773bc7f6d7a0d45498da86af213cfb74e9435
+size 2319

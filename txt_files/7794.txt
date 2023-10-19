@@ -1,18 +1,3 @@
-There are many approaches to the Software development process.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Ideally, the programming language best suited for the task at hand will be selected.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Ideally, the programming language best suited for the task at hand will be selected.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Scripting and breakpointing is also part of this process.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+version https://git-lfs.github.com/spec/v1
+oid sha256:048f815f001537be1be8dade3b7fe691dc8fbc9dbdd22123bb58fd67c44608ba
+size 2230

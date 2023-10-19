@@ -1,18 +1,3 @@
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Programming languages are essential for software development.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There are many approaches to the Software development process.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-There exist a lot of different approaches for each of those tasks.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76b516e69e6de2dbc196a27bcc8149631ef8949199a58c7edec5ff291f53bd70
+size 1984

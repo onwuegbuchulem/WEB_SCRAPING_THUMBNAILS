@@ -1,15 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Ideally, the programming language best suited for the task at hand will be selected.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- Code-breaking algorithms have also existed for centuries.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95339b61f1fe2b08765c803481dc770f870ee9e2011aa6aacae05a3900cf42fc
+size 2539

@@ -1,16 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Techniques like Code refactoring can enhance readability.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d69df0a39a6cd7ff863c5bc9c49123debb8a776d0ff2448483177cbc80f45c1
+size 2403

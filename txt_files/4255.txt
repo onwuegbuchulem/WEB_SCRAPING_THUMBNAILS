@@ -1,15 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-There exist a lot of different approaches for each of those tasks.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-One approach popular for requirements analysis is Use Case analysis.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
- Computer programmers are those who write computer software.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2b0429570a63087142f3f63bc30ab78f4b290cced8eb123e9fbb5c196b7e0c
+size 2210

@@ -1,15 +1,3 @@
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Scripting and breakpointing is also part of this process.
-This is interpreted into machine code.
-There are many approaches to the Software development process.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Programming languages are essential for software development.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Following a consistent programming style often helps readability.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59e458a5da867ae42ebddf0dcb0cbdc434a8338f73b3250cd817fd46b0f88d7
+size 2065

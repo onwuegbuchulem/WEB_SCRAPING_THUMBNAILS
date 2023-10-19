@@ -1,15 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Use of a static code analysis tool can help detect some possible problems.
-Integrated development environments (IDEs) aim to integrate all such help.
-Techniques like Code refactoring can enhance readability.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-This is interpreted into machine code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10ab85f237e88134974268eda8e624c0cfd33ab589d133972d267e51380cc3c5
+size 2203

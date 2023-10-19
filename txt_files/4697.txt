@@ -1,15 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Many applications use a mix of several languages in their construction and use.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Ideally, the programming language best suited for the task at hand will be selected.
-Ideally, the programming language best suited for the task at hand will be selected.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-There are many approaches to the Software development process.
-However, readability is more than just programming style.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57bbd40f1de1bef6f71e5b11740e9fa8942c9abd895e1c69d30a4740c820c95c
+size 2101

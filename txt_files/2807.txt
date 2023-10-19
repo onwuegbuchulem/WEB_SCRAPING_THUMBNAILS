@@ -1,17 +1,3 @@
-Programming languages are essential for software development.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc7e0c15a3d4f4f3eb8fcefaff5884a5d6f930202c1eea12910865b14bb86ab8
+size 2169

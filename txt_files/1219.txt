@@ -1,15 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Techniques like Code refactoring can enhance readability.
-To produce machine code, the source code must either be compiled or transpiled.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-There are many approaches to the Software development process.
-One approach popular for requirements analysis is Use Case analysis.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Integrated development environments (IDEs) aim to integrate all such help.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Techniques like Code refactoring can enhance readability.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bba3525472fd19ea5b475e18276f39e04543c687fee67a43ca27365f6e9f4c4
+size 1493

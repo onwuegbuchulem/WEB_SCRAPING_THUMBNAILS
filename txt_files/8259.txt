@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-There are many approaches to the Software development process.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Integrated development environments (IDEs) aim to integrate all such help.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Integrated development environments (IDEs) aim to integrate all such help.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60a40092b063dd657f37a9e9b42259eb98203055287e5a038d1e3f7aa8fbde42
+size 1872

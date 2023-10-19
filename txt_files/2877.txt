@@ -1,16 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-To produce machine code, the source code must either be compiled or transpiled.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-There exist a lot of different approaches for each of those tasks.
-This is interpreted into machine code.
- Code-breaking algorithms have also existed for centuries.
- Different programming languages support different styles of programming (called programming paradigms).
+version https://git-lfs.github.com/spec/v1
+oid sha256:560a732db0a3f76135be5badb8a5d9158ec4982e8142706aee8cf91a5cff6158
+size 2320

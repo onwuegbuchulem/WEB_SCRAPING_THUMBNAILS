@@ -1,15 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-This is interpreted into machine code.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-This is interpreted into machine code.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d08f923625416483b2ddb436f044ef418386aa8e8838f9ca4ae329724d9f33d1
+size 2284

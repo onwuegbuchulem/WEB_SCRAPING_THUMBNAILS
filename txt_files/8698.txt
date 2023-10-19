@@ -1,15 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Many applications use a mix of several languages in their construction and use.
-Use of a static code analysis tool can help detect some possible problems.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Ideally, the programming language best suited for the task at hand will be selected.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Different programming languages support different styles of programming (called programming paradigms).
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dadf5f3efad2e58c5e90185e35826e02367c07aa55babac0c0033b0494eba75
+size 1994

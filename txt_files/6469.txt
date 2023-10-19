@@ -1,15 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Use of a static code analysis tool can help detect some possible problems.
-This is interpreted into machine code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-There exist a lot of different approaches for each of those tasks.
-To produce machine code, the source code must either be compiled or transpiled.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-However, readability is more than just programming style.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e10630acca0b93c0d053e10c05f050e1b09a9aa21f986e902b6b90a41f963bd9
+size 1696

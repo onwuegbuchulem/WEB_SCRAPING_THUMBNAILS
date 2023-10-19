@@ -1,17 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Many applications use a mix of several languages in their construction and use.
-Use of a static code analysis tool can help detect some possible problems.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- Code-breaking algorithms have also existed for centuries.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:933eb5be2a6b24f8f950dd1f7566a0d1eab8ff32cf8f061b37864d7396d6086f
+size 2079

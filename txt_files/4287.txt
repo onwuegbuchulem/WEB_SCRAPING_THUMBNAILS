@@ -1,15 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Use of a static code analysis tool can help detect some possible problems.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Programs were mostly entered using punched cards or paper tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cd1f0f0bde9d2252d29d96c5fef059a06dc7e55995523a8ea6ce2d16407453
+size 2085

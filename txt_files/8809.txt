@@ -1,15 +1,3 @@
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, readability is more than just programming style.
-However, readability is more than just programming style.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Scripting and breakpointing is also part of this process.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-To produce machine code, the source code must either be compiled or transpiled.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-There exist a lot of different approaches for each of those tasks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb89592aa28d5f2867d444f37e45cf9835f69bf46c1714f74b249e7fea4af79
+size 2400

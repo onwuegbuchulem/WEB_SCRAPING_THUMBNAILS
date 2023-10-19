@@ -1,15 +1,3 @@
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-This is interpreted into machine code.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-There exist a lot of different approaches for each of those tasks.
-Programming languages are essential for software development.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:532e9ed47a96c4e4df796d101ae89b4bd7c008a75dbc7d65a55d7e9e9acadba1
+size 2220

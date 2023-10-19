@@ -1,16 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- Programs were mostly entered using punched cards or paper tape.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Different programming languages support different styles of programming (called programming paradigms).
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Relatedly, software engineering combines engineering techniques and principles with software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3c9cd484170118ae6a234f9758d3e5a078564e8ca8b73db1851f2532d2a1e3
+size 2208

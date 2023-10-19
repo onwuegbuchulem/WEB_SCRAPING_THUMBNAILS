@@ -1,17 +1,3 @@
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Techniques like Code refactoring can enhance readability.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Scripting and breakpointing is also part of this process.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-One approach popular for requirements analysis is Use Case analysis.
-Integrated development environments (IDEs) aim to integrate all such help.
-Use of a static code analysis tool can help detect some possible problems.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-Normally the first step in debugging is to attempt to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e2ed81d40234bdb166369da20680cf2668ff4b467c0489687adb8d7dd7397f
+size 1862

@@ -1,17 +1,3 @@
-However, readability is more than just programming style.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Scripting and breakpointing is also part of this process.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- Different programming languages support different styles of programming (called programming paradigms).
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9a58cf1996794428d23832455e0f34ca373e065cecdad14c96ae9f40d93b100
+size 2170

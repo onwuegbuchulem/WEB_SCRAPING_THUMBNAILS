@@ -1,17 +1,3 @@
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-One approach popular for requirements analysis is Use Case analysis.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-One approach popular for requirements analysis is Use Case analysis.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0eb933e5ada8dbe779eb6157bb5cd068e61fb6306ed3e9ad91c7e0b7aa654bd
+size 2571

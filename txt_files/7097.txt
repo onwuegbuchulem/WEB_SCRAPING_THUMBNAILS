@@ -1,15 +1,3 @@
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There exist a lot of different approaches for each of those tasks.
-There exist a lot of different approaches for each of those tasks.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Scripting and breakpointing is also part of this process.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb95b6a51bab91048cbda756384a491c4b0ed44cfce08d9539439baf9c63aed
+size 1574

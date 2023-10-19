@@ -1,16 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-There exist a lot of different approaches for each of those tasks.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-There exist a lot of different approaches for each of those tasks.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Techniques like Code refactoring can enhance readability.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e088de96720ab3ab3b3e92f3e4e4064bef0ad61f4f9ecd82c8cb4bd61d9786a
+size 2375

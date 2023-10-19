@@ -1,15 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-To produce machine code, the source code must either be compiled or transpiled.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Techniques like Code refactoring can enhance readability.
-However, readability is more than just programming style.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Scripting and breakpointing is also part of this process.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Programming languages are essential for software development.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f559a18aa78e5437494f10f7b4190507756722846e6f8cae2cc4e0399081f122
+size 1752

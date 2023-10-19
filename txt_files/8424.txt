@@ -1,16 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-There are many approaches to the Software development process.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-One approach popular for requirements analysis is Use Case analysis.
-Use of a static code analysis tool can help detect some possible problems.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Scripting and breakpointing is also part of this process.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Use of a static code analysis tool can help detect some possible problems.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6af73bdf2a451407f5f90640a6262a358749aa120ec7923ae37c0edc710fae74
+size 2109

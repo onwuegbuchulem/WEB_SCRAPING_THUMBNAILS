@@ -1,15 +1,3 @@
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-However, readability is more than just programming style.
-There are many approaches to the Software development process.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Techniques like Code refactoring can enhance readability.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc401c9f4cfe928a5133cf8d367a1cfc670b417fa140fcb69493ab34abb7ab8d
+size 2203

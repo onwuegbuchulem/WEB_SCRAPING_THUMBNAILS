@@ -1,16 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-One approach popular for requirements analysis is Use Case analysis.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3679199b233044691ff09cd4611d333dc45f490e2ecbb19988e745fccca7d688
+size 2376

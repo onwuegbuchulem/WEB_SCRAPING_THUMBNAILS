@@ -1,17 +1,3 @@
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- Code-breaking algorithms have also existed for centuries.
-Techniques like Code refactoring can enhance readability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a317c3f75500215f7e2fae8f2b9e200b6e56c2e1a16790cd1b78a880a9f1048
+size 2376

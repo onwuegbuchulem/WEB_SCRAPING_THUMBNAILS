@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Many applications use a mix of several languages in their construction and use.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Many applications use a mix of several languages in their construction and use.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Techniques like Code refactoring can enhance readability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:815bbe77c2e51458746d2fca25e577b64c7f2652296793a16a89288afb8866a6
+size 1986

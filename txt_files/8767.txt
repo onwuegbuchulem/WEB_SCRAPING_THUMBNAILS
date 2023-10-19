@@ -1,19 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-To produce machine code, the source code must either be compiled or transpiled.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc0f4d327d50bc7518e6fc80ca6f3afbebc005fb182e6c7f6ab4407c5d7c5ed
+size 2381

@@ -1,15 +1,3 @@
-Use of a static code analysis tool can help detect some possible problems.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Computer programmers are those who write computer software.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34d1c446e42ad5fe47ba84a9a3d10c965bb2f21443e7ecbe11da73faea8d92fd
+size 2062

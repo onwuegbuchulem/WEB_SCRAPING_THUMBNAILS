@@ -1,16 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Techniques like Code refactoring can enhance readability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-There exist a lot of different approaches for each of those tasks.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Programming languages are essential for software development.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-There exist a lot of different approaches for each of those tasks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da08888fe83151abf2cb8ef6823b1c669185dafe55ba39a4b681ec0362fe6328
+size 1902

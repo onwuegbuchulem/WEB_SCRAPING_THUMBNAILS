@@ -1,15 +1,3 @@
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Many applications use a mix of several languages in their construction and use.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-There are many approaches to the Software development process.
-To produce machine code, the source code must either be compiled or transpiled.
- Computer programmers are those who write computer software.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Scripting and breakpointing is also part of this process.
-There are many approaches to the Software development process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5865653615f63e0f0603ab8922cbf1589f7420212b5c194adb57015f18d190c
+size 1787

@@ -1,17 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Scripting and breakpointing is also part of this process.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Relatedly, software engineering combines engineering techniques and principles with software development.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed98e73ccbdc80084eff02cbb0e59a07970314af92303b827aefe8ed2e3cbe8a
+size 2385

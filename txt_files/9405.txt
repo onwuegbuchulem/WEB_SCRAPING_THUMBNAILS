@@ -1,19 +1,3 @@
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-There are many approaches to the Software development process.
-Normally the first step in debugging is to attempt to reproduce the problem.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-To produce machine code, the source code must either be compiled or transpiled.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1d50cc7d3bf99553401cbf318b9c710c51984795fba5475cc9b9aff8ea08fd9
+size 2204

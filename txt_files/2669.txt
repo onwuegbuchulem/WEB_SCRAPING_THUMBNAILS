@@ -1,15 +1,3 @@
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Integrated development environments (IDEs) aim to integrate all such help.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Use of a static code analysis tool can help detect some possible problems.
-Programming languages are essential for software development.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- Code-breaking algorithms have also existed for centuries.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4992caae7ed1270e65e5b83f7195bfb61b1ea7ceb1da88a9df18061e0106df69
+size 2462

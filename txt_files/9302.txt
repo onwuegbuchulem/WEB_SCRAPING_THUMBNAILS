@@ -1,17 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, readability is more than just programming style.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-There are many approaches to the Software development process.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-This is interpreted into machine code.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-There exist a lot of different approaches for each of those tasks.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
- It is very difficult to determine what are the most popular modern programming languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42824687139a97f59f2329dae2b13c9a8f3071c10821ab36c595c35b94b4f07
+size 2023

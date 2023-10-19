@@ -1,16 +1,3 @@
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Use of a static code analysis tool can help detect some possible problems.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-However, readability is more than just programming style.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-However, readability is more than just programming style.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c51b1bd4e6b075e6385e20216ac2c81c9baf3483c7a2d7f34b953a4c5100bed
+size 1931

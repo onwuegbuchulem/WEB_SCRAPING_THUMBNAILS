@@ -1,17 +1,3 @@
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Normally the first step in debugging is to attempt to reproduce the problem.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-There are many approaches to the Software development process.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Ideally, the programming language best suited for the task at hand will be selected.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-To produce machine code, the source code must either be compiled or transpiled.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2603ee05f9417eb5f63764ce611d84f82220572729daddad644862d9d0894d2
+size 1893

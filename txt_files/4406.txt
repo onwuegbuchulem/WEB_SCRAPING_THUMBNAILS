@@ -1,16 +1,3 @@
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Techniques like Code refactoring can enhance readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f35197f24fe5dcb240f1d61c122186f200a965934a2cd2f7364323b29cbd805
+size 2254

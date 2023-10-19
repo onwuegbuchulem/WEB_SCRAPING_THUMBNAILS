@@ -1,18 +1,3 @@
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Use of a static code analysis tool can help detect some possible problems.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Integrated development environments (IDEs) aim to integrate all such help.
-Ideally, the programming language best suited for the task at hand will be selected.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33161a029a3d404f4ce21abb6fd65b583f85c8531d3b365741f7826a63faf713
+size 2395

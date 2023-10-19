@@ -1,15 +1,3 @@
-There are many approaches to the Software development process.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Normally the first step in debugging is to attempt to reproduce the problem.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, readability is more than just programming style.
-However, readability is more than just programming style.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec3896cb999ff44d77137ae2fbc33754eb6d66455004701aa6869b36ecb21833
+size 2164

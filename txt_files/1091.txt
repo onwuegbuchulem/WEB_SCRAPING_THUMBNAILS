@@ -1,15 +1,3 @@
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-However, readability is more than just programming style.
-Many applications use a mix of several languages in their construction and use.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Techniques like Code refactoring can enhance readability.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3508dfa156e45e12f5023b896f422c1556a4395878d7f321cbfe864dade1b7b
+size 2264

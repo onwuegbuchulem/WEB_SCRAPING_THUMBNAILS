@@ -1,15 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, readability is more than just programming style.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bdb78ccb9984869336aa1f83f633ebd9a43412e563d55e3f2eaf3132ad492e3
+size 2537

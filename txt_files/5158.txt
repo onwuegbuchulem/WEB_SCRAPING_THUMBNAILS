@@ -1,16 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many applications use a mix of several languages in their construction and use.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Ideally, the programming language best suited for the task at hand will be selected.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6474f97e2fd353bcda3b08b2be784505d7ae460fb2d1a6fbc98b03281edd52b8
+size 2216

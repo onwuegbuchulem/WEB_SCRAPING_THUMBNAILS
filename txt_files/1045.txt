@@ -1,15 +1,3 @@
-To produce machine code, the source code must either be compiled or transpiled.
-Use of a static code analysis tool can help detect some possible problems.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-One approach popular for requirements analysis is Use Case analysis.
-Integrated development environments (IDEs) aim to integrate all such help.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-There are many approaches to the Software development process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-This is interpreted into machine code.
-Use of a static code analysis tool can help detect some possible problems.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a419fd81ee619d8f17decc0e26e6177986e7ab4f14910e3c8f0817214115ed1a
+size 1800

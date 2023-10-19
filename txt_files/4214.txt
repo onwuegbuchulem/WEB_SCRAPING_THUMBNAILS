@@ -1,16 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-However, readability is more than just programming style.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-To produce machine code, the source code must either be compiled or transpiled.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Ideally, the programming language best suited for the task at hand will be selected.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Scripting and breakpointing is also part of this process.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a7f6112085ab19fe9d7b200af6dbcca95c129984a033c000fb1217016d13b95
+size 2105

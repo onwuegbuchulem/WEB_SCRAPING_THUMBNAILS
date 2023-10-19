@@ -1,15 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-There are many approaches to the Software development process.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Integrated development environments (IDEs) aim to integrate all such help.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Use of a static code analysis tool can help detect some possible problems.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Techniques like Code refactoring can enhance readability.
- It is very difficult to determine what are the most popular modern programming languages.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc2d4faa4c8d4148dfe0a4b72afa903a487ead516e9a9bf4816d4647baddeb3
+size 1709

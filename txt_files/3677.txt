@@ -1,16 +1,3 @@
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-This is interpreted into machine code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Integrated development environments (IDEs) aim to integrate all such help.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-This is interpreted into machine code.
-There are many approaches to the Software development process.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12033336a12f2befc817c1ceae7fc505c71bd778f862e6536082b8ee3b81a496
+size 1955

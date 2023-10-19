@@ -1,15 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Ideally, the programming language best suited for the task at hand will be selected.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Techniques like Code refactoring can enhance readability.
-One approach popular for requirements analysis is Use Case analysis.
- Programmable devices have existed for centuries.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, readability is more than just programming style.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-Ideally, the programming language best suited for the task at hand will be selected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25600368330e1ed6019c01b897cce4e4e8be720f73fe3f2f2cebff59a7e384b6
+size 1932

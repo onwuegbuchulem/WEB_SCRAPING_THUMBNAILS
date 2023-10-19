@@ -1,15 +1,3 @@
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Techniques like Code refactoring can enhance readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-To produce machine code, the source code must either be compiled or transpiled.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- Code-breaking algorithms have also existed for centuries.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9152a6aa21441311ddec78586535b06660c70bd3426e96cde72559b7cd60138b
+size 2087

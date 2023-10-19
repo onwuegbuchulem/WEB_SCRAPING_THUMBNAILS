@@ -1,15 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-To produce machine code, the source code must either be compiled or transpiled.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Ideally, the programming language best suited for the task at hand will be selected.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Integrated development environments (IDEs) aim to integrate all such help.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97baace20e41bcb621871aed3db5f3e367b976f12ec1563468972312dbf917f7
+size 1824

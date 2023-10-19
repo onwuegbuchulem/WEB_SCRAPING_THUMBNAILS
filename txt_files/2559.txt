@@ -1,19 +1,3 @@
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-There exist a lot of different approaches for each of those tasks.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Integrated development environments (IDEs) aim to integrate all such help.
-Integrated development environments (IDEs) aim to integrate all such help.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d586f86b1ff2b5d837f2bfad68b20ecd1431375c85c0ccb2300b092ef9a4377
+size 2204

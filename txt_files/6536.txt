@@ -1,19 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Integrated development environments (IDEs) aim to integrate all such help.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bfa3f7b98a1ff98d6604fd5bf4f398d5a73171baa2389ba633605c59d9ac1d1
+size 2425

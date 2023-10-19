@@ -1,15 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-There exist a lot of different approaches for each of those tasks.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Integrated development environments (IDEs) aim to integrate all such help.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b04c31c7b308fdd49a5523b1be7d476461e6069d8e082dbba58912dcc6a39f02
+size 1956

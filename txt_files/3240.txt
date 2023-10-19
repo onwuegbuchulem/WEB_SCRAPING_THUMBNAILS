@@ -1,15 +1,3 @@
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-One approach popular for requirements analysis is Use Case analysis.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Use of a static code analysis tool can help detect some possible problems.
-Integrated development environments (IDEs) aim to integrate all such help.
-Normally the first step in debugging is to attempt to reproduce the problem.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-One approach popular for requirements analysis is Use Case analysis.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9274fb7e03f893067741ba8d83199b24eafdcb4ef41ec76d391a302d5b28a908
+size 2291

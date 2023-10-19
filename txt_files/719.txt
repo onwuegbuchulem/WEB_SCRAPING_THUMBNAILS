@@ -1,15 +1,3 @@
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Techniques like Code refactoring can enhance readability.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Techniques like Code refactoring can enhance readability.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Use of a static code analysis tool can help detect some possible problems.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- Computer programmers are those who write computer software.
-To produce machine code, the source code must either be compiled or transpiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40792b146ba8eb1323ea271bf8afdaa6659085eb77d312dfe33b423e7f314f31
+size 1972

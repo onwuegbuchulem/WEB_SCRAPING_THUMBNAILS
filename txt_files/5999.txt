@@ -1,15 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Programming languages are essential for software development.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-To produce machine code, the source code must either be compiled or transpiled.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Programming languages are essential for software development.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0ced52e723b1651da238c2307e2e83a09e9caef4d32c225c952d1d08518868
+size 2017

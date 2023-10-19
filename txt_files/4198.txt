@@ -1,18 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Scripting and breakpointing is also part of this process.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Programming languages are essential for software development.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-There are many approaches to the Software development process.
-One approach popular for requirements analysis is Use Case analysis.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Programs were mostly entered using punched cards or paper tape.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- It is very difficult to determine what are the most popular modern programming languages.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f2634da505b02d8f295a916c6a218c741b1161d9d6c92ceb756919cf3a98df5
+size 1940

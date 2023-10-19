@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-There are many approaches to the Software development process.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-To produce machine code, the source code must either be compiled or transpiled.
-Many applications use a mix of several languages in their construction and use.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Integrated development environments (IDEs) aim to integrate all such help.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Computer programmers are those who write computer software.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c80aa3ebd1f3429d61aa168fcea43954f8a513335be67c3d3a553cf2a798fd
+size 1664

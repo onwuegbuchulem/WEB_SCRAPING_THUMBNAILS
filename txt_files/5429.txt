@@ -1,15 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Techniques like Code refactoring can enhance readability.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-This is interpreted into machine code.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Relatedly, software engineering combines engineering techniques and principles with software development.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-There are many approaches to the Software development process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:959109e63123d1b91030803f01b75511bd0569a59a8372b93807392cb1d8760c
+size 2056

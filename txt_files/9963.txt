@@ -1,16 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Use of a static code analysis tool can help detect some possible problems.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Many applications use a mix of several languages in their construction and use.
-One approach popular for requirements analysis is Use Case analysis.
-Integrated development environments (IDEs) aim to integrate all such help.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-One approach popular for requirements analysis is Use Case analysis.
-To produce machine code, the source code must either be compiled or transpiled.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Use of a static code analysis tool can help detect some possible problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0b108b386e68151cb139b4684a4e30e36e4887e4a879d894a5408f030be35a
+size 2043

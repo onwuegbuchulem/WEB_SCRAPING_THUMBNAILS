@@ -1,16 +1,3 @@
-Scripting and breakpointing is also part of this process.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Integrated development environments (IDEs) aim to integrate all such help.
-Techniques like Code refactoring can enhance readability.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
- Computer programmers are those who write computer software.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a208956824269c255d204ac4a5b820066779d01d5e48038b4dd96ccb9b0e93ee
+size 1938

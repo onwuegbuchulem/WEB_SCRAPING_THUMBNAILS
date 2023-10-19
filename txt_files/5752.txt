@@ -1,15 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Many applications use a mix of several languages in their construction and use.
-There exist a lot of different approaches for each of those tasks.
-One approach popular for requirements analysis is Use Case analysis.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Use of a static code analysis tool can help detect some possible problems.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad6c20e7d33b11874b472dec28cef5af1401c049c7a049178530565d1ee2b4bd
+size 2116

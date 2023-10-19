@@ -1,17 +1,3 @@
-Programming languages are essential for software development.
-Techniques like Code refactoring can enhance readability.
-There exist a lot of different approaches for each of those tasks.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Techniques like Code refactoring can enhance readability.
-However, readability is more than just programming style.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca6e0dc3cd6150e8a6a03e944c5020b1e8d9e0a6047518caf5a0dfe000bb57d
+size 1956

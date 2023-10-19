@@ -1,15 +1,3 @@
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Integrated development environments (IDEs) aim to integrate all such help.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-There are many approaches to the Software development process.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- It is very difficult to determine what are the most popular modern programming languages.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bdba65b7a41012f797c3db396fa3ad69161d23e73328503675a9d7b766d5a2c
+size 2353

@@ -1,16 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Use of a static code analysis tool can help detect some possible problems.
-Use of a static code analysis tool can help detect some possible problems.
-To produce machine code, the source code must either be compiled or transpiled.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-To produce machine code, the source code must either be compiled or transpiled.
-One approach popular for requirements analysis is Use Case analysis.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Many applications use a mix of several languages in their construction and use.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69ce4079fb1837fb7d6771ef3bb187cd3b345a5c32f41cf8e017374ead058824
+size 2104

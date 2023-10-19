@@ -1,15 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-One approach popular for requirements analysis is Use Case analysis.
-Ideally, the programming language best suited for the task at hand will be selected.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Techniques like Code refactoring can enhance readability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Integrated development environments (IDEs) aim to integrate all such help.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc479722f708c2ea3e63ee159a87bea9df1f45aec7cc5d0448f16220a7b47869
+size 1943

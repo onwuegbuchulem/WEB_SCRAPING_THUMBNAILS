@@ -1,15 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-There are many approaches to the Software development process.
-Ideally, the programming language best suited for the task at hand will be selected.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Integrated development environments (IDEs) aim to integrate all such help.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Programming languages are essential for software development.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- Computer programmers are those who write computer software.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14b7cbb583468e801e2c2a804018ff3fa06b0af8da292700f5aa9a6982cc5570
+size 1973

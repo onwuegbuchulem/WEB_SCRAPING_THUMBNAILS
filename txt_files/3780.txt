@@ -1,16 +1,3 @@
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Ideally, the programming language best suited for the task at hand will be selected.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, readability is more than just programming style.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-One approach popular for requirements analysis is Use Case analysis.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aad9e0b64fec93060183303a0531bda86e45555cb4d65c54d2e8fa573e213f9
+size 2502

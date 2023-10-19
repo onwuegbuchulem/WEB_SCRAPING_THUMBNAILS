@@ -1,17 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
- Computer programmers are those who write computer software.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Many applications use a mix of several languages in their construction and use.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5c91aa874e9b2b42a203fd00aac6ac5ed59eaadf39bffa7af046fa1ed3bd06d
+size 2335

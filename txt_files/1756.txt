@@ -1,16 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Integrated development environments (IDEs) aim to integrate all such help.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-There exist a lot of different approaches for each of those tasks.
-Scripting and breakpointing is also part of this process.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-There are many approaches to the Software development process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, readability is more than just programming style.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60ec2215cded330cc5fe48153e1818564181a6dcbec1a4688f0dd001c69b988c
+size 2077

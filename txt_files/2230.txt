@@ -1,15 +1,3 @@
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Many applications use a mix of several languages in their construction and use.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Many applications use a mix of several languages in their construction and use.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09522076d08a48aaf8dd095b65a658ccd9a6aa5788db918e4c7865ea862d14e0
+size 2113

@@ -1,15 +1,3 @@
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-There exist a lot of different approaches for each of those tasks.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Use of a static code analysis tool can help detect some possible problems.
-Integrated development environments (IDEs) aim to integrate all such help.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77efdff354aa47cb5ee0928022c4d3699bc77d36960340ffe531435fe6dc33bb
+size 2025

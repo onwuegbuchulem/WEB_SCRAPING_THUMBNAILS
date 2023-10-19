@@ -1,15 +1,3 @@
-Scripting and breakpointing is also part of this process.
-However, readability is more than just programming style.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-One approach popular for requirements analysis is Use Case analysis.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- It is very difficult to determine what are the most popular modern programming languages.
-Integrated development environments (IDEs) aim to integrate all such help.
- Code-breaking algorithms have also existed for centuries.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6da37b2a648f4bcaace04a61cb9fce54ad9d13fe399df727228a5c523abf48c
+size 1671

@@ -1,16 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Many applications use a mix of several languages in their construction and use.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Use of a static code analysis tool can help detect some possible problems.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-There exist a lot of different approaches for each of those tasks.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There are many approaches to the Software development process.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cf4746b07b90ae6da5977f18c68a390e6252cdafc092bef673d03c7b57b5296
+size 2100

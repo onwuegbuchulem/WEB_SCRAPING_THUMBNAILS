@@ -1,15 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-To produce machine code, the source code must either be compiled or transpiled.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Ideally, the programming language best suited for the task at hand will be selected.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-One approach popular for requirements analysis is Use Case analysis.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Use of a static code analysis tool can help detect some possible problems.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Relatedly, software engineering combines engineering techniques and principles with software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0868063f662ace34ee8bf23c957e8a95b7887b5eee42a1b00331f54473acb80
+size 2042

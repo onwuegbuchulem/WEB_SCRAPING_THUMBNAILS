@@ -1,16 +1,3 @@
-One approach popular for requirements analysis is Use Case analysis.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Use of a static code analysis tool can help detect some possible problems.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- Computer programmers are those who write computer software.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-To produce machine code, the source code must either be compiled or transpiled.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aef3534ba40a304ec339df95cda61fe1828b32943ef319f3905d564d0e57cd1e
+size 2409

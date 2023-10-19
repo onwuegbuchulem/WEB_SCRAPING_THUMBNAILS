@@ -1,16 +1,3 @@
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Many applications use a mix of several languages in their construction and use.
-Techniques like Code refactoring can enhance readability.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-One approach popular for requirements analysis is Use Case analysis.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Computer programmers are those who write computer software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade13e37bc0f06086ca4efe150356adb4ea69a2134f3e0a0bb0107b0379958e1
+size 2296

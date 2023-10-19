@@ -1,17 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Many applications use a mix of several languages in their construction and use.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb7ff011951cafa6d0b5241577c43c70f2d74bb3a06daeedbbb0b074aa2cc57b
+size 1998

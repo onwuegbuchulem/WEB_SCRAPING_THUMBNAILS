@@ -1,15 +1,3 @@
-Use of a static code analysis tool can help detect some possible problems.
-One approach popular for requirements analysis is Use Case analysis.
-However, readability is more than just programming style.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Programs were mostly entered using punched cards or paper tape.
-Techniques like Code refactoring can enhance readability.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There exist a lot of different approaches for each of those tasks.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c84587897c78aa90cb63a097101a91899360c51232ef0d0a135d70c3239965a
+size 1575

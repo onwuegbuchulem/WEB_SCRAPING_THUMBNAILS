@@ -1,15 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-There exist a lot of different approaches for each of those tasks.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Integrated development environments (IDEs) aim to integrate all such help.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Different programming languages support different styles of programming (called programming paradigms).
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbab2bd2c4df3212199d2899c4577a5e867c2b0fadd4f6a4416182c4ec81a08a
+size 1974

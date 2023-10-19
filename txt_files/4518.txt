@@ -1,15 +1,3 @@
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-However, readability is more than just programming style.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Scripting and breakpointing is also part of this process.
-Ideally, the programming language best suited for the task at hand will be selected.
-Programming languages are essential for software development.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e3f054e971ba32397857f45a0788a32c2cbadf7ec60b0b25d494d58baf2219
+size 2043

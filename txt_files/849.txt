@@ -1,15 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, readability is more than just programming style.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-There are many approaches to the Software development process.
-Many applications use a mix of several languages in their construction and use.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-Integrated development environments (IDEs) aim to integrate all such help.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7b048907db271496be1da2db94edf5ae590b808dfa6e197b041181fbd2564e9
+size 2001

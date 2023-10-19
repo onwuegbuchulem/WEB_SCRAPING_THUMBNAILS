@@ -1,18 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, readability is more than just programming style.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-To produce machine code, the source code must either be compiled or transpiled.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-There exist a lot of different approaches for each of those tasks.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0cde5473bb81e65877510ac92a1e847f71af175ef2d157cba91d692feeeb1ee
+size 2144

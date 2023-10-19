@@ -1,18 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-This is interpreted into machine code.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-However, readability is more than just programming style.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Scripting and breakpointing is also part of this process.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- Programmable devices have existed for centuries.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3501e2f13d9669a4acd4ab963fb3c316040296dcff25daa0d8bc4d4da096797b
+size 2261

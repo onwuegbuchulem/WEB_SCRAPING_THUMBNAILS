@@ -1,17 +1,3 @@
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Many applications use a mix of several languages in their construction and use.
-Ideally, the programming language best suited for the task at hand will be selected.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- Programmable devices have existed for centuries.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Techniques like Code refactoring can enhance readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d6c121355ac7f0aeb3c6b743da82412d9b163517a05c0fa90921a87a842809a
+size 1991

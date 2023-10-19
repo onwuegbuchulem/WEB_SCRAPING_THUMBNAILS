@@ -1,17 +1,3 @@
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Ideally, the programming language best suited for the task at hand will be selected.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c18d4ff093f7005ee5ed214a9e440f8ed8f804e57beaae0183ac0972a18b42c5
+size 2533

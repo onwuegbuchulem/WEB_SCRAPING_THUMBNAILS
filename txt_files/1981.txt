@@ -1,16 +1,3 @@
-Scripting and breakpointing is also part of this process.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-To produce machine code, the source code must either be compiled or transpiled.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-There are many approaches to the Software development process.
-Integrated development environments (IDEs) aim to integrate all such help.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- It is very difficult to determine what are the most popular modern programming languages.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There are many approaches to the Software development process.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Use of a static code analysis tool can help detect some possible problems.
-There exist a lot of different approaches for each of those tasks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6f9a63a52d4e979c49be804a93ead3749b8b4db84dbe9c0297d29fb9fadaa24
+size 1958

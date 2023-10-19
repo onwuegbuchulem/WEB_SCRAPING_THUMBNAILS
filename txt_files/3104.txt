@@ -1,16 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Scripting and breakpointing is also part of this process.
-Techniques like Code refactoring can enhance readability.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-One approach popular for requirements analysis is Use Case analysis.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
- Different programming languages support different styles of programming (called programming paradigms).
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b1a7ba3fc5ccac020df1b303fd68e03a08e195260da4e2470a418664a235f4
+size 2089

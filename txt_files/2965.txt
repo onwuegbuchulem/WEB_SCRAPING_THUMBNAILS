@@ -1,15 +1,3 @@
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Many applications use a mix of several languages in their construction and use.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Integrated development environments (IDEs) aim to integrate all such help.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
- Different programming languages support different styles of programming (called programming paradigms).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a73c9f03c1738853ada312e48f95064c62a0b6e7d2d375b97f45626872750c4
+size 1971

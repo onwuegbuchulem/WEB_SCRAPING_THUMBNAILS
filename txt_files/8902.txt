@@ -1,15 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-One approach popular for requirements analysis is Use Case analysis.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Scripting and breakpointing is also part of this process.
-One approach popular for requirements analysis is Use Case analysis.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6abe2d12e2d3355d62ef0728a20044a5173a8ab3c65338ff4b71f8afc32748c
+size 1804

@@ -1,16 +1,3 @@
-Ideally, the programming language best suited for the task at hand will be selected.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-However, readability is more than just programming style.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Ideally, the programming language best suited for the task at hand will be selected.
-Ideally, the programming language best suited for the task at hand will be selected.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Relatedly, software engineering combines engineering techniques and principles with software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4558e998021a39e8956661402894411802d50d2f3b5807f078503aadcb1192ad
+size 2016

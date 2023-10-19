@@ -1,15 +1,3 @@
-One approach popular for requirements analysis is Use Case analysis.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-One approach popular for requirements analysis is Use Case analysis.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Programming languages are essential for software development.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2666756d623b99154f70fe91550b786ec58d52e6dd4d19ca0cc9a7c1cb42318
+size 2042

@@ -1,17 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Scripting and breakpointing is also part of this process.
-Use of a static code analysis tool can help detect some possible problems.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Normally the first step in debugging is to attempt to reproduce the problem.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7aca239c158444fad2291ceec4d69e145da5bfbc63cc32cd456879202a57a1
+size 2082

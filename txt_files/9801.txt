@@ -1,15 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Ideally, the programming language best suited for the task at hand will be selected.
-There are many approaches to the Software development process.
-There are many approaches to the Software development process.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-There are many approaches to the Software development process.
-Programming languages are essential for software development.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Scripting and breakpointing is also part of this process.
-To produce machine code, the source code must either be compiled or transpiled.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- Following a consistent programming style often helps readability.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d569ee8e29dc4e661d3aed9a610b36d24fd00b012c164a2903a6b93e5d0de2f0
+size 1763

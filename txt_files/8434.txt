@@ -1,15 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-However, readability is more than just programming style.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-One approach popular for requirements analysis is Use Case analysis.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Relatedly, software engineering combines engineering techniques and principles with software development.
- It is very difficult to determine what are the most popular modern programming languages.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd795296d5c7e9974587ea2e8c652f2da4fcfd7bef1c2fcb95abba3b29163df2
+size 2050

@@ -1,15 +1,3 @@
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Normally the first step in debugging is to attempt to reproduce the problem.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-There exist a lot of different approaches for each of those tasks.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-There are many approaches to the Software development process.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Scripting and breakpointing is also part of this process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:191677d6d421b798e196c2693ed3411324a13cdc050f729fc4c3209fbfccf63c
+size 1915

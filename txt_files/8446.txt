@@ -1,15 +1,3 @@
-This is interpreted into machine code.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Integrated development environments (IDEs) aim to integrate all such help.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- Programmable devices have existed for centuries.
- Different programming languages support different styles of programming (called programming paradigms).
-One approach popular for requirements analysis is Use Case analysis.
-Relatedly, software engineering combines engineering techniques and principles with software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:944e026a335c00cd0a508a295ed4c18c15dde5404698918012c50605dff4d0fc
+size 1890

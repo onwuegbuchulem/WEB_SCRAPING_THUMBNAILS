@@ -1,17 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Programming languages are essential for software development.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-One approach popular for requirements analysis is Use Case analysis.
-Programming languages are essential for software development.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-There are many approaches to the Software development process.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Different programming languages support different styles of programming (called programming paradigms).
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-To produce machine code, the source code must either be compiled or transpiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a11e1d34e70441de1957c311e8c6390f9a11ff9cfd5007cf59c21d26eb40a84c
+size 1775

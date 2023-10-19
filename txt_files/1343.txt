@@ -1,16 +1,3 @@
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
- Programmable devices have existed for centuries.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
- Different programming languages support different styles of programming (called programming paradigms).
-To produce machine code, the source code must either be compiled or transpiled.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Ideally, the programming language best suited for the task at hand will be selected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daa1b1fd6ba1b5d1d293a615ab5921601f20a59e365e8f9c711fbd92bd88a407
+size 2448

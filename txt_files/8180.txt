@@ -1,17 +1,3 @@
-Programming languages are essential for software development.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Scripting and breakpointing is also part of this process.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
- It is very difficult to determine what are the most popular modern programming languages.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- Following a consistent programming style often helps readability.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9889ef4d40a3eb072b149179d6e6f2608834b0513bc76a49cba477f8367a308e
+size 1920

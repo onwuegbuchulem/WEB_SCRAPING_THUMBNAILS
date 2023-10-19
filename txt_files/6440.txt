@@ -1,16 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Integrated development environments (IDEs) aim to integrate all such help.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Many applications use a mix of several languages in their construction and use.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Use of a static code analysis tool can help detect some possible problems.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
- Programmable devices have existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6294822c73038df2bf9001c6a683db6665709a024f0128f470136e659c40ea9e
+size 2334

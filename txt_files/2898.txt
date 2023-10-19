@@ -1,18 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many applications use a mix of several languages in their construction and use.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Use of a static code analysis tool can help detect some possible problems.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Use of a static code analysis tool can help detect some possible problems.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab69907d9cd43ab2d64f90e9a1156485a2e5e07160943848252eeecdcf445f6
+size 2014

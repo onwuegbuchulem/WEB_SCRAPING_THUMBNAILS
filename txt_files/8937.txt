@@ -1,15 +1,3 @@
-Use of a static code analysis tool can help detect some possible problems.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Techniques like Code refactoring can enhance readability.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+version https://git-lfs.github.com/spec/v1
+oid sha256:025089e26737f90b01305829fadc12783cc9e794552ece6fd2db24997bc5340c
+size 2602

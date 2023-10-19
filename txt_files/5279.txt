@@ -1,16 +1,3 @@
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many applications use a mix of several languages in their construction and use.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-Integrated development environments (IDEs) aim to integrate all such help.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7982b6265af3c905e5409e3d53f5c0e4de4b921a79bca7f883b5844efbe6032
+size 2179

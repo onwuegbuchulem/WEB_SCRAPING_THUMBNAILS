@@ -1,15 +1,3 @@
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Scripting and breakpointing is also part of this process.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Many applications use a mix of several languages in their construction and use.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Use of a static code analysis tool can help detect some possible problems.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6a05fc9793ab5c1472ae801c3603fc306ab1c6a6e2e6f9ecccfdad923a6bfbd
+size 2021

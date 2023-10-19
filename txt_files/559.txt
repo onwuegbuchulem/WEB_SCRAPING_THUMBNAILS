@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Techniques like Code refactoring can enhance readability.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2efa794b32a11e62f1cc3c7d3fae337ab222521a398dca3126a98a6a81ded322
+size 2254

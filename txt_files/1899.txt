@@ -1,15 +1,3 @@
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Integrated development environments (IDEs) aim to integrate all such help.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Ideally, the programming language best suited for the task at hand will be selected.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca13293462e0283f0860010196ddeb16fb56afa1270d3d138313d6789cdc9a26
+size 1985

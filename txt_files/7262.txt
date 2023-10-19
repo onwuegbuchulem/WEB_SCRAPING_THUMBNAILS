@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-One approach popular for requirements analysis is Use Case analysis.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Scripting and breakpointing is also part of this process.
- Code-breaking algorithms have also existed for centuries.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d39978688162560cb9af686d3cbd1c732d1dd054a0abde690d4fd93b0e44acd
+size 1724

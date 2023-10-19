@@ -1,17 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Scripting and breakpointing is also part of this process.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- Programs were mostly entered using punched cards or paper tape.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b382c406b6bb2fee0b08f4b7f6883efe2f2244060d132796a83dd5255c831ca
+size 2101

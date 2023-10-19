@@ -1,19 +1,3 @@
-However, readability is more than just programming style.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Ideally, the programming language best suited for the task at hand will be selected.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Techniques like Code refactoring can enhance readability.
-
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
- Computer programmers are those who write computer software.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd374ea4a53dda37b1ce4afc60efce6197f63476e3688b29097261efd4ccd635
+size 1975

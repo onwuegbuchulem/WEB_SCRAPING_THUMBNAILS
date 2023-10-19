@@ -1,15 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Programming languages are essential for software development.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Techniques like Code refactoring can enhance readability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:597cba274301162f761e46369d1e0464d1b5543912bc52e98b913ddd58cd2073
+size 2111

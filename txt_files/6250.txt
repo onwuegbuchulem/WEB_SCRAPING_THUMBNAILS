@@ -1,16 +1,3 @@
-However, readability is more than just programming style.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-This is interpreted into machine code.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-There are many approaches to the Software development process.
-
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:075b7f4d62d31f3beaacef21dadd6fa077775a44af537622d3124cfe102db1b4
+size 2112

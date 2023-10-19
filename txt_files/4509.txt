@@ -1,15 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Programming languages are essential for software development.
-Normally the first step in debugging is to attempt to reproduce the problem.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Programming languages are essential for software development.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
- It is very difficult to determine what are the most popular modern programming languages.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfca81cc0793b2a8b60643cce78fc32103f111f182c936ab3dce5275c0faf5f2
+size 2043

@@ -1,16 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many applications use a mix of several languages in their construction and use.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Following a consistent programming style often helps readability.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Integrated development environments (IDEs) aim to integrate all such help.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Programming languages are essential for software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd6480179fceb30bbbbd4188a7a6ce34e4d290bed5639f8eb76499e258b92596
+size 2173

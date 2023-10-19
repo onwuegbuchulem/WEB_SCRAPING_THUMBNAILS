@@ -1,16 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, readability is more than just programming style.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62da609c46ad29807c638eca14bc4b66a3fc04dfa38aa935886164b17e12d73f
+size 2440

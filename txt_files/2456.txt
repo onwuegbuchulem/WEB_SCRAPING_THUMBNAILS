@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Techniques like Code refactoring can enhance readability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46548e823ce14adfffbb01608146df94b4affea36015339bd6fe2f068add7650
+size 2118

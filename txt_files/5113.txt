@@ -1,15 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Techniques like Code refactoring can enhance readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- It is very difficult to determine what are the most popular modern programming languages.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-Many applications use a mix of several languages in their construction and use.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af43c73cc5bf010b70c88d436e6ae550d94c71f7d5bc4fcbc574ae979cdbbabc
+size 2298

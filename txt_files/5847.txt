@@ -1,16 +1,3 @@
-However, readability is more than just programming style.
-Integrated development environments (IDEs) aim to integrate all such help.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Programming languages are essential for software development.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
- Programmable devices have existed for centuries.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Relatedly, software engineering combines engineering techniques and principles with software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7758caddf8a943241eb57130c0991d9d94608eed78830acd32ddabd4beccc833
+size 1881

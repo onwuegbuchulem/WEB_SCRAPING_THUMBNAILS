@@ -1,15 +1,3 @@
-Ideally, the programming language best suited for the task at hand will be selected.
-Use of a static code analysis tool can help detect some possible problems.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Use of a static code analysis tool can help detect some possible problems.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
- Code-breaking algorithms have also existed for centuries.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cd96e33a2c4d4cb0890a9e14b3216e138141cbe480e4442489e3facf3545f65
+size 2479

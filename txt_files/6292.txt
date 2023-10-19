@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Many applications use a mix of several languages in their construction and use.
-One approach popular for requirements analysis is Use Case analysis.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-However, readability is more than just programming style.
-Normally the first step in debugging is to attempt to reproduce the problem.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ffd151eabdfac44ff99b5ff0d4bfa26a37a22d2b805d8392adb1559beb55ca3
+size 2136

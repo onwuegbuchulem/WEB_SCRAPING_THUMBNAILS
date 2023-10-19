@@ -1,16 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Ideally, the programming language best suited for the task at hand will be selected.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Programming languages are essential for software development.
-Scripting and breakpointing is also part of this process.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Use of a static code analysis tool can help detect some possible problems.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:076da956af51d4427385b1720562af6fa5241930aa459e0fe9bc709ca97b05df
+size 1790

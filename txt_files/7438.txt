@@ -1,16 +1,3 @@
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-To produce machine code, the source code must either be compiled or transpiled.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Techniques like Code refactoring can enhance readability.
-There exist a lot of different approaches for each of those tasks.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5fe8d3d91415cbc86d6bfac4f1362f8757667e1e1f0f01f7d06a5f3fa63277d
+size 2297

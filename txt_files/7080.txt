@@ -1,16 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-There are many approaches to the Software development process.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7007c05b9b65daf3bb514315ec616e59732b9471082f9c8c1b980c4d37bfbb6f
+size 2340

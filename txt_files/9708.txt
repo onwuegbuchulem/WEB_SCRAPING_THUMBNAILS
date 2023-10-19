@@ -1,16 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-There exist a lot of different approaches for each of those tasks.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d2fccc25b432644cc745942260d5ded596616d8057cf9aaa5698894243452c4
+size 2592

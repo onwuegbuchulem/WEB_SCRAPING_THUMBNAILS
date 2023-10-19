@@ -1,15 +1,3 @@
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, readability is more than just programming style.
-One approach popular for requirements analysis is Use Case analysis.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-One approach popular for requirements analysis is Use Case analysis.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:402a30e69537f6ef7984e4ac317a5931d56828964fb5ff2ed7db727cfeff8eed
+size 2085

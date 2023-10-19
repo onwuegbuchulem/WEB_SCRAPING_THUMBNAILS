@@ -1,15 +1,3 @@
-Programming languages are essential for software development.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Use of a static code analysis tool can help detect some possible problems.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Use of a static code analysis tool can help detect some possible problems.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
- Programs were mostly entered using punched cards or paper tape.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:731021f1306c93fbe6b4bd617a998de495611f7ebae86b86f2b8546b74c9981d
+size 1965

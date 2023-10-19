@@ -1,15 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Many applications use a mix of several languages in their construction and use.
-Programming languages are essential for software development.
-There exist a lot of different approaches for each of those tasks.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Techniques like Code refactoring can enhance readability.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d08fe27e0ed956eedd9a802df02ccda470a763ed69afce7546db20653c7f1de0
+size 2197

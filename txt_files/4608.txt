@@ -1,15 +1,3 @@
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Scripting and breakpointing is also part of this process.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-One approach popular for requirements analysis is Use Case analysis.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:558fc523bbacadf083114d2517c38f47caf83c0730f247be91c84d51ee88eb36
+size 2418

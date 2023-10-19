@@ -1,16 +1,3 @@
-Techniques like Code refactoring can enhance readability.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Programming languages are essential for software development.
-One approach popular for requirements analysis is Use Case analysis.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Techniques like Code refactoring can enhance readability.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:896dafc3141592efd21fe505e99b01e1439b0796085a854cf03ffd0f90e74de5
+size 1796

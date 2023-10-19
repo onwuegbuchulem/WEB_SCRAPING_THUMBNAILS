@@ -1,15 +1,3 @@
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-To produce machine code, the source code must either be compiled or transpiled.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Ideally, the programming language best suited for the task at hand will be selected.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96a870ceb8c1680476ceca500c852d361c5f4c1802db7222459f765889fc22b1
+size 2229

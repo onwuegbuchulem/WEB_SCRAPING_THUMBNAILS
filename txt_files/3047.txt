@@ -1,16 +1,3 @@
-One approach popular for requirements analysis is Use Case analysis.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-However, readability is more than just programming style.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Computer programmers are those who write computer software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ae7746a52fe5c9ea245554a62c843c5d6a2f5c0d68453b51dce460f04e18a1
+size 1828

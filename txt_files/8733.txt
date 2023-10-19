@@ -1,15 +1,3 @@
-This is interpreted into machine code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-There exist a lot of different approaches for each of those tasks.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-This is interpreted into machine code.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98811de2167a0228e2e8864a299173e4df25687b623d61b4173c52590496a1a4
+size 2373

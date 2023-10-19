@@ -1,15 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-There are many approaches to the Software development process.
-However, readability is more than just programming style.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e152260482da9e5ef90b7204d5bf22b7229839e57852e8f6ca4c45d99c773b1c
+size 2539

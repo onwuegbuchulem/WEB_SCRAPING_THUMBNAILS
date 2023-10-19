@@ -1,17 +1,3 @@
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Scripting and breakpointing is also part of this process.
-To produce machine code, the source code must either be compiled or transpiled.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e9aee2ca6691a5508f2e1e993a55208a32ad8a6a5f03a9839f63fcf73dc779d
+size 2018

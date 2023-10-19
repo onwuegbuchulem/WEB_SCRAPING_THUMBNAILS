@@ -1,20 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Many applications use a mix of several languages in their construction and use.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-However, readability is more than just programming style.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Integrated development environments (IDEs) aim to integrate all such help.
- Different programming languages support different styles of programming (called programming paradigms).
- Different programming languages support different styles of programming (called programming paradigms).
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b263b396db82c5ff205a6adf7bc99312c601661c9d12eb3915f0267045a23c61
+size 2049

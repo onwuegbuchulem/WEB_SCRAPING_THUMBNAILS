@@ -1,16 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, readability is more than just programming style.
-Many applications use a mix of several languages in their construction and use.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, readability is more than just programming style.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
- Computer programmers are those who write computer software.
- It is very difficult to determine what are the most popular modern programming languages.
-Programming languages are essential for software development.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c39e0a49d761d8cac5758648d8be07a67b7930e2653278ba3f183ca87e64c906
+size 1696

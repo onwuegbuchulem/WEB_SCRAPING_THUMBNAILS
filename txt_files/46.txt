@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Use of a static code analysis tool can help detect some possible problems.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-One approach popular for requirements analysis is Use Case analysis.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Programming languages are essential for software development.
-There are many approaches to the Software development process.
-Scripting and breakpointing is also part of this process.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- Following a consistent programming style often helps readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aedb68220dfbb22d00bb308c886d0877186ea8df2a37d826cd009903f3bb48b6
+size 1664

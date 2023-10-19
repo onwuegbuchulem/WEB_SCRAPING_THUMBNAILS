@@ -1,15 +1,3 @@
-One approach popular for requirements analysis is Use Case analysis.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
- Computer programmers are those who write computer software.
-There are many approaches to the Software development process.
-Ideally, the programming language best suited for the task at hand will be selected.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5c696f5c8225106550caa880d11bb97431466e908c69bc2addca14089db14d2
+size 2313

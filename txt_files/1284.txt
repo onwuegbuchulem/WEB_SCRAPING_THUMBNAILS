@@ -1,15 +1,3 @@
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Ideally, the programming language best suited for the task at hand will be selected.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, readability is more than just programming style.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- Code-breaking algorithms have also existed for centuries.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Techniques like Code refactoring can enhance readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db13b5fd58c061216a5f80d020f697f2b153cb6a740e6377f92204f4955b87f0
+size 1997

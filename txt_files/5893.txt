@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Use of a static code analysis tool can help detect some possible problems.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-One approach popular for requirements analysis is Use Case analysis.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Scripting and breakpointing is also part of this process.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:667c977194755035e6d99ebdba0e48e3beb8a352d9fd218306a9ac0c9e2e3a0d
+size 2223

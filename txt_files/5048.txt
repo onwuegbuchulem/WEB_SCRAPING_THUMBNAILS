@@ -1,16 +1,3 @@
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Many applications use a mix of several languages in their construction and use.
-Scripting and breakpointing is also part of this process.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-There exist a lot of different approaches for each of those tasks.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
-To produce machine code, the source code must either be compiled or transpiled.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f3a8c3e446403f6ddb655ceed5a3ec185646c378b4dfad3f7680f5466eb5ec
+size 2278

@@ -1,17 +1,3 @@
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-One approach popular for requirements analysis is Use Case analysis.
-Ideally, the programming language best suited for the task at hand will be selected.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Use of a static code analysis tool can help detect some possible problems.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-There exist a lot of different approaches for each of those tasks.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23fbad17f1cf37aff64e4a96ea12f34143e6e56200f02653373be96ae51385f7
+size 2055

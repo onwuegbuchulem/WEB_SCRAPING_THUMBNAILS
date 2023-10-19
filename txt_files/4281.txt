@@ -1,16 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-There exist a lot of different approaches for each of those tasks.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Integrated development environments (IDEs) aim to integrate all such help.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-There are many approaches to the Software development process.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-This is interpreted into machine code.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50382ec76a3fdbe269d5264556be0d7c7da8ff2ed1d44588d326ca9b21d113d6
+size 1845

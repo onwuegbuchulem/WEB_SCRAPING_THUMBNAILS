@@ -1,15 +1,3 @@
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Use of a static code analysis tool can help detect some possible problems.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-There exist a lot of different approaches for each of those tasks.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b66f29267c79a09b87f640176a2338a0522eeb826b667e95c3e92a1e9f5c952
+size 2269

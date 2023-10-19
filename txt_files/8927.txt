@@ -1,15 +1,3 @@
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Ideally, the programming language best suited for the task at hand will be selected.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Use of a static code analysis tool can help detect some possible problems.
-To produce machine code, the source code must either be compiled or transpiled.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d0649601d955ff24ba1584daaf4532b69b38fb94e408a4887b47979957b7877
+size 2146

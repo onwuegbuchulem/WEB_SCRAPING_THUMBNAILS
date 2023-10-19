@@ -1,19 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-One approach popular for requirements analysis is Use Case analysis.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Use of a static code analysis tool can help detect some possible problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f1714e24e13b59db7a7279e8645f2089ed7306fb35709194647f41a6b287267
+size 2119

@@ -1,16 +1,3 @@
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Techniques like Code refactoring can enhance readability.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8730b262590b4f615dbfe0a76387c3239661454363f0a3f2832adcd41bbfc20c
+size 2527

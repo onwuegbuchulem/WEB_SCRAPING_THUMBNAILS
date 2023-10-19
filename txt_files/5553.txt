@@ -1,16 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-There exist a lot of different approaches for each of those tasks.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Integrated development environments (IDEs) aim to integrate all such help.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-To produce machine code, the source code must either be compiled or transpiled.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a47def41703ee1d2c3697195864dc15fb71082700fe26d7b2586cef6ea2ef73
+size 2123

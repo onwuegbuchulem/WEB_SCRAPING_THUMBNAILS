@@ -1,16 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-One approach popular for requirements analysis is Use Case analysis.
-There exist a lot of different approaches for each of those tasks.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Many applications use a mix of several languages in their construction and use.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Use of a static code analysis tool can help detect some possible problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5370190a0882193c100f47c29941dc276af8f894e2b66f1cb12b2d77b812d286
+size 1967

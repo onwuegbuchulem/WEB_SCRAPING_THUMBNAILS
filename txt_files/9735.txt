@@ -1,17 +1,3 @@
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Many applications use a mix of several languages in their construction and use.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-There are many approaches to the Software development process.
-However, readability is more than just programming style.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a5fd0cc5d189c7ab5259b2fb4e3cf8b9e2e98a43aab1a9fce42b7ac9c55d16
+size 2367

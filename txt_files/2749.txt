@@ -1,17 +1,3 @@
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Many applications use a mix of several languages in their construction and use.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Scripting and breakpointing is also part of this process.
-There are many approaches to the Software development process.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- It is very difficult to determine what are the most popular modern programming languages.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d040868826abe1143667703b6b2f757ceedfd2c6de16d99582e86d49e88606
+size 2362

@@ -1,15 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Techniques like Code refactoring can enhance readability.
-This is interpreted into machine code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Programming languages are essential for software development.
- Programs were mostly entered using punched cards or paper tape.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-To produce machine code, the source code must either be compiled or transpiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f123e1586df802d5c4eb4f0b7dd4e841fed5f7ce77b5dda6df8c0b55989b1d
+size 2092

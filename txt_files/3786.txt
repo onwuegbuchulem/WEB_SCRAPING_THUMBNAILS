@@ -1,17 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Techniques like Code refactoring can enhance readability.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
- Computer programmers are those who write computer software.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed7c232026c57b070ed4ef242a5e0ce076862c976a60f457a211c01b72e84e1
+size 2366

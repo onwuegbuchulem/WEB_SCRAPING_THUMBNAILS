@@ -1,16 +1,3 @@
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Many applications use a mix of several languages in their construction and use.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-To produce machine code, the source code must either be compiled or transpiled.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:794dfc6939edcc36feb7dc10975545e65bc08ee78147cd8f343e5e4996e26e41
+size 2295

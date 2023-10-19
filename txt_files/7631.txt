@@ -1,16 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Many applications use a mix of several languages in their construction and use.
-One approach popular for requirements analysis is Use Case analysis.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Integrated development environments (IDEs) aim to integrate all such help.
-Scripting and breakpointing is also part of this process.
- Computer programmers are those who write computer software.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24875021fcad7caa483421f5bad5aae5c8553adba40669a7cf381645afef3fb4
+size 1918

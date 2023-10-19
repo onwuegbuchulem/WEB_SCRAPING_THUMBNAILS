@@ -1,16 +1,3 @@
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-There exist a lot of different approaches for each of those tasks.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Integrated development environments (IDEs) aim to integrate all such help.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94eb0179204a2485d8676377323b56a71e43838a1936022fb448042986feb57e
+size 2151

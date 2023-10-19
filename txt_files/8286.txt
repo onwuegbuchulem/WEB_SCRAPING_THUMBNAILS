@@ -1,17 +1,3 @@
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-To produce machine code, the source code must either be compiled or transpiled.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e08487427c2799d9ebbb1a348c6937199fbd83fc42c355148d3b5e230734a0bb
+size 2347

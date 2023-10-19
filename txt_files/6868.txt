@@ -1,16 +1,3 @@
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-There exist a lot of different approaches for each of those tasks.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-To produce machine code, the source code must either be compiled or transpiled.
-This is interpreted into machine code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Integrated development environments (IDEs) aim to integrate all such help.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fe5a40420e24fbc71faaaa10afc6bed639ad5b46a7335ea3f7f64da3786c4e1
+size 2233

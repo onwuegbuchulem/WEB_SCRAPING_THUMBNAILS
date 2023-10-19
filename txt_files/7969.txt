@@ -1,15 +1,3 @@
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-There are many approaches to the Software development process.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
- Programs were mostly entered using punched cards or paper tape.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b00ac2b3c3a00a1a4ab5b8c241f6936f72e364e30262bbdca584547c4118eb
+size 2097

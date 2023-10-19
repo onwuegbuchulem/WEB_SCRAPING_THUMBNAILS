@@ -1,15 +1,3 @@
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-There are many approaches to the Software development process.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Ideally, the programming language best suited for the task at hand will be selected.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- Programmable devices have existed for centuries.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4966e85968325688d3ad7c6a1042842c72fc70bd9c854dc5254ad3964ad053e9
+size 2169

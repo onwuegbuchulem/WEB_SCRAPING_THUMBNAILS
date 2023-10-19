@@ -1,16 +1,3 @@
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Normally the first step in debugging is to attempt to reproduce the problem.
-To produce machine code, the source code must either be compiled or transpiled.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
- Different programming languages support different styles of programming (called programming paradigms).
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb7950e0b6e7273376faddaabc1fdad14d3b98cc787434c3a0a5882571949db
+size 1955

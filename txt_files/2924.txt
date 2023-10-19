@@ -1,16 +1,3 @@
-To produce machine code, the source code must either be compiled or transpiled.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Integrated development environments (IDEs) aim to integrate all such help.
-Ideally, the programming language best suited for the task at hand will be selected.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-There exist a lot of different approaches for each of those tasks.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:954e1057ce44eef4b085aecd7e6e3cc97d9078680da228e21eee364153e53fad
+size 2190

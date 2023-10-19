@@ -1,19 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Ideally, the programming language best suited for the task at hand will be selected.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, readability is more than just programming style.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79164bb74d56e81c22bc7d5c2a87c4182c9f5f80a34f6e62ffcc158e60364360
+size 2503

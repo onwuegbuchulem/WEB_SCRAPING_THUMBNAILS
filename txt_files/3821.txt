@@ -1,15 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-One approach popular for requirements analysis is Use Case analysis.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-There are many approaches to the Software development process.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-Scripting and breakpointing is also part of this process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c22b37df0f7a6398113eb5ea4800bfb9081ab0e8cc295f10fbf09e8613463713
+size 2430

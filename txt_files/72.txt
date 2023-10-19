@@ -1,17 +1,3 @@
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Programming languages are essential for software development.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a8ceaa2fd404509edff3dfc49bbfc5d34db4ccdb1f065e9c32396490b9417e5
+size 2226

@@ -1,17 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Techniques like Code refactoring can enhance readability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Integrated development environments (IDEs) aim to integrate all such help.
-To produce machine code, the source code must either be compiled or transpiled.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Many applications use a mix of several languages in their construction and use.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03cfee772b925bb47170bd5536a6464e0d8a6120b26cd299bf8464116c0c913a
+size 2100

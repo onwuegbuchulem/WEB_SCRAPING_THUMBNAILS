@@ -1,15 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-One approach popular for requirements analysis is Use Case analysis.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-There are many approaches to the Software development process.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Integrated development environments (IDEs) aim to integrate all such help.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Programming languages are essential for software development.
-Integrated development environments (IDEs) aim to integrate all such help.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef3636aa2a4d23a4c065d4e649db9c871b3fd3b813431ebfa4f741ed29725edd
+size 2034

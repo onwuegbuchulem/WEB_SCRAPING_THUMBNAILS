@@ -1,15 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Many applications use a mix of several languages in their construction and use.
-Ideally, the programming language best suited for the task at hand will be selected.
-However, readability is more than just programming style.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Techniques like Code refactoring can enhance readability.
- Following a consistent programming style often helps readability.
- Programs were mostly entered using punched cards or paper tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa416798bdfc9361f8c392095ca35babb9f30c17d7f7fe8f4562f8637be004b9
+size 1529

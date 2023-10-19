@@ -1,16 +1,3 @@
-One approach popular for requirements analysis is Use Case analysis.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Techniques like Code refactoring can enhance readability.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47a0d181795fa4c0602abe88015f9cefe4565c29e8fd6d2a736b9b33b531a0a9
+size 2162

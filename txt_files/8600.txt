@@ -1,17 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-There exist a lot of different approaches for each of those tasks.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Use of a static code analysis tool can help detect some possible problems.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Scripting and breakpointing is also part of this process.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Techniques like Code refactoring can enhance readability.
-However, readability is more than just programming style.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb220254c861d31b8d094b880f8b6e101bfbacca7852c6208baa76925718355
+size 1708

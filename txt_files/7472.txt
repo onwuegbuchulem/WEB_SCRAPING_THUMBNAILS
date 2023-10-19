@@ -1,16 +1,3 @@
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
- Code-breaking algorithms have also existed for centuries.
- Code-breaking algorithms have also existed for centuries.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:007d7c7ec23f7a40381776c144b65be9aa1450fd6f332cefc9730950aff4347c
+size 2158

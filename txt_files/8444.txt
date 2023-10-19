@@ -1,16 +1,3 @@
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Use of a static code analysis tool can help detect some possible problems.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-There exist a lot of different approaches for each of those tasks.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Ideally, the programming language best suited for the task at hand will be selected.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64b7559a592c2ed72f9e008267783767f65d058bfe4f51d2ef8ea36d27485ac
+size 2021

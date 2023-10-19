@@ -1,16 +1,3 @@
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Many applications use a mix of several languages in their construction and use.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- It is very difficult to determine what are the most popular modern programming languages.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efce415702f5d67c710152eab743ca765d87744d85e3fbbe9e70dea4f0ed02e1
+size 2435

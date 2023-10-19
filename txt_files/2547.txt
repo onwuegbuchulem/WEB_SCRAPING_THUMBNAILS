@@ -1,15 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Many applications use a mix of several languages in their construction and use.
-Integrated development environments (IDEs) aim to integrate all such help.
-There are many approaches to the Software development process.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-There exist a lot of different approaches for each of those tasks.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6054a1481ed9cb029957e9071d3d1d008d338b9aef8c722bdd7824ecc6d68384
+size 2069

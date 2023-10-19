@@ -1,15 +1,3 @@
-There are many approaches to the Software development process.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-There exist a lot of different approaches for each of those tasks.
-There exist a lot of different approaches for each of those tasks.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Programming languages are essential for software development.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a168ec9ea97e9e4f2125b0d6af6fc5636bf4cd36968e32f74a091b1aa3b64e
+size 2040

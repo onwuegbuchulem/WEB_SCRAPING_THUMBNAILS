@@ -1,15 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-To produce machine code, the source code must either be compiled or transpiled.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-There are many approaches to the Software development process.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:530a5d293eac6acfae5f729c49a0ac4463ce183fc957970400d3712c08abc935
+size 2203

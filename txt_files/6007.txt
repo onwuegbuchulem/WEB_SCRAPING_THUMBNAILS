@@ -1,15 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-One approach popular for requirements analysis is Use Case analysis.
-Programming languages are essential for software development.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-There exist a lot of different approaches for each of those tasks.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-There are many approaches to the Software development process.
- Programs were mostly entered using punched cards or paper tape.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f1e387150f77e3a60cf42a1414e4baec99e3974c7d3b3a527e55d29a174f74
+size 2191

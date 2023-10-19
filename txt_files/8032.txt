@@ -1,18 +1,3 @@
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Use of a static code analysis tool can help detect some possible problems.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-However, readability is more than just programming style.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:607f87be202dbaf46af849323a57ed7ff3edd2ffe481bb1034bcc918261719ed
+size 1901

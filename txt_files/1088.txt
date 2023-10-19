@@ -1,18 +1,3 @@
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-However, readability is more than just programming style.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-To produce machine code, the source code must either be compiled or transpiled.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Integrated development environments (IDEs) aim to integrate all such help.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-However, readability is more than just programming style.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-Techniques like Code refactoring can enhance readability.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc702c483170b3771d84efd6023e3da64e823a42f3bf4f5a69700211d307d180
+size 1940

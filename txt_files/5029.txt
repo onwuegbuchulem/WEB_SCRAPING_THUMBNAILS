@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-Techniques like Code refactoring can enhance readability.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Use of a static code analysis tool can help detect some possible problems.
-Integrated development environments (IDEs) aim to integrate all such help.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Techniques like Code refactoring can enhance readability.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Many applications use a mix of several languages in their construction and use.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd4b395182cb1e805b885cfd362df3e3a53111759ba641950620fb0f7c586a5
+size 1983

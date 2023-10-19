@@ -1,17 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-To produce machine code, the source code must either be compiled or transpiled.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Scripting and breakpointing is also part of this process.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db4347e9008f2219d5c3a9efd315912bb7fb3ca253437f968a16ff2c8e6e82c2
+size 2224

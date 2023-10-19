@@ -1,18 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11650567ceac11f52aeffafbb1e7bc0c34c8c4ca895b7737dce98e6c4050dccb
+size 2095

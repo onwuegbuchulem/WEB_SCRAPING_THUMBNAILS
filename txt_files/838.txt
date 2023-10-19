@@ -1,15 +1,3 @@
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Techniques like Code refactoring can enhance readability.
-There exist a lot of different approaches for each of those tasks.
-There exist a lot of different approaches for each of those tasks.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Integrated development environments (IDEs) aim to integrate all such help.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f13322c53bccb59666e4dfd57e7b10029d2f6b3bfe3da28545df0fc10ee88d2d
+size 1891

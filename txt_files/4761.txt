@@ -1,17 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-One approach popular for requirements analysis is Use Case analysis.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
- It is very difficult to determine what are the most popular modern programming languages.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df0aa451a1a43b1f1d250870c23850d16f81ef1fd51eeca6a35cf12732a255f
+size 2089

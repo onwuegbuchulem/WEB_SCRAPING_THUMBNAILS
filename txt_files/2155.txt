@@ -1,18 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Many applications use a mix of several languages in their construction and use.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-There exist a lot of different approaches for each of those tasks.
-One approach popular for requirements analysis is Use Case analysis.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:244d306bb739472e8e2f5765e0d1c20ea81f9519d93cd66109c612cce743c92d
+size 2223

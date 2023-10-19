@@ -1,15 +1,3 @@
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-To produce machine code, the source code must either be compiled or transpiled.
-Many applications use a mix of several languages in their construction and use.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Techniques like Code refactoring can enhance readability.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Use of a static code analysis tool can help detect some possible problems.
-Use of a static code analysis tool can help detect some possible problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2adebee5071ef14efe65b716cbda7c988bb49d03906a1f025517ab3e89dcc72a
+size 1918

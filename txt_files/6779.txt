@@ -1,16 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-One approach popular for requirements analysis is Use Case analysis.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Ideally, the programming language best suited for the task at hand will be selected.
-Use of a static code analysis tool can help detect some possible problems.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Use of a static code analysis tool can help detect some possible problems.
-Many applications use a mix of several languages in their construction and use.
-Ideally, the programming language best suited for the task at hand will be selected.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-This is interpreted into machine code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-There exist a lot of different approaches for each of those tasks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41775107c62f6c34456b328daf3a9fb2fd50f86a964a821842ab00a90628fbbb
+size 2000

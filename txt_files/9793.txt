@@ -1,15 +1,3 @@
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Techniques like Code refactoring can enhance readability.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Scripting and breakpointing is also part of this process.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-To produce machine code, the source code must either be compiled or transpiled.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-There exist a lot of different approaches for each of those tasks.
-One approach popular for requirements analysis is Use Case analysis.
-There exist a lot of different approaches for each of those tasks.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a271ae94606cd8e05fe1d940f96cd8cd69111fac91afa7e730f697967f27fa40
+size 2073

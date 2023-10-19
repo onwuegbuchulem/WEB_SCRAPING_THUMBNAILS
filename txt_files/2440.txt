@@ -1,15 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Many applications use a mix of several languages in their construction and use.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-One approach popular for requirements analysis is Use Case analysis.
-However, readability is more than just programming style.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-There exist a lot of different approaches for each of those tasks.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e053ba5f7a99c8fd3039ca2d586f0a3fe7508b04fd47e828af062e35e9b5cf4
+size 2021

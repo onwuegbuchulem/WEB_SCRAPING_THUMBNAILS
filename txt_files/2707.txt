@@ -1,16 +1,3 @@
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-There are many approaches to the Software development process.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-This is interpreted into machine code.
-One approach popular for requirements analysis is Use Case analysis.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61bf4e4b7933874285659626630d11827ed962271639530ebf2dfd588d160137
+size 1956

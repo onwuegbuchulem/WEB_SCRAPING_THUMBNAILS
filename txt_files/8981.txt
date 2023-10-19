@@ -1,17 +1,3 @@
-This is interpreted into machine code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-However, readability is more than just programming style.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-One approach popular for requirements analysis is Use Case analysis.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
- Code-breaking algorithms have also existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0274b41b827d59c94d0a9f165c17c92a45691f058612252bc4d5eab41ec8a6d5
+size 2068

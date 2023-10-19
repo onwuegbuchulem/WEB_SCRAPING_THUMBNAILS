@@ -1,17 +1,3 @@
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Integrated development environments (IDEs) aim to integrate all such help.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Techniques like Code refactoring can enhance readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Ideally, the programming language best suited for the task at hand will be selected.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:160e750e961582b43ee28fe103f767d4e4959fbc0758ecb58b708fc491979ce3
+size 1778

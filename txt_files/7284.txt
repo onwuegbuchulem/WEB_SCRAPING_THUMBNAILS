@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-Programming languages are essential for software development.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Scripting and breakpointing is also part of this process.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-To produce machine code, the source code must either be compiled or transpiled.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-One approach popular for requirements analysis is Use Case analysis.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bcf6e20cf55857e5d24862727ea48a541dd09fa5249fb36ebcad0222f7a2f43
+size 2314

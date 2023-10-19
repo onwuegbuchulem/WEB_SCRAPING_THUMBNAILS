@@ -1,17 +1,3 @@
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Use of a static code analysis tool can help detect some possible problems.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Ideally, the programming language best suited for the task at hand will be selected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc359ee70f89c78492b0b83a69d4ec32617b72ca40c206c6bd5df0055801055
+size 2563

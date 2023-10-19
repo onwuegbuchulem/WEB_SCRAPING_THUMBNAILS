@@ -1,17 +1,3 @@
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Techniques like Code refactoring can enhance readability.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-One approach popular for requirements analysis is Use Case analysis.
-Techniques like Code refactoring can enhance readability.
-One approach popular for requirements analysis is Use Case analysis.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Programming languages are essential for software development.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb60a67547a693e9d02b6c6a6d6bc636c2bd818638402bc1cfbf681f3012210
+size 2031

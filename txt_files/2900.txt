@@ -1,18 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Many applications use a mix of several languages in their construction and use.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-To produce machine code, the source code must either be compiled or transpiled.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Use of a static code analysis tool can help detect some possible problems.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
- Following a consistent programming style often helps readability.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15a8a78248e829631f1523afda11f95d2fee544b6538dbb476654672d05a7cf3
+size 2039

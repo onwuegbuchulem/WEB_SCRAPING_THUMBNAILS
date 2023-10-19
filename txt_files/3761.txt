@@ -1,17 +1,3 @@
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Scripting and breakpointing is also part of this process.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Many applications use a mix of several languages in their construction and use.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
- Programs were mostly entered using punched cards or paper tape.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5254142360c445109b016055bd5fab0e8425145c4801a4923ca4e7957faeaee7
+size 1924

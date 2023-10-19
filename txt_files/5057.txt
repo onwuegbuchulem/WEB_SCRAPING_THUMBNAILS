@@ -1,16 +1,3 @@
-Integrated development environments (IDEs) aim to integrate all such help.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Use of a static code analysis tool can help detect some possible problems.
-One approach popular for requirements analysis is Use Case analysis.
-Ideally, the programming language best suited for the task at hand will be selected.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Ideally, the programming language best suited for the task at hand will be selected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5b6ab962bd7b4f4c503e20629265d1a7763ebc878bdb9ecb8774bda3103f8b
+size 1996

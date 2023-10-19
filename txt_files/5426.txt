@@ -1,16 +1,3 @@
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-To produce machine code, the source code must either be compiled or transpiled.
-This is interpreted into machine code.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-This is interpreted into machine code.
-Ideally, the programming language best suited for the task at hand will be selected.
-Programming languages are essential for software development.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Use of a static code analysis tool can help detect some possible problems.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60973aefd8e2c5233f795ca5d8d461449fff75b031997cd7bb0b36a3a6a2e3d
+size 1672

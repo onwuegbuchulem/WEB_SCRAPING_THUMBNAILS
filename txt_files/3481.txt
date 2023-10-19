@@ -1,19 +1,3 @@
-This is interpreted into machine code.
-To produce machine code, the source code must either be compiled or transpiled.
-There are many approaches to the Software development process.
-One approach popular for requirements analysis is Use Case analysis.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-To produce machine code, the source code must either be compiled or transpiled.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6afa443b7dd484447bbac257925a2ee9b183fe42810f7ca9603d893fee4679d
+size 2050

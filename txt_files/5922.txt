@@ -1,15 +1,3 @@
-To produce machine code, the source code must either be compiled or transpiled.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-There are many approaches to the Software development process.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Programming languages are essential for software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e49fb04c0972778ebadbee2824319da2a7f40eea93a51ffe66d729d4fded515
+size 2032

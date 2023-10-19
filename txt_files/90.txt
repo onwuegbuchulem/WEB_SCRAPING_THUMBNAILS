@@ -1,15 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9422328100222e33e13a85af18321ecb62957834d5e238d8a3b4cc59cbe0484d
+size 2620

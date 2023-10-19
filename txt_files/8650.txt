@@ -1,19 +1,3 @@
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-This is interpreted into machine code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Many applications use a mix of several languages in their construction and use.
-Ideally, the programming language best suited for the task at hand will be selected.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-There are many approaches to the Software development process.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-One approach popular for requirements analysis is Use Case analysis.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1d4af95002c73e186fcf840b47e18d2da57244c834f64e47ca3ab3629a9d919
+size 1729

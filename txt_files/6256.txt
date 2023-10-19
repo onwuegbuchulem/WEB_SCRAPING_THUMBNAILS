@@ -1,15 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-Scripting and breakpointing is also part of this process.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-There exist a lot of different approaches for each of those tasks.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Following a consistent programming style often helps readability.
- Programs were mostly entered using punched cards or paper tape.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c242f8a1cbfa4cb7a2d756305980aa9e51502441c3e1daf3a47866e54637103
+size 2138

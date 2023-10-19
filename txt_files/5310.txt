@@ -1,15 +1,3 @@
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Integrated development environments (IDEs) aim to integrate all such help.
-This is interpreted into machine code.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Integrated development environments (IDEs) aim to integrate all such help.
-One approach popular for requirements analysis is Use Case analysis.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-To produce machine code, the source code must either be compiled or transpiled.
-One approach popular for requirements analysis is Use Case analysis.
- Different programming languages support different styles of programming (called programming paradigms).
-However, readability is more than just programming style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f56701f29aeb3c24310716cba7d2f18d504e90015c009ccbd312aa9b38007d2
+size 1751

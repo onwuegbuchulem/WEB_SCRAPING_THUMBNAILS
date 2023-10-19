@@ -1,15 +1,3 @@
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-There are many approaches to the Software development process.
-However, readability is more than just programming style.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Use of a static code analysis tool can help detect some possible problems.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-To produce machine code, the source code must either be compiled or transpiled.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-To produce machine code, the source code must either be compiled or transpiled.
-Many applications use a mix of several languages in their construction and use.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-However, readability is more than just programming style.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f081e1b85a0272f2745483e760a1813e13f5c70a396e4c7bcf6f86ec50d3c4
+size 1595

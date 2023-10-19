@@ -1,15 +1,3 @@
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Integrated development environments (IDEs) aim to integrate all such help.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-There are many approaches to the Software development process.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Many applications use a mix of several languages in their construction and use.
- The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b92ead3aafc7bb0bb046125bcb85b33ed077a987ea6a8051bc9ac3def79e587
+size 2537

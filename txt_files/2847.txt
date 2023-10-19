@@ -1,15 +1,3 @@
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-There are many approaches to the Software development process.
-There are many approaches to the Software development process.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-One approach popular for requirements analysis is Use Case analysis.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-One approach popular for requirements analysis is Use Case analysis.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-To produce machine code, the source code must either be compiled or transpiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d835181300e20cac8df0028732fa3a3e75c7a75b4262865b04a38a3c044bc745
+size 1770

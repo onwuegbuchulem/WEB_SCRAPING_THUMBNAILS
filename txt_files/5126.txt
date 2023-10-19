@@ -1,17 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-This is interpreted into machine code.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-
-The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
-
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d4f2855d42533e8f8c70f0bfd9881f7f34167b7032b365e0f8b1674fceaf17
+size 1914

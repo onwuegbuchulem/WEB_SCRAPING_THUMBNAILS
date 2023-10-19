@@ -1,15 +1,3 @@
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Programming languages are essential for software development.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Techniques like Code refactoring can enhance readability.
-Normally the first step in debugging is to attempt to reproduce the problem.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-There exist a lot of different approaches for each of those tasks.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
-There are many approaches to the Software development process.
-There exist a lot of different approaches for each of those tasks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d236f2fcaad95871ff65300a18eb91c2f6baa12010d1e7374bee28336ebea91
+size 2050

@@ -1,16 +1,3 @@
-There are many approaches to the Software development process.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Use of a static code analysis tool can help detect some possible problems.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d18240d569eaf2b3f0ffe38a1054324fc8575d7429a3b7a340ff9064fb50e9
+size 2623

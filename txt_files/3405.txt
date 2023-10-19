@@ -1,16 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Relatedly, software engineering combines engineering techniques and principles with software development.
- Different programming languages support different styles of programming (called programming paradigms).
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e891c693456c5c294322919349e9b05409d1611a6c69613239b9fb3c85e19c3
+size 2302

@@ -1,15 +1,3 @@
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Many applications use a mix of several languages in their construction and use.
-To produce machine code, the source code must either be compiled or transpiled.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-Techniques like Code refactoring can enhance readability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Programming languages are essential for software development.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16d63510d6d599845431c3eb844646f29e87e05e4388cf6c4557acf3fa1d1f23
+size 2272

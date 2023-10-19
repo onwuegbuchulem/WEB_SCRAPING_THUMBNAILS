@@ -1,15 +1,3 @@
-This is interpreted into machine code.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Use of a static code analysis tool can help detect some possible problems.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-One approach popular for requirements analysis is Use Case analysis.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- Code-breaking algorithms have also existed for centuries.
-Ideally, the programming language best suited for the task at hand will be selected.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16776b867e322ca84c489fd6ef637242d746d2615f4c0efea8a53cdaf53fae1c
+size 1831

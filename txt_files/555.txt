@@ -1,15 +1,3 @@
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Scripting and breakpointing is also part of this process.
-Techniques like Code refactoring can enhance readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Use of a static code analysis tool can help detect some possible problems.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:767782e6e33317fc1c090d139ab6d98779ff5c6ee30c773b673f84a77ef83a46
+size 1977

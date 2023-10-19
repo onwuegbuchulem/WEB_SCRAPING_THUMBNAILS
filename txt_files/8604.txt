@@ -1,17 +1,3 @@
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
- Programmable devices have existed for centuries.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
- Programmable devices have existed for centuries.
-There are many approaches to the Software development process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ed747f7edf2a727de5e43cd67ab933de3ea5093032240f82ee7449325aa2a9
+size 2388

@@ -1,17 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Programming languages are essential for software development.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Programming languages are essential for software development.
- Programs were mostly entered using punched cards or paper tape.
-Ideally, the programming language best suited for the task at hand will be selected.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Use of a static code analysis tool can help detect some possible problems.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21f33a1548216fa5833bc27ab6e8810d8a44422e7207ef655d03d547b92d02f4
+size 2133

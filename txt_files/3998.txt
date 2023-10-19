@@ -1,15 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Techniques like Code refactoring can enhance readability.
-Ideally, the programming language best suited for the task at hand will be selected.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
- Computer programmers are those who write computer software.
- Programs were mostly entered using punched cards or paper tape.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee543c1bb1e00fc6bd753be499dc0ecd033fdccbfd263e7c4141310c4ed6c879
+size 2205

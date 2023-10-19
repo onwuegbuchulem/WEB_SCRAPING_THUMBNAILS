@@ -1,17 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Use of a static code analysis tool can help detect some possible problems.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Use of a static code analysis tool can help detect some possible problems.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Use of a static code analysis tool can help detect some possible problems.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Techniques like Code refactoring can enhance readability.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3acdafdb13574bc9af1b02f278f6d56265ec46c9544f2ea61dd1aed20133411
+size 2074

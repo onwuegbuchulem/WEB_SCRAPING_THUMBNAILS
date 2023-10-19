@@ -1,16 +1,3 @@
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Ideally, the programming language best suited for the task at hand will be selected.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Techniques like Code refactoring can enhance readability.
-Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-One approach popular for requirements analysis is Use Case analysis.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f566b850a49215c0da0554cba933f1b8a368c2877435ceee7b8fbab8c2b18aab
+size 2339

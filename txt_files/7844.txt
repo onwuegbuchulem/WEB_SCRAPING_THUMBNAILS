@@ -1,16 +1,3 @@
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Ideally, the programming language best suited for the task at hand will be selected.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Scripting and breakpointing is also part of this process.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
-Use of a static code analysis tool can help detect some possible problems.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Allen Downey, in his book How To Think Like A Computer Scientist, writes:
- Many computer languages provide a mechanism to call functions provided by shared libraries.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
-Programming languages are essential for software development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d4d0bc5ba486df49a1cff6fdb05d22ca1a421d6f76db42fccd81e78ddb22030
+size 2047

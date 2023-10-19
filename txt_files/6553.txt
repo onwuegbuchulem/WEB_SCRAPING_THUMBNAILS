@@ -1,15 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-There exist a lot of different approaches for each of those tasks.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Programming languages are essential for software development.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d70788cdd029d220b7efb66f9fa0c32cba44826256e0379c077a2a57dfbd1bbd
+size 2317

@@ -1,15 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-Programming languages are essential for software development.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-One approach popular for requirements analysis is Use Case analysis.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-However, readability is more than just programming style.
-Use of a static code analysis tool can help detect some possible problems.
-Many applications use a mix of several languages in their construction and use.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-This is interpreted into machine code.
-One approach popular for requirements analysis is Use Case analysis.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
- These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+version https://git-lfs.github.com/spec/v1
+oid sha256:612d72d00142f5c1c055e10ce6e69c4f7a9dd0166b5e174427fe97fb0e7e5e9a
+size 1993

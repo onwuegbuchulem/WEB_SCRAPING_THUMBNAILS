@@ -1,15 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-Normally the first step in debugging is to attempt to reproduce the problem.
-For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee9b562b3efaea1006450f0dda6fc6084c6281accbc99e2000ee38bef794e07e
+size 2211

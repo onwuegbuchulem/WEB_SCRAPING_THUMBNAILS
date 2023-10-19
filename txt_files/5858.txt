@@ -1,15 +1,3 @@
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Use of a static code analysis tool can help detect some possible problems.
-There exist a lot of different approaches for each of those tasks.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-To produce machine code, the source code must either be compiled or transpiled.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-To produce machine code, the source code must either be compiled or transpiled.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Programming languages are essential for software development.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-One approach popular for requirements analysis is Use Case analysis.
-There are many approaches to the Software development process.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92b132a5d334b208e4fb7b78964972ff78f409e6b9ac6eee4f4c8606f6059f9e
+size 1797

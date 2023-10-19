@@ -1,15 +1,3 @@
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Use of a static code analysis tool can help detect some possible problems.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e07b9db0e48a83609df73b962d16e82963e2efe39565aa9e2cea545753f5f8
+size 2270

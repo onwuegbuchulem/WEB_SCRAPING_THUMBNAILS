@@ -1,15 +1,3 @@
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-There exist a lot of different approaches for each of those tasks.
- Following a consistent programming style often helps readability.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
- Different programming languages support different styles of programming (called programming paradigms).
-Use of a static code analysis tool can help detect some possible problems.
-Integrated development environments (IDEs) aim to integrate all such help.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92beef362cd44fb2c2f064866ae7e6be451689d5ad829351ec964c265b679840
+size 1926

@@ -1,15 +1,3 @@
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-Many applications use a mix of several languages in their construction and use.
-Techniques like Code refactoring can enhance readability.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-To produce machine code, the source code must either be compiled or transpiled.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Techniques like Code refactoring can enhance readability.
-Integrated development environments (IDEs) aim to integrate all such help.
- Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d7724ae8db6d3f9ef3f011a08a75dd766710cd99bfe8051bbeda1f08cdbece
+size 1972

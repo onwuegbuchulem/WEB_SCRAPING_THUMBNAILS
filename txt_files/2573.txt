@@ -1,17 +1,3 @@
-Many applications use a mix of several languages in their construction and use.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b01e1fce07dec925c5b52e34157c2bbb7cc7de6b92b4783e932f579a6ce6142
+size 2157

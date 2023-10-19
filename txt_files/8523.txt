@@ -1,15 +1,3 @@
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Techniques like Code refactoring can enhance readability.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Programming languages are essential for software development.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- Different programming languages support different styles of programming (called programming paradigms).
-This is interpreted into machine code.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d35137098e7b4b11cebfaea01b9c35411e1afec0f4d74b750425760d597f6ee
+size 2100

@@ -1,15 +1,3 @@
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Techniques like Code refactoring can enhance readability.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Integrated development environments (IDEs) aim to integrate all such help.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Ideally, the programming language best suited for the task at hand will be selected.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Many applications use a mix of several languages in their construction and use.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Many applications use a mix of several languages in their construction and use.
- A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7960f102f32fb4d27c33a7de4a3e1a8205d9b55c5fc756fae9c81ef76acc7a10
+size 2128

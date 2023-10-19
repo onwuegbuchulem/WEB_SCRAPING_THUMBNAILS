@@ -1,15 +1,3 @@
-There are many approaches to the Software development process.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-Use of a static code analysis tool can help detect some possible problems.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-Techniques like Code refactoring can enhance readability.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-One approach popular for requirements analysis is Use Case analysis.
- Whatever the approach to development may be, the final program must satisfy some fundamental properties.
-Techniques like Code refactoring can enhance readability.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49323111a54df0700a4f60d881690d96a9a4bf847bcf99712475894ed1127ce8
+size 1864

@@ -1,15 +1,3 @@
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Use of a static code analysis tool can help detect some possible problems.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-There are many approaches to the Software development process.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-Many applications use a mix of several languages in their construction and use.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f49a731b0e101c0418303be34f319aa055ba886cec9be09c1708296cab94953b
+size 2263

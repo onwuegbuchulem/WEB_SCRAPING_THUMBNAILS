@@ -1,15 +1,3 @@
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Ideally, the programming language best suited for the task at hand will be selected.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Programming languages are essential for software development.
-To produce machine code, the source code must either be compiled or transpiled.
-Use of a static code analysis tool can help detect some possible problems.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Ideally, the programming language best suited for the task at hand will be selected.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
- Programmable devices have existed for centuries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fda27e2d7392444c62610f74d4f0d24d368e0eb99fd50013b1d76816ecfecdb1
+size 1787

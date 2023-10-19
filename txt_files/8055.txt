@@ -1,16 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Many applications use a mix of several languages in their construction and use.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, readability is more than just programming style.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Many applications use a mix of several languages in their construction and use.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-This is interpreted into machine code.
-Use of a static code analysis tool can help detect some possible problems.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-One approach popular for requirements analysis is Use Case analysis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:276395e09b50d38229b1f7eef0b54d4320d85efeb5db327c0e465a4928f87c54
+size 1831

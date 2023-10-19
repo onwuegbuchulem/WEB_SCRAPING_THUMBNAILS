@@ -1,15 +1,3 @@
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Scripting and breakpointing is also part of this process.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
- It is very difficult to determine what are the most popular modern programming languages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d2428e6798d463c635001645fb232b380c881e6e404da16e25bef276c792cf
+size 2089

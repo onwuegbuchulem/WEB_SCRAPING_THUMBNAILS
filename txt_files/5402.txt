@@ -1,16 +1,3 @@
-Scripting and breakpointing is also part of this process.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-One approach popular for requirements analysis is Use Case analysis.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Code-breaking algorithms have also existed for centuries.
-This is interpreted into machine code.
-
- Computer programming is the process of performing particular computations (or more generally, accomplishing specific computing results), usually by designing and building executable computer programs.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- Tasks accompanying and related to programming include testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b26717faa5908338ccdcab88a5f2ca591dce536701eb6ade8592bf612104dc
+size 1980

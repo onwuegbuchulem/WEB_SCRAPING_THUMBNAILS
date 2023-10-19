@@ -1,15 +1,3 @@
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-Normally the first step in debugging is to attempt to reproduce the problem.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Integrated development environments (IDEs) aim to integrate all such help.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
- Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e104d62a1a260e0ba9e9641dbffad9c33f0452c4ade84c2057cb58d226ba02b
+size 2024

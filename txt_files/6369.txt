@@ -1,15 +1,3 @@
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-This is interpreted into machine code.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-To produce machine code, the source code must either be compiled or transpiled.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
- Following a consistent programming style often helps readability.
- Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d429eb9ae2a5faa980b1bc13ef66f8a0998453a4b7c4419851de6ddaeb85d693
+size 2139

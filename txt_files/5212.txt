@@ -1,16 +1,3 @@
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Integrated development environments (IDEs) aim to integrate all such help.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f4da1b50351d20f18895a4d5d6055aa09d9ce9d50b3a4586053e02a3acb5a5d
+size 2278

@@ -1,16 +1,3 @@
-There exist a lot of different approaches for each of those tasks.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-There exist a lot of different approaches for each of those tasks.
-Integrated development environments (IDEs) aim to integrate all such help.
-There exist a lot of different approaches for each of those tasks.
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
-There are many approaches to the Software development process.
- Computer programmers are those who write computer software.
-Techniques like Code refactoring can enhance readability.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43be4b91a1345a03df50bbc0706044abcab5473a6ec1873b8aead9b19b6c9413
+size 1739

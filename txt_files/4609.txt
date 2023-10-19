@@ -1,17 +1,3 @@
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Scripting and breakpointing is also part of this process.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Normally the first step in debugging is to attempt to reproduce the problem.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Programming languages are essential for software development.
-Scripting and breakpointing is also part of this process.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:341cc47ef9668ff99a6a94e70dd960bde1747c9b43cda7768380fa65b970bccd
+size 1942

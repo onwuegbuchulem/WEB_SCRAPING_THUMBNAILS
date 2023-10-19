@@ -1,15 +1,3 @@
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Also, specific user environment and usage history can make it difficult to reproduce the problem.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Techniques like Code refactoring can enhance readability.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
- Programs were mostly entered using punched cards or paper tape.
-Integrated development environments (IDEs) aim to integrate all such help.
- The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
-It affects the aspects of quality above, including portability, usability and most importantly maintainability.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f468d68c467983fe6d0e5bf9201cb2e8d969233dbccadff27a3937da65e9a73
+size 2105

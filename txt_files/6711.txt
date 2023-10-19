@@ -1,16 +1,3 @@
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-However, while these might be considered part of the programming process, often the term software development is more likely used for this larger overall process – whereas the terms programming, implementation, and coding tend to be focused on the actual writing of code.
-Many applications use a mix of several languages in their construction and use.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-Normally the first step in debugging is to attempt to reproduce the problem.
-Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
-For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
-To produce machine code, the source code must either be compiled or transpiled.
-There are many approaches to the Software development process.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cfeb98001dff562fb5b34caf42192b2360f197f131137345c0d107ee405b55e
+size 2226

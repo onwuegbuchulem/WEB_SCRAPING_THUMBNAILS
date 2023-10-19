@@ -1,17 +1,3 @@
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-To produce machine code, the source code must either be compiled or transpiled.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-Integrated development environments (IDEs) aim to integrate all such help.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-One approach popular for requirements analysis is Use Case analysis.
-To produce machine code, the source code must either be compiled or transpiled.
-Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
-When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5471cd10360b8c7f0f7f6ec58457cd24ba4a0f660d3f63effef8d7e9e29c7f8b
+size 2254

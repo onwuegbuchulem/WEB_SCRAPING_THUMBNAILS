@@ -1,15 +1,3 @@
-However, readability is more than just programming style.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-This is interpreted into machine code.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-This is interpreted into machine code.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-There exist a lot of different approaches for each of those tasks.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-There exist a lot of different approaches for each of those tasks.
- Computer programmers are those who write computer software.
- Programs were mostly entered using punched cards or paper tape.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e01b37a521f470284d68fe1c05100ca5dc03e285fabe617b0d220fb65f4b8d6
+size 1680

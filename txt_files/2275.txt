@@ -1,16 +1,3 @@
-Normally the first step in debugging is to attempt to reproduce the problem.
-Normally the first step in debugging is to attempt to reproduce the problem.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Ideally, the programming language best suited for the task at hand will be selected.
-Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
-Some of these factors include:
- The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Relatedly, software engineering combines engineering techniques and principles with software development.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Programming languages are essential for software development.
- In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
-There are many approaches to the Software development process.
- Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb37a0e68a215ea0cf15eced3134c29bc501b7bcc209f194fe7a214094cd3ad0
+size 1932

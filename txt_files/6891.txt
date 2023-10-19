@@ -1,15 +1,3 @@
-Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a particular programming language, commonly referred to as coding).
-Ideally, the programming language best suited for the task at hand will be selected.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-There exist a lot of different approaches for each of those tasks.
-A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
-There exist a lot of different approaches for each of those tasks.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
- Different programming languages support different styles of programming (called programming paradigms).
-Integrated development environments (IDEs) aim to integrate all such help.
-The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
- Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
- Different programming languages support different styles of programming (called programming paradigms).
+version https://git-lfs.github.com/spec/v1
+oid sha256:295c4df5bdfbb0deb7d2af75ecea2d6f76ffc44787e076f6a5e2d7cce06651f8
+size 1921

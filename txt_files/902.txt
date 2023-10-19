@@ -1,15 +1,3 @@
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
-By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
-Compiling takes the source code from a low-level programming language and converts it into machine code.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
-There are many approaches to the Software development process.
-Scripting and breakpointing is also part of this process.
-In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
-Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
-To produce machine code, the source code must either be compiled or transpiled.
-However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
-They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ad45c3eaafaaa6662236034cb7cb7de4fcfc8ffef0edbd2b77eb6153f44023
+size 2004

@@ -1,15 +1,3 @@
-This is interpreted into machine code.
-However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
-Scripting and breakpointing is also part of this process.
-However, readability is more than just programming style.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
-Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
-Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
-This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
-Use of a static code analysis tool can help detect some possible problems.
-Techniques like Code refactoring can enhance readability.
- After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
-As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
-The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6ba758635faa5cf3a16e1e9c5bec8709f0f203c567c8616909a71ff4bc271d
+size 1958

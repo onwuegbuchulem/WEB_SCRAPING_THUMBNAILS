@@ -1,15 +1,3 @@
-Programming languages are essential for software development.
-Techniques like Code refactoring can enhance readability.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
-The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
-Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
-Techniques like Code refactoring can enhance readability.
-Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-Techniques like Code refactoring can enhance readability.
-Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
-It is usually easier to code in "high-level" languages than in "low-level" ones.
- The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
- Different programming languages support different styles of programming (called programming paradigms).
-In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:333f9b1e39bf7b40ab0f88df38d87ea2a147bb633f1b2ddc2e54f5da2ac83fe0
+size 1934

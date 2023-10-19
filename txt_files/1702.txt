@@ -1,18 +1,3 @@
-There are many approaches to the Software development process.
-Unreadable code often leads to bugs, inefficiencies, and duplicated code.
-However, readability is more than just programming style.
-Transpiling on the other hand, takes the source-code from a high-level programming language and converts it into bytecode.
-Their jobs usually involve:
- Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
-Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
-The following properties are among the most important:
-
- In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
-Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
-Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
-There are many approaches to the Software development process.
-He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
- Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
- Following a consistent programming style often helps readability.
-Also, those involved with software development may at times engage in reverse engineering, which is the practice of seeking to understand an existing program so as to re-implement its function in some way.
-To produce machine code, the source code must either be compiled or transpiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b547d657caddfa821a14cb28ecd12895ab66a6bbbcb214a6fba38b7f429308b
+size 2077
