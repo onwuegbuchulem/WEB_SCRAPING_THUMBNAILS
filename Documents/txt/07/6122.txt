@@ -1,0 +1,17 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ It is very difficult to determine what are the most popular modern programming languages.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Many applications use a mix of several languages in their construction and use.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

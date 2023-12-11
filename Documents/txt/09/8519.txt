@@ -1,0 +1,15 @@
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Techniques like Code refactoring can enhance readability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Code-breaking algorithms have also existed for centuries.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Programs were mostly entered using punched cards or paper tape.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.

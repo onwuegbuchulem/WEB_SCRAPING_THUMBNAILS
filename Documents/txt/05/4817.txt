@@ -1,0 +1,16 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Scripting and breakpointing is also part of this process.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Techniques like Code refactoring can enhance readability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Normally the first step in debugging is to attempt to reproduce the problem.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Following a consistent programming style often helps readability.

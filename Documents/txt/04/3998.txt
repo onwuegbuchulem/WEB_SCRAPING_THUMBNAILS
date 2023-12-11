@@ -1,0 +1,15 @@
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Programs were mostly entered using punched cards or paper tape.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+However, readability is more than just programming style.
+There are many approaches to the Software development process.
+ Following a consistent programming style often helps readability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Use of a static code analysis tool can help detect some possible problems.

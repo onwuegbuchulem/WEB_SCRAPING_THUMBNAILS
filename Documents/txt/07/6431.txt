@@ -1,0 +1,16 @@
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+One approach popular for requirements analysis is Use Case analysis.
+ Different programming languages support different styles of programming (called programming paradigms).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many applications use a mix of several languages in their construction and use.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Code-breaking algorithms have also existed for centuries.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.

@@ -1,0 +1,17 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Programming languages are essential for software development.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Many applications use a mix of several languages in their construction and use.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.

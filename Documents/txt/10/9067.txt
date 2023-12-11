@@ -1,0 +1,16 @@
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Ideally, the programming language best suited for the task at hand will be selected.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Code-breaking algorithms have also existed for centuries.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Techniques like Code refactoring can enhance readability.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

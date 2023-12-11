@@ -1,0 +1,15 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+There exist a lot of different approaches for each of those tasks.
+ Code-breaking algorithms have also existed for centuries.
+ Following a consistent programming style often helps readability.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Programs were mostly entered using punched cards or paper tape.
+
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+One approach popular for requirements analysis is Use Case analysis.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.

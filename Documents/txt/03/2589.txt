@@ -1,0 +1,18 @@
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+One approach popular for requirements analysis is Use Case analysis.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Different programming languages support different styles of programming (called programming paradigms).
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+There are many approaches to the Software development process.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Techniques like Code refactoring can enhance readability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.

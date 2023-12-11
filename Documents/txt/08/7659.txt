@@ -1,0 +1,17 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+There exist a lot of different approaches for each of those tasks.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Programs were mostly entered using punched cards or paper tape.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

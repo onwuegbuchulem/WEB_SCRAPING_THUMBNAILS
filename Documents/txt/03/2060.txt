@@ -1,0 +1,17 @@
+Many applications use a mix of several languages in their construction and use.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, readability is more than just programming style.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Following a consistent programming style often helps readability.

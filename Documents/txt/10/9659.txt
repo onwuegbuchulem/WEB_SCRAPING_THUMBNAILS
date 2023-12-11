@@ -1,0 +1,19 @@
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+There exist a lot of different approaches for each of those tasks.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Normally the first step in debugging is to attempt to reproduce the problem.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Programmable devices have existed for centuries.
+ Different programming languages support different styles of programming (called programming paradigms).
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.

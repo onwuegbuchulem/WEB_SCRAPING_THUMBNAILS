@@ -1,0 +1,16 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+There are many approaches to the Software development process.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Use of a static code analysis tool can help detect some possible problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+However, readability is more than just programming style.

@@ -1,0 +1,18 @@
+ It is very difficult to determine what are the most popular modern programming languages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Techniques like Code refactoring can enhance readability.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

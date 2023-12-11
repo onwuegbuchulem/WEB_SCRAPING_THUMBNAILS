@@ -1,0 +1,17 @@
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Techniques like Code refactoring can enhance readability.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+However, readability is more than just programming style.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

@@ -1,0 +1,19 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many applications use a mix of several languages in their construction and use.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+There exist a lot of different approaches for each of those tasks.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Different programming languages support different styles of programming (called programming paradigms).

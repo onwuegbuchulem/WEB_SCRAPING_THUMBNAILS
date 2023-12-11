@@ -1,0 +1,16 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Different programming languages support different styles of programming (called programming paradigms).
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Programming languages are essential for software development.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+There exist a lot of different approaches for each of those tasks.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.

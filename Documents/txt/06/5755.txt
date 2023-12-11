@@ -1,0 +1,17 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Many applications use a mix of several languages in their construction and use.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+There exist a lot of different approaches for each of those tasks.
+However, readability is more than just programming style.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

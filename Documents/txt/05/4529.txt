@@ -1,0 +1,17 @@
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Integrated development environments (IDEs) aim to integrate all such help.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Following a consistent programming style often helps readability.
+ Programs were mostly entered using punched cards or paper tape.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Scripting and breakpointing is also part of this process.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.

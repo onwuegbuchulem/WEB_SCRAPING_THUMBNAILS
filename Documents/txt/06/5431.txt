@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Different programming languages support different styles of programming (called programming paradigms).
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Following a consistent programming style often helps readability.
+ Code-breaking algorithms have also existed for centuries.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+There are many approaches to the Software development process.
+Integrated development environments (IDEs) aim to integrate all such help.

@@ -1,0 +1,16 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Techniques like Code refactoring can enhance readability.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+There exist a lot of different approaches for each of those tasks.
+However, readability is more than just programming style.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Programmable devices have existed for centuries.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ It is very difficult to determine what are the most popular modern programming languages.

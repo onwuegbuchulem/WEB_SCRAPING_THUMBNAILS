@@ -1,0 +1,18 @@
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Integrated development environments (IDEs) aim to integrate all such help.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Programs were mostly entered using punched cards or paper tape.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+However, readability is more than just programming style.
+Many applications use a mix of several languages in their construction and use.

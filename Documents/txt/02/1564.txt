@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+There exist a lot of different approaches for each of those tasks.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Use of a static code analysis tool can help detect some possible problems.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Programming languages are essential for software development.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Different programming languages support different styles of programming (called programming paradigms).

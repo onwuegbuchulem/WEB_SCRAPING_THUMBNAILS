@@ -1,0 +1,19 @@
+ Programs were mostly entered using punched cards or paper tape.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Programmable devices have existed for centuries.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+However, readability is more than just programming style.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.

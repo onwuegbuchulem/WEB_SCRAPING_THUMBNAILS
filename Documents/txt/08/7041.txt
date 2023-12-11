@@ -1,0 +1,16 @@
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Use of a static code analysis tool can help detect some possible problems.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+There are many approaches to the Software development process.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Techniques like Code refactoring can enhance readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.

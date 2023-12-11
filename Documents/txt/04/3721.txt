@@ -1,0 +1,17 @@
+Many applications use a mix of several languages in their construction and use.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+There exist a lot of different approaches for each of those tasks.
+Scripting and breakpointing is also part of this process.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+However, readability is more than just programming style.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

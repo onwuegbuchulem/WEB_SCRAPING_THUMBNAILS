@@ -1,0 +1,17 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ Code-breaking algorithms have also existed for centuries.
+Ideally, the programming language best suited for the task at hand will be selected.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+There are many approaches to the Software development process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Different programming languages support different styles of programming (called programming paradigms).
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

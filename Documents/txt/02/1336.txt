@@ -1,0 +1,15 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many applications use a mix of several languages in their construction and use.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Programs were mostly entered using punched cards or paper tape.
+Use of a static code analysis tool can help detect some possible problems.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Programming languages are essential for software development.

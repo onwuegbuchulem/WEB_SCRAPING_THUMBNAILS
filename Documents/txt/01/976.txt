@@ -1,0 +1,17 @@
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Scripting and breakpointing is also part of this process.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, readability is more than just programming style.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

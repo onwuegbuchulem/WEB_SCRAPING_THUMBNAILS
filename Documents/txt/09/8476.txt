@@ -1,0 +1,15 @@
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Scripting and breakpointing is also part of this process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Code-breaking algorithms have also existed for centuries.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+There are many approaches to the Software development process.

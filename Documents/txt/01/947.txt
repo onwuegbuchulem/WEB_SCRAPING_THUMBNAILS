@@ -1,0 +1,15 @@
+Programming languages are essential for software development.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Many applications use a mix of several languages in their construction and use.
+However, readability is more than just programming style.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Following a consistent programming style often helps readability.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Code-breaking algorithms have also existed for centuries.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Scripting and breakpointing is also part of this process.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

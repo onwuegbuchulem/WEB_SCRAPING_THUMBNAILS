@@ -1,0 +1,16 @@
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+One approach popular for requirements analysis is Use Case analysis.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Computer programmers are those who write computer software.
+Programming languages are essential for software development.

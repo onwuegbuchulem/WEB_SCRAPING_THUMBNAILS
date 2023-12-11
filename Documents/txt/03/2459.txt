@@ -1,0 +1,16 @@
+However, readability is more than just programming style.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Code-breaking algorithms have also existed for centuries.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Scripting and breakpointing is also part of this process.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

@@ -1,0 +1,19 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Use of a static code analysis tool can help detect some possible problems.
+There exist a lot of different approaches for each of those tasks.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Techniques like Code refactoring can enhance readability.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, readability is more than just programming style.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

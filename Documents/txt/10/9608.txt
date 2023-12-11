@@ -1,0 +1,17 @@
+ Computer programmers are those who write computer software.
+Programming languages are essential for software development.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Use of a static code analysis tool can help detect some possible problems.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Programmable devices have existed for centuries.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Programs were mostly entered using punched cards or paper tape.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

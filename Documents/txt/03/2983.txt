@@ -1,0 +1,16 @@
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+There are many approaches to the Software development process.
+There exist a lot of different approaches for each of those tasks.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Use of a static code analysis tool can help detect some possible problems.
+Scripting and breakpointing is also part of this process.
+Programming languages are essential for software development.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.

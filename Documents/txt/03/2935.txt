@@ -1,0 +1,16 @@
+Many applications use a mix of several languages in their construction and use.
+Techniques like Code refactoring can enhance readability.
+One approach popular for requirements analysis is Use Case analysis.
+ Programs were mostly entered using punched cards or paper tape.
+
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Different programming languages support different styles of programming (called programming paradigms).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

@@ -1,0 +1,17 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Techniques like Code refactoring can enhance readability.
+ Different programming languages support different styles of programming (called programming paradigms).
+ It is very difficult to determine what are the most popular modern programming languages.
+One approach popular for requirements analysis is Use Case analysis.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).

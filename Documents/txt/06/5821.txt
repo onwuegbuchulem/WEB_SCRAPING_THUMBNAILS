@@ -1,0 +1,15 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Scripting and breakpointing is also part of this process.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Integrated development environments (IDEs) aim to integrate all such help.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

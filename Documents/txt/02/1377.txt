@@ -1,0 +1,15 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Use of a static code analysis tool can help detect some possible problems.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Computer programmers are those who write computer software.
+Techniques like Code refactoring can enhance readability.
+Normally the first step in debugging is to attempt to reproduce the problem.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Scripting and breakpointing is also part of this process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.

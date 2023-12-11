@@ -1,0 +1,16 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Programs were mostly entered using punched cards or paper tape.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Techniques like Code refactoring can enhance readability.

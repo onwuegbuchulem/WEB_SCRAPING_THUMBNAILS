@@ -1,0 +1,17 @@
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+However, readability is more than just programming style.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+There are many approaches to the Software development process.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

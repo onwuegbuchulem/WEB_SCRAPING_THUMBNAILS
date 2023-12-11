@@ -1,0 +1,17 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Many applications use a mix of several languages in their construction and use.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ It is very difficult to determine what are the most popular modern programming languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Scripting and breakpointing is also part of this process.

@@ -1,0 +1,16 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Integrated development environments (IDEs) aim to integrate all such help.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Programs were mostly entered using punched cards or paper tape.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

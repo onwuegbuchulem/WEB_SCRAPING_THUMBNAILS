@@ -1,0 +1,15 @@
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Programming languages are essential for software development.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There are many approaches to the Software development process.
+ Code-breaking algorithms have also existed for centuries.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Many applications use a mix of several languages in their construction and use.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Normally the first step in debugging is to attempt to reproduce the problem.
+
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.

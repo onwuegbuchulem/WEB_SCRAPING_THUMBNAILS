@@ -1,0 +1,15 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Ideally, the programming language best suited for the task at hand will be selected.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+One approach popular for requirements analysis is Use Case analysis.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Programming languages are essential for software development.
+There are many approaches to the Software development process.

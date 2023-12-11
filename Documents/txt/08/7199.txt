@@ -1,0 +1,15 @@
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Code-breaking algorithms have also existed for centuries.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+There exist a lot of different approaches for each of those tasks.
+ Programs were mostly entered using punched cards or paper tape.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Techniques like Code refactoring can enhance readability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.

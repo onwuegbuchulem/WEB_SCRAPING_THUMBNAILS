@@ -1,0 +1,15 @@
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Integrated development environments (IDEs) aim to integrate all such help.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+There are many approaches to the Software development process.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Following a consistent programming style often helps readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

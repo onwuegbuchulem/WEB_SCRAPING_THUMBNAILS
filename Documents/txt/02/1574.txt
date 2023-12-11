@@ -1,0 +1,18 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Techniques like Code refactoring can enhance readability.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Scripting and breakpointing is also part of this process.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

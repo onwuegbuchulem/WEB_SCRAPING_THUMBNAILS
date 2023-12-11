@@ -1,0 +1,16 @@
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Techniques like Code refactoring can enhance readability.
+ Computer programmers are those who write computer software.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Following a consistent programming style often helps readability.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.

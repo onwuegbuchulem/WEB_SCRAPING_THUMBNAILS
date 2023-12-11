@@ -1,0 +1,18 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ It is very difficult to determine what are the most popular modern programming languages.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+However, readability is more than just programming style.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Following a consistent programming style often helps readability.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.

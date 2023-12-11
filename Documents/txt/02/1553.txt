@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Many applications use a mix of several languages in their construction and use.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Following a consistent programming style often helps readability.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Different programming languages support different styles of programming (called programming paradigms).
+Techniques like Code refactoring can enhance readability.

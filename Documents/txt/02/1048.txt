@@ -1,0 +1,17 @@
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Scripting and breakpointing is also part of this process.
+Techniques like Code refactoring can enhance readability.
+However, readability is more than just programming style.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

@@ -1,0 +1,16 @@
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+
+Use of a static code analysis tool can help detect some possible problems.
+Techniques like Code refactoring can enhance readability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Many applications use a mix of several languages in their construction and use.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+However, readability is more than just programming style.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

@@ -1,0 +1,18 @@
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ It is very difficult to determine what are the most popular modern programming languages.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Use of a static code analysis tool can help detect some possible problems.

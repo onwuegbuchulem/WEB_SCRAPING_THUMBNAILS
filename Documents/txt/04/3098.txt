@@ -1,0 +1,15 @@
+Ideally, the programming language best suited for the task at hand will be selected.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Different programming languages support different styles of programming (called programming paradigms).
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many applications use a mix of several languages in their construction and use.

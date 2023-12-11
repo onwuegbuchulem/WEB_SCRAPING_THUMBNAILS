@@ -1,0 +1,15 @@
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Code-breaking algorithms have also existed for centuries.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Use of a static code analysis tool can help detect some possible problems.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Ideally, the programming language best suited for the task at hand will be selected.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.

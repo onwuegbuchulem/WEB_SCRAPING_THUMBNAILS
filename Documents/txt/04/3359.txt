@@ -1,0 +1,18 @@
+There exist a lot of different approaches for each of those tasks.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Programming languages are essential for software development.
+ Programs were mostly entered using punched cards or paper tape.
+Techniques like Code refactoring can enhance readability.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+However, readability is more than just programming style.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

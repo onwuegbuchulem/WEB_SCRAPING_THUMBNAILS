@@ -1,0 +1,16 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Use of a static code analysis tool can help detect some possible problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

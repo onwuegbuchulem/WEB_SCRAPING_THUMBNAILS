@@ -1,0 +1,15 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+There are many approaches to the Software development process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Many applications use a mix of several languages in their construction and use.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Programs were mostly entered using punched cards or paper tape.
+Scripting and breakpointing is also part of this process.
+ Computer programmers are those who write computer software.
+
+ Programmable devices have existed for centuries.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.

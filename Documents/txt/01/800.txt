@@ -1,0 +1,16 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Techniques like Code refactoring can enhance readability.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Use of a static code analysis tool can help detect some possible problems.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Programming languages are essential for software development.
+Scripting and breakpointing is also part of this process.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+There exist a lot of different approaches for each of those tasks.
+ Programmable devices have existed for centuries.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.

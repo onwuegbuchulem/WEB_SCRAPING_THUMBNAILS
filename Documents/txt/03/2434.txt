@@ -1,0 +1,16 @@
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+There exist a lot of different approaches for each of those tasks.
+ Code-breaking algorithms have also existed for centuries.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ It is very difficult to determine what are the most popular modern programming languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).

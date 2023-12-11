@@ -1,0 +1,16 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Integrated development environments (IDEs) aim to integrate all such help.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Different programming languages support different styles of programming (called programming paradigms).
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+There are many approaches to the Software development process.
+ Code-breaking algorithms have also existed for centuries.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

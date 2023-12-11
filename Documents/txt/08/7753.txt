@@ -1,0 +1,15 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Techniques like Code refactoring can enhance readability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Programs were mostly entered using punched cards or paper tape.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, readability is more than just programming style.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

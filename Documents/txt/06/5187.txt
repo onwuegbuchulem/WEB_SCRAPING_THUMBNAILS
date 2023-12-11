@@ -1,0 +1,18 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+There exist a lot of different approaches for each of those tasks.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Scripting and breakpointing is also part of this process.
+ Different programming languages support different styles of programming (called programming paradigms).
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+
+Techniques like Code refactoring can enhance readability.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

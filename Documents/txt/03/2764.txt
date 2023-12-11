@@ -1,0 +1,17 @@
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Programming languages are essential for software development.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+There are many approaches to the Software development process.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Many applications use a mix of several languages in their construction and use.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

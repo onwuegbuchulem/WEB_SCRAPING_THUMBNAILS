@@ -1,0 +1,15 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+One approach popular for requirements analysis is Use Case analysis.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Code-breaking algorithms have also existed for centuries.

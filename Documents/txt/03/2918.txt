@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Scripting and breakpointing is also part of this process.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+There exist a lot of different approaches for each of those tasks.
+There are many approaches to the Software development process.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Programmable devices have existed for centuries.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.

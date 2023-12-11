@@ -1,0 +1,16 @@
+However, readability is more than just programming style.
+Use of a static code analysis tool can help detect some possible problems.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Techniques like Code refactoring can enhance readability.
+Programming languages are essential for software development.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+One approach popular for requirements analysis is Use Case analysis.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

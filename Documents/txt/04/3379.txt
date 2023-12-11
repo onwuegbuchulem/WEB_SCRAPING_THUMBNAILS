@@ -1,0 +1,16 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+There exist a lot of different approaches for each of those tasks.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Scripting and breakpointing is also part of this process.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Programmable devices have existed for centuries.
+However, readability is more than just programming style.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

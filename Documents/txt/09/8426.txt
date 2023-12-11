@@ -1,0 +1,15 @@
+There exist a lot of different approaches for each of those tasks.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+There are many approaches to the Software development process.
+ Code-breaking algorithms have also existed for centuries.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

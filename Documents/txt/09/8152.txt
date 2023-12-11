@@ -1,0 +1,18 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ It is very difficult to determine what are the most popular modern programming languages.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Scripting and breakpointing is also part of this process.
+There exist a lot of different approaches for each of those tasks.

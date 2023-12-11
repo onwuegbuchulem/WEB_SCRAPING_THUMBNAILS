@@ -1,0 +1,16 @@
+ Programmable devices have existed for centuries.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Techniques like Code refactoring can enhance readability.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+There are many approaches to the Software development process.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Following a consistent programming style often helps readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.

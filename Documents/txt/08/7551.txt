@@ -1,0 +1,17 @@
+
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Different programming languages support different styles of programming (called programming paradigms).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+However, readability is more than just programming style.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Ideally, the programming language best suited for the task at hand will be selected.
+ Programs were mostly entered using punched cards or paper tape.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.

@@ -1,0 +1,15 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+However, readability is more than just programming style.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Code-breaking algorithms have also existed for centuries.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.

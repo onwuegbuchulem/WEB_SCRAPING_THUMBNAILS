@@ -1,0 +1,16 @@
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Code-breaking algorithms have also existed for centuries.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Many applications use a mix of several languages in their construction and use.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+One approach popular for requirements analysis is Use Case analysis.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ Different programming languages support different styles of programming (called programming paradigms).
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.

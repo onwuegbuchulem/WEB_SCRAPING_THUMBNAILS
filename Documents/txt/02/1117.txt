@@ -1,0 +1,15 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+There are many approaches to the Software development process.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ It is very difficult to determine what are the most popular modern programming languages.
+Programming languages are essential for software development.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+There exist a lot of different approaches for each of those tasks.
+ Following a consistent programming style often helps readability.

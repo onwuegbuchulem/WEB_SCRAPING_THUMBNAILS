@@ -1,0 +1,15 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+There are many approaches to the Software development process.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Techniques like Code refactoring can enhance readability.
+ It is very difficult to determine what are the most popular modern programming languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+There exist a lot of different approaches for each of those tasks.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

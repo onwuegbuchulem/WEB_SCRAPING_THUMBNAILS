@@ -1,0 +1,16 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Many applications use a mix of several languages in their construction and use.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Techniques like Code refactoring can enhance readability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.

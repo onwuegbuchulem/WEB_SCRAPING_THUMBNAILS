@@ -1,0 +1,16 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+One approach popular for requirements analysis is Use Case analysis.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Following a consistent programming style often helps readability.
+Use of a static code analysis tool can help detect some possible problems.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.

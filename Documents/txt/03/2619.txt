@@ -1,0 +1,15 @@
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Scripting and breakpointing is also part of this process.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Use of a static code analysis tool can help detect some possible problems.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ It is very difficult to determine what are the most popular modern programming languages.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Following a consistent programming style often helps readability.

@@ -1,0 +1,15 @@
+ It is very difficult to determine what are the most popular modern programming languages.
+ Different programming languages support different styles of programming (called programming paradigms).
+There exist a lot of different approaches for each of those tasks.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+There are many approaches to the Software development process.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Scripting and breakpointing is also part of this process.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Programmable devices have existed for centuries.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

@@ -1,0 +1,16 @@
+Many applications use a mix of several languages in their construction and use.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Use of a static code analysis tool can help detect some possible problems.

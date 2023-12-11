@@ -1,0 +1,15 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+There are many approaches to the Software development process.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Integrated development environments (IDEs) aim to integrate all such help.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Code-breaking algorithms have also existed for centuries.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

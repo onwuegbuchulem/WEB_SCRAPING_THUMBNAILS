@@ -1,0 +1,15 @@
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+However, readability is more than just programming style.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+
+Techniques like Code refactoring can enhance readability.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.

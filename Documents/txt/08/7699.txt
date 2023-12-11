@@ -1,0 +1,16 @@
+
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Techniques like Code refactoring can enhance readability.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Use of a static code analysis tool can help detect some possible problems.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Scripting and breakpointing is also part of this process.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Many applications use a mix of several languages in their construction and use.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

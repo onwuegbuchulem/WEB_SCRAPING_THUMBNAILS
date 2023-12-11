@@ -1,0 +1,16 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Many applications use a mix of several languages in their construction and use.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

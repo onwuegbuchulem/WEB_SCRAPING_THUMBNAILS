@@ -1,0 +1,15 @@
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+There are many approaches to the Software development process.
+Many applications use a mix of several languages in their construction and use.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Use of a static code analysis tool can help detect some possible problems.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ It is very difficult to determine what are the most popular modern programming languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Scripting and breakpointing is also part of this process.

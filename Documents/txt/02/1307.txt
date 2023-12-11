@@ -1,0 +1,18 @@
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Many applications use a mix of several languages in their construction and use.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+However, readability is more than just programming style.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There are many approaches to the Software development process.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Programmable devices have existed for centuries.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

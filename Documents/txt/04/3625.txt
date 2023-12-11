@@ -1,0 +1,15 @@
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+There exist a lot of different approaches for each of those tasks.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Scripting and breakpointing is also part of this process.
+ Programmable devices have existed for centuries.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.

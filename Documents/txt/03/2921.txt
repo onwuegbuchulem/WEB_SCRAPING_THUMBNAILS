@@ -1,0 +1,17 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+There exist a lot of different approaches for each of those tasks.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+There are many approaches to the Software development process.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+
+Scripting and breakpointing is also part of this process.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.

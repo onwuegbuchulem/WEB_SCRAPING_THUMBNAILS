@@ -1,0 +1,17 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Following a consistent programming style often helps readability.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Code-breaking algorithms have also existed for centuries.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Programs were mostly entered using punched cards or paper tape.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

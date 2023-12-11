@@ -1,0 +1,16 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Many applications use a mix of several languages in their construction and use.
+ Code-breaking algorithms have also existed for centuries.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Programming languages are essential for software development.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+However, readability is more than just programming style.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

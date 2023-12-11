@@ -1,0 +1,16 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Techniques like Code refactoring can enhance readability.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+However, readability is more than just programming style.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Scripting and breakpointing is also part of this process.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+There are many approaches to the Software development process.

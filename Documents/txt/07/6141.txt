@@ -1,0 +1,16 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Following a consistent programming style often helps readability.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Use of a static code analysis tool can help detect some possible problems.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Integrated development environments (IDEs) aim to integrate all such help.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.

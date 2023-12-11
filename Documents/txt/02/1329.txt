@@ -1,0 +1,15 @@
+ Different programming languages support different styles of programming (called programming paradigms).
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Programmable devices have existed for centuries.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.

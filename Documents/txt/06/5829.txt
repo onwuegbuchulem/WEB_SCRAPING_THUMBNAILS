@@ -1,0 +1,17 @@
+ Code-breaking algorithms have also existed for centuries.
+ It is very difficult to determine what are the most popular modern programming languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.

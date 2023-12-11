@@ -1,0 +1,17 @@
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Different programming languages support different styles of programming (called programming paradigms).
+Scripting and breakpointing is also part of this process.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+There exist a lot of different approaches for each of those tasks.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Following a consistent programming style often helps readability.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

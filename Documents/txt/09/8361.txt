@@ -1,0 +1,15 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Scripting and breakpointing is also part of this process.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Programmable devices have existed for centuries.
+ It is very difficult to determine what are the most popular modern programming languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.

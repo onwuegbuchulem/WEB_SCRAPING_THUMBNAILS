@@ -1,0 +1,17 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Programming languages are essential for software development.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+There exist a lot of different approaches for each of those tasks.
+ Following a consistent programming style often helps readability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Programs were mostly entered using punched cards or paper tape.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.

@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ It is very difficult to determine what are the most popular modern programming languages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

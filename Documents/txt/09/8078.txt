@@ -1,0 +1,15 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Different programming languages support different styles of programming (called programming paradigms).
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

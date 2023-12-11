@@ -1,0 +1,15 @@
+ Different programming languages support different styles of programming (called programming paradigms).
+There exist a lot of different approaches for each of those tasks.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Ideally, the programming language best suited for the task at hand will be selected.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+There are many approaches to the Software development process.

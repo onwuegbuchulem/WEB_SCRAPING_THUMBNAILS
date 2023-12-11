@@ -1,0 +1,16 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+
+Programming languages are essential for software development.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Programs were mostly entered using punched cards or paper tape.
+ Code-breaking algorithms have also existed for centuries.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ Following a consistent programming style often helps readability.

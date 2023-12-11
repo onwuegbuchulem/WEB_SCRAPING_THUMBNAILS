@@ -1,0 +1,16 @@
+Programming languages are essential for software development.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Following a consistent programming style often helps readability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Ideally, the programming language best suited for the task at hand will be selected.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Scripting and breakpointing is also part of this process.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Techniques like Code refactoring can enhance readability.

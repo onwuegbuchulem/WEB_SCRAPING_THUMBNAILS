@@ -1,0 +1,16 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Many applications use a mix of several languages in their construction and use.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+One approach popular for requirements analysis is Use Case analysis.
+ Programmable devices have existed for centuries.
+There are many approaches to the Software development process.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.

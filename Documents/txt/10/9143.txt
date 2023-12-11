@@ -1,0 +1,17 @@
+One approach popular for requirements analysis is Use Case analysis.
+Ideally, the programming language best suited for the task at hand will be selected.
+However, readability is more than just programming style.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Different programming languages support different styles of programming (called programming paradigms).
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Techniques like Code refactoring can enhance readability.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.

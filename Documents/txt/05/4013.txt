@@ -1,0 +1,17 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+One approach popular for requirements analysis is Use Case analysis.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Programs were mostly entered using punched cards or paper tape.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Techniques like Code refactoring can enhance readability.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Integrated development environments (IDEs) aim to integrate all such help.

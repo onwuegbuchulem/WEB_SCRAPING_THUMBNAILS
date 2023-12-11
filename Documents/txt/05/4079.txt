@@ -1,0 +1,15 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ Code-breaking algorithms have also existed for centuries.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+There are many approaches to the Software development process.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+There exist a lot of different approaches for each of those tasks.
+One approach popular for requirements analysis is Use Case analysis.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Many applications use a mix of several languages in their construction and use.

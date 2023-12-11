@@ -1,0 +1,16 @@
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+There are many approaches to the Software development process.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Techniques like Code refactoring can enhance readability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Following a consistent programming style often helps readability.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Programmable devices have existed for centuries.

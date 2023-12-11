@@ -1,0 +1,15 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ It is very difficult to determine what are the most popular modern programming languages.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Programs were mostly entered using punched cards or paper tape.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

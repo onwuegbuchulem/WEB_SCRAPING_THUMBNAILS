@@ -1,0 +1,15 @@
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+There are many approaches to the Software development process.
+
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ Different programming languages support different styles of programming (called programming paradigms).
+However, readability is more than just programming style.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Ideally, the programming language best suited for the task at hand will be selected.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Scripting and breakpointing is also part of this process.

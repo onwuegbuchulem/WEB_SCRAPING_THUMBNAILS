@@ -1,0 +1,15 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Different programming languages support different styles of programming (called programming paradigms).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.

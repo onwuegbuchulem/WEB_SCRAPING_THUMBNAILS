@@ -1,0 +1,17 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Integrated development environments (IDEs) aim to integrate all such help.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+There are many approaches to the Software development process.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many applications use a mix of several languages in their construction and use.

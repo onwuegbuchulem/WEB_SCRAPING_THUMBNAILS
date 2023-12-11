@@ -1,0 +1,16 @@
+ Code-breaking algorithms have also existed for centuries.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Many applications use a mix of several languages in their construction and use.

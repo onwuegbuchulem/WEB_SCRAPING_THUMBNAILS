@@ -1,0 +1,16 @@
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Programs were mostly entered using punched cards or paper tape.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Code-breaking algorithms have also existed for centuries.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Following a consistent programming style often helps readability.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+However, readability is more than just programming style.
+Scripting and breakpointing is also part of this process.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.

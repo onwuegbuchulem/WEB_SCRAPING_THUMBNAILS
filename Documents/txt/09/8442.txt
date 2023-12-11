@@ -1,0 +1,15 @@
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+One approach popular for requirements analysis is Use Case analysis.
+ Code-breaking algorithms have also existed for centuries.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Following a consistent programming style often helps readability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

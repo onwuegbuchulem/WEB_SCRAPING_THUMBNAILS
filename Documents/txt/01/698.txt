@@ -1,0 +1,15 @@
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+One approach popular for requirements analysis is Use Case analysis.
+However, readability is more than just programming style.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.

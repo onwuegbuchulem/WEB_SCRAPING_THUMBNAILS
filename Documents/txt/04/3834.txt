@@ -1,0 +1,16 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Many applications use a mix of several languages in their construction and use.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.

@@ -1,0 +1,17 @@
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Programming languages are essential for software development.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Programs were mostly entered using punched cards or paper tape.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Different programming languages support different styles of programming (called programming paradigms).

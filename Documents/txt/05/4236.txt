@@ -1,0 +1,15 @@
+ Programs were mostly entered using punched cards or paper tape.
+ Different programming languages support different styles of programming (called programming paradigms).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).

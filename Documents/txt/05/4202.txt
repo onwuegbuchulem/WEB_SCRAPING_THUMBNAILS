@@ -1,0 +1,19 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Computer programmers are those who write computer software.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ It is very difficult to determine what are the most popular modern programming languages.

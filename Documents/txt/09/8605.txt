@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Techniques like Code refactoring can enhance readability.
+
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Integrated development environments (IDEs) aim to integrate all such help.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Different programming languages support different styles of programming (called programming paradigms).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.

@@ -1,0 +1,17 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Programs were mostly entered using punched cards or paper tape.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ It is very difficult to determine what are the most popular modern programming languages.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Ideally, the programming language best suited for the task at hand will be selected.
+One approach popular for requirements analysis is Use Case analysis.

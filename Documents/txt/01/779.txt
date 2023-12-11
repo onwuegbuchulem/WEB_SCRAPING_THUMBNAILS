@@ -1,0 +1,16 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+One approach popular for requirements analysis is Use Case analysis.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Use of a static code analysis tool can help detect some possible problems.

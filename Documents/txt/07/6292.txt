@@ -1,0 +1,15 @@
+ Code-breaking algorithms have also existed for centuries.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Programming languages are essential for software development.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+There exist a lot of different approaches for each of those tasks.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Scripting and breakpointing is also part of this process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

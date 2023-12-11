@@ -1,0 +1,15 @@
+ Following a consistent programming style often helps readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Programs were mostly entered using punched cards or paper tape.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ It is very difficult to determine what are the most popular modern programming languages.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+One approach popular for requirements analysis is Use Case analysis.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.

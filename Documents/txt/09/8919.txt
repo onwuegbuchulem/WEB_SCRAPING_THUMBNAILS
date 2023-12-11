@@ -1,0 +1,17 @@
+There exist a lot of different approaches for each of those tasks.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Integrated development environments (IDEs) aim to integrate all such help.
+Scripting and breakpointing is also part of this process.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Programmable devices have existed for centuries.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Programs were mostly entered using punched cards or paper tape.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.

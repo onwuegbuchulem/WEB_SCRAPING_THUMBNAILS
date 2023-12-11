@@ -1,0 +1,16 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Integrated development environments (IDEs) aim to integrate all such help.
+ It is very difficult to determine what are the most popular modern programming languages.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Techniques like Code refactoring can enhance readability.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.

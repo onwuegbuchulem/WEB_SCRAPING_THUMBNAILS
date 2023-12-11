@@ -1,0 +1,19 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Programming languages are essential for software development.
+
+Many applications use a mix of several languages in their construction and use.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

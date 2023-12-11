@@ -1,0 +1,16 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ It is very difficult to determine what are the most popular modern programming languages.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.

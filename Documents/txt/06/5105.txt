@@ -1,0 +1,15 @@
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Ideally, the programming language best suited for the task at hand will be selected.
+Use of a static code analysis tool can help detect some possible problems.
+ Programmable devices have existed for centuries.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Different programming languages support different styles of programming (called programming paradigms).
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Techniques like Code refactoring can enhance readability.
+One approach popular for requirements analysis is Use Case analysis.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Computer programmers are those who write computer software.

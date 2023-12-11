@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Computer programmers are those who write computer software.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Programming languages are essential for software development.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.

@@ -1,0 +1,15 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Scripting and breakpointing is also part of this process.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

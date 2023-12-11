@@ -1,0 +1,16 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Techniques like Code refactoring can enhance readability.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+There exist a lot of different approaches for each of those tasks.
+ Programmable devices have existed for centuries.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+One approach popular for requirements analysis is Use Case analysis.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Normally the first step in debugging is to attempt to reproduce the problem.

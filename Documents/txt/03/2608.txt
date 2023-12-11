@@ -1,0 +1,16 @@
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+
+Use of a static code analysis tool can help detect some possible problems.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+One approach popular for requirements analysis is Use Case analysis.
+Techniques like Code refactoring can enhance readability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Scripting and breakpointing is also part of this process.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.

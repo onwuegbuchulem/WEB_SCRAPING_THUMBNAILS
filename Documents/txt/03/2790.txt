@@ -1,0 +1,18 @@
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Techniques like Code refactoring can enhance readability.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+There exist a lot of different approaches for each of those tasks.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ Code-breaking algorithms have also existed for centuries.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+It is usually easier to code in "high-level" languages than in "low-level" ones.

@@ -1,0 +1,16 @@
+ Following a consistent programming style often helps readability.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Code-breaking algorithms have also existed for centuries.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+However, readability is more than just programming style.
+Programming languages are essential for software development.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+There are many approaches to the Software development process.

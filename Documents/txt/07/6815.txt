@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, readability is more than just programming style.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+There are many approaches to the Software development process.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Use of a static code analysis tool can help detect some possible problems.
+ Following a consistent programming style often helps readability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Ideally, the programming language best suited for the task at hand will be selected.

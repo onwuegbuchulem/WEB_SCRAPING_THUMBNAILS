@@ -1,0 +1,17 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Techniques like Code refactoring can enhance readability.
+ Programs were mostly entered using punched cards or paper tape.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+There are many approaches to the Software development process.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Programmable devices have existed for centuries.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

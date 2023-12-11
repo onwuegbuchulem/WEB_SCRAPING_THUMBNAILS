@@ -1,0 +1,15 @@
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Techniques like Code refactoring can enhance readability.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ Following a consistent programming style often helps readability.
+However, readability is more than just programming style.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Scripting and breakpointing is also part of this process.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

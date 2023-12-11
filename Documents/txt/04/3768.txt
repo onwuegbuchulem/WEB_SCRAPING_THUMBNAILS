@@ -1,0 +1,17 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Following a consistent programming style often helps readability.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Normally the first step in debugging is to attempt to reproduce the problem.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.

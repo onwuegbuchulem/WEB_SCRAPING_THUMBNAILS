@@ -1,0 +1,15 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Many applications use a mix of several languages in their construction and use.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Techniques like Code refactoring can enhance readability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+However, readability is more than just programming style.

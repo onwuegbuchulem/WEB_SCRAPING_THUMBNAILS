@@ -1,0 +1,15 @@
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Programmable devices have existed for centuries.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+However, readability is more than just programming style.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).

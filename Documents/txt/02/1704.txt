@@ -1,0 +1,16 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+One approach popular for requirements analysis is Use Case analysis.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ It is very difficult to determine what are the most popular modern programming languages.

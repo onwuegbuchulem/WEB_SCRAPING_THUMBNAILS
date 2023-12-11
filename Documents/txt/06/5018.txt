@@ -1,0 +1,16 @@
+Use of a static code analysis tool can help detect some possible problems.
+ Code-breaking algorithms have also existed for centuries.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Techniques like Code refactoring can enhance readability.
+However, readability is more than just programming style.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+One approach popular for requirements analysis is Use Case analysis.
+Ideally, the programming language best suited for the task at hand will be selected.

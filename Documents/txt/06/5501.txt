@@ -1,0 +1,15 @@
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Many applications use a mix of several languages in their construction and use.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Use of a static code analysis tool can help detect some possible problems.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+One approach popular for requirements analysis is Use Case analysis.
+There are many approaches to the Software development process.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.

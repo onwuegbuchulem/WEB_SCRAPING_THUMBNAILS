@@ -1,0 +1,15 @@
+
+Use of a static code analysis tool can help detect some possible problems.
+Scripting and breakpointing is also part of this process.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+There are many approaches to the Software development process.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.

@@ -1,0 +1,15 @@
+Programming languages are essential for software development.
+Techniques like Code refactoring can enhance readability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Different programming languages support different styles of programming (called programming paradigms).
+Integrated development environments (IDEs) aim to integrate all such help.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ It is very difficult to determine what are the most popular modern programming languages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).

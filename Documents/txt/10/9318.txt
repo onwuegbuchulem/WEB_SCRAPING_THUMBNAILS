@@ -1,0 +1,15 @@
+ Programs were mostly entered using punched cards or paper tape.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Scripting and breakpointing is also part of this process.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Integrated development environments (IDEs) aim to integrate all such help.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Code-breaking algorithms have also existed for centuries.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.

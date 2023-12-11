@@ -1,0 +1,17 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Use of a static code analysis tool can help detect some possible problems.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+
+ Different programming languages support different styles of programming (called programming paradigms).
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Scripting and breakpointing is also part of this process.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

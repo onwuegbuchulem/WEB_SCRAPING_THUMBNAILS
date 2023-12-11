@@ -1,0 +1,15 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Programs were mostly entered using punched cards or paper tape.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Different programming languages support different styles of programming (called programming paradigms).
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ It is very difficult to determine what are the most popular modern programming languages.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.

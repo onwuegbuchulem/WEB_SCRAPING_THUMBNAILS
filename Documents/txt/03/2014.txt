@@ -1,0 +1,16 @@
+Programming languages are essential for software development.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Scripting and breakpointing is also part of this process.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+There are many approaches to the Software development process.
+ Programs were mostly entered using punched cards or paper tape.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.

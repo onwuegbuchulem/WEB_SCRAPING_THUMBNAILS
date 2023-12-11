@@ -1,0 +1,16 @@
+Ideally, the programming language best suited for the task at hand will be selected.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Code-breaking algorithms have also existed for centuries.
+One approach popular for requirements analysis is Use Case analysis.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Computer programmers are those who write computer software.
+However, readability is more than just programming style.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

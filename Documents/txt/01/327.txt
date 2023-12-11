@@ -1,0 +1,17 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Use of a static code analysis tool can help detect some possible problems.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+There are many approaches to the Software development process.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

@@ -1,0 +1,18 @@
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Code-breaking algorithms have also existed for centuries.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Different programming languages support different styles of programming (called programming paradigms).
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+There are many approaches to the Software development process.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+One approach popular for requirements analysis is Use Case analysis.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.

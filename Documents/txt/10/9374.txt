@@ -1,0 +1,18 @@
+ Programs were mostly entered using punched cards or paper tape.
+One approach popular for requirements analysis is Use Case analysis.
+There exist a lot of different approaches for each of those tasks.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+There are many approaches to the Software development process.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.

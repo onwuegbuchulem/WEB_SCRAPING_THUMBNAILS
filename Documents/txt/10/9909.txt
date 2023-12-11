@@ -1,0 +1,15 @@
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Programs were mostly entered using punched cards or paper tape.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+There exist a lot of different approaches for each of those tasks.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Code-breaking algorithms have also existed for centuries.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

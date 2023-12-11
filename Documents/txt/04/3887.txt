@@ -1,0 +1,18 @@
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Programs were mostly entered using punched cards or paper tape.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Different programming languages support different styles of programming (called programming paradigms).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

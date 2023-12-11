@@ -1,0 +1,17 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+One approach popular for requirements analysis is Use Case analysis.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Programming languages are essential for software development.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Programs were mostly entered using punched cards or paper tape.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

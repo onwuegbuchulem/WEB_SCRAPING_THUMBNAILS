@@ -1,0 +1,15 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Programming languages are essential for software development.
+Many applications use a mix of several languages in their construction and use.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Techniques like Code refactoring can enhance readability.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Different programming languages support different styles of programming (called programming paradigms).
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Following a consistent programming style often helps readability.

@@ -1,0 +1,14 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Programmable devices have existed for centuries.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Integrated development environments (IDEs) aim to integrate all such help.
+ It is very difficult to determine what are the most popular modern programming languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

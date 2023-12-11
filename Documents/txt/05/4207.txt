@@ -1,0 +1,15 @@
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+However, readability is more than just programming style.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ It is very difficult to determine what are the most popular modern programming languages.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Programming languages are essential for software development.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

@@ -1,0 +1,17 @@
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Techniques like Code refactoring can enhance readability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).

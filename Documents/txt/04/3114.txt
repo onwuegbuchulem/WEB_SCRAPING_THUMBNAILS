@@ -1,0 +1,15 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

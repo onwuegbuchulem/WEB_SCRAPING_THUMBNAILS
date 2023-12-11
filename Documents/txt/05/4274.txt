@@ -1,0 +1,16 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Different programming languages support different styles of programming (called programming paradigms).
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Ideally, the programming language best suited for the task at hand will be selected.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Programming languages are essential for software development.
+Use of a static code analysis tool can help detect some possible problems.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+There are many approaches to the Software development process.
+ Programs were mostly entered using punched cards or paper tape.

@@ -1,0 +1,15 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Programming languages are essential for software development.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Following a consistent programming style often helps readability.
+Scripting and breakpointing is also part of this process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Integrated development environments (IDEs) aim to integrate all such help.
+One approach popular for requirements analysis is Use Case analysis.

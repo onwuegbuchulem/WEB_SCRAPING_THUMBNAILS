@@ -1,0 +1,17 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, readability is more than just programming style.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Programs were mostly entered using punched cards or paper tape.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Many applications use a mix of several languages in their construction and use.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Programmable devices have existed for centuries.

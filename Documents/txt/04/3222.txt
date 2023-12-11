@@ -1,0 +1,15 @@
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Code-breaking algorithms have also existed for centuries.
+Integrated development environments (IDEs) aim to integrate all such help.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Programmable devices have existed for centuries.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.

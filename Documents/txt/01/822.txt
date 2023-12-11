@@ -1,0 +1,15 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Different programming languages support different styles of programming (called programming paradigms).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Programming languages are essential for software development.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Integrated development environments (IDEs) aim to integrate all such help.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Scripting and breakpointing is also part of this process.

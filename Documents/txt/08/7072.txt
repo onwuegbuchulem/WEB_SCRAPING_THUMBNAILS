@@ -1,0 +1,15 @@
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+There exist a lot of different approaches for each of those tasks.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many applications use a mix of several languages in their construction and use.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.

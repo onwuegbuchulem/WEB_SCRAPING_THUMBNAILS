@@ -1,0 +1,15 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+One approach popular for requirements analysis is Use Case analysis.
+Techniques like Code refactoring can enhance readability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

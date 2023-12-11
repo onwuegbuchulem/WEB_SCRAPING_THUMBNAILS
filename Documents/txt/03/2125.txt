@@ -1,0 +1,15 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Many applications use a mix of several languages in their construction and use.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.

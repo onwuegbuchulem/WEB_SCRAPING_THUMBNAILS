@@ -1,0 +1,17 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Different programming languages support different styles of programming (called programming paradigms).
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Following a consistent programming style often helps readability.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, readability is more than just programming style.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+There exist a lot of different approaches for each of those tasks.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Programmable devices have existed for centuries.

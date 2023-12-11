@@ -1,0 +1,16 @@
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Scripting and breakpointing is also part of this process.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+There exist a lot of different approaches for each of those tasks.
+However, readability is more than just programming style.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+There are many approaches to the Software development process.

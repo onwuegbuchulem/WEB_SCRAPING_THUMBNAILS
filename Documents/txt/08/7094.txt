@@ -1,0 +1,17 @@
+Scripting and breakpointing is also part of this process.
+ Code-breaking algorithms have also existed for centuries.
+There exist a lot of different approaches for each of those tasks.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Many applications use a mix of several languages in their construction and use.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Programs were mostly entered using punched cards or paper tape.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

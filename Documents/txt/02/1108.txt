@@ -1,0 +1,17 @@
+Use of a static code analysis tool can help detect some possible problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Code-breaking algorithms have also existed for centuries.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Techniques like Code refactoring can enhance readability.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ It is very difficult to determine what are the most popular modern programming languages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

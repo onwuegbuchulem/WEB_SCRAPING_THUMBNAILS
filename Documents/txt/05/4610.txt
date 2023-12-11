@@ -1,0 +1,17 @@
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Programs were mostly entered using punched cards or paper tape.
+ Computer programmers are those who write computer software.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Many applications use a mix of several languages in their construction and use.
+Programming languages are essential for software development.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ Following a consistent programming style often helps readability.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Ideally, the programming language best suited for the task at hand will be selected.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.

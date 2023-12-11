@@ -1,0 +1,16 @@
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+One approach popular for requirements analysis is Use Case analysis.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Different programming languages support different styles of programming (called programming paradigms).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Scripting and breakpointing is also part of this process.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.

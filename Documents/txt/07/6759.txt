@@ -1,0 +1,16 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Different programming languages support different styles of programming (called programming paradigms).
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Many applications use a mix of several languages in their construction and use.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

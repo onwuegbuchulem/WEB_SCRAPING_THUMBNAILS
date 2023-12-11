@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Programs were mostly entered using punched cards or paper tape.
+ Different programming languages support different styles of programming (called programming paradigms).
+However, readability is more than just programming style.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.

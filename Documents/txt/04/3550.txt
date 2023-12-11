@@ -1,0 +1,15 @@
+Programming languages are essential for software development.
+Use of a static code analysis tool can help detect some possible problems.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Following a consistent programming style often helps readability.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Techniques like Code refactoring can enhance readability.
+Integrated development environments (IDEs) aim to integrate all such help.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Different programming languages support different styles of programming (called programming paradigms).
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

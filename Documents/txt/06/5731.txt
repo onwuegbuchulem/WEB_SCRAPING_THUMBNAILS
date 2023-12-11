@@ -1,0 +1,16 @@
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Many applications use a mix of several languages in their construction and use.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Different programming languages support different styles of programming (called programming paradigms).
+There exist a lot of different approaches for each of those tasks.

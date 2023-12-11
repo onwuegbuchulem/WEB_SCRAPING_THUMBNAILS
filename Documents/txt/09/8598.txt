@@ -1,0 +1,16 @@
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Programming languages are essential for software development.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+One approach popular for requirements analysis is Use Case analysis.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+There are many approaches to the Software development process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ It is very difficult to determine what are the most popular modern programming languages.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

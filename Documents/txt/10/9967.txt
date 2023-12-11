@@ -1,0 +1,15 @@
+ Following a consistent programming style often helps readability.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Techniques like Code refactoring can enhance readability.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+There exist a lot of different approaches for each of those tasks.
+Many applications use a mix of several languages in their construction and use.
+Scripting and breakpointing is also part of this process.

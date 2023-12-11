@@ -1,0 +1,15 @@
+Use of a static code analysis tool can help detect some possible problems.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Integrated development environments (IDEs) aim to integrate all such help.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+However, readability is more than just programming style.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.

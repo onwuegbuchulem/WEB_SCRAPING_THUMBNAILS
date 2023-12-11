@@ -1,0 +1,15 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Following a consistent programming style often helps readability.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Programs were mostly entered using punched cards or paper tape.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ It is very difficult to determine what are the most popular modern programming languages.

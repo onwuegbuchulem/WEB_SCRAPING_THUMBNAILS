@@ -1,0 +1,15 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Programs were mostly entered using punched cards or paper tape.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+One approach popular for requirements analysis is Use Case analysis.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There are many approaches to the Software development process.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Use of a static code analysis tool can help detect some possible problems.

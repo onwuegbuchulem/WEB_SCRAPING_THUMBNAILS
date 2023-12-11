@@ -1,0 +1,15 @@
+There are many approaches to the Software development process.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Programs were mostly entered using punched cards or paper tape.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Scripting and breakpointing is also part of this process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.

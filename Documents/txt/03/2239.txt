@@ -1,0 +1,15 @@
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+There exist a lot of different approaches for each of those tasks.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Programming languages are essential for software development.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

@@ -1,0 +1,16 @@
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Programmable devices have existed for centuries.
+Many applications use a mix of several languages in their construction and use.
+One approach popular for requirements analysis is Use Case analysis.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Scripting and breakpointing is also part of this process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Following a consistent programming style often helps readability.

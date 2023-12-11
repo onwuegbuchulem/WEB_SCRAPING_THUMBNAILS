@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Many applications use a mix of several languages in their construction and use.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Code-breaking algorithms have also existed for centuries.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Programming languages are essential for software development.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+There exist a lot of different approaches for each of those tasks.
+Integrated development environments (IDEs) aim to integrate all such help.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.

@@ -1,0 +1,18 @@
+Programming languages are essential for software development.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Code-breaking algorithms have also existed for centuries.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Scripting and breakpointing is also part of this process.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

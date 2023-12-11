@@ -1,0 +1,15 @@
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Code-breaking algorithms have also existed for centuries.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Programmable devices have existed for centuries.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Techniques like Code refactoring can enhance readability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.

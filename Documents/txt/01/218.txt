@@ -1,0 +1,16 @@
+There exist a lot of different approaches for each of those tasks.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Different programming languages support different styles of programming (called programming paradigms).
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Many applications use a mix of several languages in their construction and use.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+One approach popular for requirements analysis is Use Case analysis.
+Techniques like Code refactoring can enhance readability.
+Use of a static code analysis tool can help detect some possible problems.
+ Code-breaking algorithms have also existed for centuries.

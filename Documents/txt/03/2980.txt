@@ -1,0 +1,16 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Scripting and breakpointing is also part of this process.
+Techniques like Code refactoring can enhance readability.
+Programming languages are essential for software development.
+ Code-breaking algorithms have also existed for centuries.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+There exist a lot of different approaches for each of those tasks.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Use of a static code analysis tool can help detect some possible problems.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

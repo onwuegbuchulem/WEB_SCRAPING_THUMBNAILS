@@ -1,0 +1,15 @@
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Code-breaking algorithms have also existed for centuries.
+Use of a static code analysis tool can help detect some possible problems.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There are many approaches to the Software development process.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.

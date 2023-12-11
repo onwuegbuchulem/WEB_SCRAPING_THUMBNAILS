@@ -1,0 +1,16 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Integrated development environments (IDEs) aim to integrate all such help.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Following a consistent programming style often helps readability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

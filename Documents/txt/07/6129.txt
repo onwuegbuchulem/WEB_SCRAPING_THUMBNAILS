@@ -1,0 +1,15 @@
+ Code-breaking algorithms have also existed for centuries.
+
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, readability is more than just programming style.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Programmable devices have existed for centuries.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Programs were mostly entered using punched cards or paper tape.
+Programming languages are essential for software development.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

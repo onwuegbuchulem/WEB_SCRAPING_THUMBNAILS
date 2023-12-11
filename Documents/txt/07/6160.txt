@@ -1,0 +1,16 @@
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Programs were mostly entered using punched cards or paper tape.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Different programming languages support different styles of programming (called programming paradigms).
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

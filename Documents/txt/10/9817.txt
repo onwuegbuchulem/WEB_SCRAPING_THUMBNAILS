@@ -1,0 +1,16 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+One approach popular for requirements analysis is Use Case analysis.
+Scripting and breakpointing is also part of this process.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Following a consistent programming style often helps readability.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

@@ -1,0 +1,17 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Following a consistent programming style often helps readability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Different programming languages support different styles of programming (called programming paradigms).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.

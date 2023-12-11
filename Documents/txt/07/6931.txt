@@ -1,0 +1,17 @@
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Different programming languages support different styles of programming (called programming paradigms).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ It is very difficult to determine what are the most popular modern programming languages.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Use of a static code analysis tool can help detect some possible problems.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Computer programmers are those who write computer software.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+One approach popular for requirements analysis is Use Case analysis.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.

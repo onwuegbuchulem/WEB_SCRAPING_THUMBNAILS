@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Computer programmers are those who write computer software.
+Use of a static code analysis tool can help detect some possible problems.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.

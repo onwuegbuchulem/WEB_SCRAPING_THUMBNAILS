@@ -1,0 +1,15 @@
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Programmable devices have existed for centuries.
+ Programs were mostly entered using punched cards or paper tape.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Programming languages are essential for software development.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+Scripting and breakpointing is also part of this process.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).

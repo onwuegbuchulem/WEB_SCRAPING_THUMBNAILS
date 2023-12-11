@@ -1,0 +1,17 @@
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Programming languages are essential for software development.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Programs were mostly entered using punched cards or paper tape.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+There are many approaches to the Software development process.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Integrated development environments (IDEs) aim to integrate all such help.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.

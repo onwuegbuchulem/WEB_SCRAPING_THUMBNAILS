@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

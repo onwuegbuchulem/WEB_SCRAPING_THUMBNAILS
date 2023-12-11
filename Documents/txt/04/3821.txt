@@ -1,0 +1,16 @@
+Scripting and breakpointing is also part of this process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Techniques like Code refactoring can enhance readability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+One approach popular for requirements analysis is Use Case analysis.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, readability is more than just programming style.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

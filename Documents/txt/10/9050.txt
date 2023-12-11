@@ -1,0 +1,15 @@
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Techniques like Code refactoring can enhance readability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Integrated development environments (IDEs) aim to integrate all such help.

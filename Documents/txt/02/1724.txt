@@ -1,0 +1,15 @@
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+There are many approaches to the Software development process.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.

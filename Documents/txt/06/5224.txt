@@ -1,0 +1,15 @@
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Programs were mostly entered using punched cards or paper tape.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Techniques like Code refactoring can enhance readability.
+ Computer programmers are those who write computer software.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Many applications use a mix of several languages in their construction and use.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

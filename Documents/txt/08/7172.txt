@@ -1,0 +1,17 @@
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+One approach popular for requirements analysis is Use Case analysis.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Code-breaking algorithms have also existed for centuries.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+There exist a lot of different approaches for each of those tasks.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.

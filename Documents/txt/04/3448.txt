@@ -1,0 +1,18 @@
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Techniques like Code refactoring can enhance readability.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Scripting and breakpointing is also part of this process.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Integrated development environments (IDEs) aim to integrate all such help.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.

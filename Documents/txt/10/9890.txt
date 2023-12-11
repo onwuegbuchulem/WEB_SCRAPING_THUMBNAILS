@@ -1,0 +1,16 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ It is very difficult to determine what are the most popular modern programming languages.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Scripting and breakpointing is also part of this process.
+ Following a consistent programming style often helps readability.
+Techniques like Code refactoring can enhance readability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Programming languages are essential for software development.

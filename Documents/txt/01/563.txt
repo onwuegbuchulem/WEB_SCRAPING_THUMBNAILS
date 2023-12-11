@@ -1,0 +1,15 @@
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Programming languages are essential for software development.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Scripting and breakpointing is also part of this process.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

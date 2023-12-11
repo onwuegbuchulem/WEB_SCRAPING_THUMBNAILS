@@ -1,0 +1,16 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Scripting and breakpointing is also part of this process.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+There are many approaches to the Software development process.
+One approach popular for requirements analysis is Use Case analysis.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

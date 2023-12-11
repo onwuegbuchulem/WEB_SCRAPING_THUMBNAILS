@@ -1,0 +1,16 @@
+ Code-breaking algorithms have also existed for centuries.
+One approach popular for requirements analysis is Use Case analysis.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+There exist a lot of different approaches for each of those tasks.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ It is very difficult to determine what are the most popular modern programming languages.

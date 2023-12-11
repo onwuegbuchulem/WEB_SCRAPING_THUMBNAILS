@@ -1,0 +1,17 @@
+Programming languages are essential for software development.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Code-breaking algorithms have also existed for centuries.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.

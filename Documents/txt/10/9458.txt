@@ -1,0 +1,16 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+There exist a lot of different approaches for each of those tasks.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Scripting and breakpointing is also part of this process.
+ Programmable devices have existed for centuries.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Techniques like Code refactoring can enhance readability.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).

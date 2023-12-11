@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Programmable devices have existed for centuries.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Scripting and breakpointing is also part of this process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.

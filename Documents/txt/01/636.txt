@@ -1,0 +1,15 @@
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Ideally, the programming language best suited for the task at hand will be selected.
+Integrated development environments (IDEs) aim to integrate all such help.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ It is very difficult to determine what are the most popular modern programming languages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Many applications use a mix of several languages in their construction and use.

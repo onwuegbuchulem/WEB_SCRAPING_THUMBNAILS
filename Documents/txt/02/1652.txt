@@ -1,0 +1,15 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Following a consistent programming style often helps readability.
+ Code-breaking algorithms have also existed for centuries.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ It is very difficult to determine what are the most popular modern programming languages.
+Scripting and breakpointing is also part of this process.
+Techniques like Code refactoring can enhance readability.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Integrated development environments (IDEs) aim to integrate all such help.

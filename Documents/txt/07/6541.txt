@@ -1,0 +1,15 @@
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Techniques like Code refactoring can enhance readability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Following a consistent programming style often helps readability.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Use of a static code analysis tool can help detect some possible problems.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

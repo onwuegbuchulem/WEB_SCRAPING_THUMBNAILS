@@ -1,0 +1,17 @@
+Use of a static code analysis tool can help detect some possible problems.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Code-breaking algorithms have also existed for centuries.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.

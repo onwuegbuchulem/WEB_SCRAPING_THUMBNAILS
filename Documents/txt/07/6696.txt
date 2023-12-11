@@ -1,0 +1,17 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+There exist a lot of different approaches for each of those tasks.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, readability is more than just programming style.

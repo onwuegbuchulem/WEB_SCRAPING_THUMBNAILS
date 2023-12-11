@@ -1,0 +1,16 @@
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Programs were mostly entered using punched cards or paper tape.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Programmable devices have existed for centuries.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Code-breaking algorithms have also existed for centuries.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Many applications use a mix of several languages in their construction and use.

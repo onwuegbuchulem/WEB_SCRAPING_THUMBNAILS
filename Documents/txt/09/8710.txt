@@ -1,0 +1,17 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Different programming languages support different styles of programming (called programming paradigms).
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.

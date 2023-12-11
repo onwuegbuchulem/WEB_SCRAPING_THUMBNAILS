@@ -1,0 +1,16 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Code-breaking algorithms have also existed for centuries.
+There exist a lot of different approaches for each of those tasks.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+
+ It is very difficult to determine what are the most popular modern programming languages.

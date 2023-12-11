@@ -1,0 +1,16 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ Code-breaking algorithms have also existed for centuries.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+There are many approaches to the Software development process.
+Scripting and breakpointing is also part of this process.
+ Following a consistent programming style often helps readability.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

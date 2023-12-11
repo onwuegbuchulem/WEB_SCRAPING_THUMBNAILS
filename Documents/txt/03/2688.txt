@@ -1,0 +1,15 @@
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Integrated development environments (IDEs) aim to integrate all such help.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+
+Programming languages are essential for software development.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Techniques like Code refactoring can enhance readability.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Programs were mostly entered using punched cards or paper tape.

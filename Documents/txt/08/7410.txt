@@ -1,0 +1,18 @@
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+One approach popular for requirements analysis is Use Case analysis.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Integrated development environments (IDEs) aim to integrate all such help.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+There are many approaches to the Software development process.
+Normally the first step in debugging is to attempt to reproduce the problem.

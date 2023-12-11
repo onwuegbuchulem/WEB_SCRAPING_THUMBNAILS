@@ -1,0 +1,16 @@
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ It is very difficult to determine what are the most popular modern programming languages.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Code-breaking algorithms have also existed for centuries.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

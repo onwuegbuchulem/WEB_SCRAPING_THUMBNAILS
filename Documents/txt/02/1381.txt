@@ -1,0 +1,15 @@
+Use of a static code analysis tool can help detect some possible problems.
+Programming languages are essential for software development.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Computer programmers are those who write computer software.

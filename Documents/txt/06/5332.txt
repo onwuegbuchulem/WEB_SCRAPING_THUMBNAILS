@@ -1,0 +1,15 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Programmable devices have existed for centuries.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Use of a static code analysis tool can help detect some possible problems.
+Techniques like Code refactoring can enhance readability.
+ Different programming languages support different styles of programming (called programming paradigms).
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.

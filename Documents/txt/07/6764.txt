@@ -1,0 +1,16 @@
+ Programs were mostly entered using punched cards or paper tape.
+ Programmable devices have existed for centuries.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ It is very difficult to determine what are the most popular modern programming languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+There are many approaches to the Software development process.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Different programming languages support different styles of programming (called programming paradigms).

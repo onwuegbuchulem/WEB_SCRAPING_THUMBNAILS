@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Different programming languages support different styles of programming (called programming paradigms).
+Use of a static code analysis tool can help detect some possible problems.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Computer programmers are those who write computer software.
+ Code-breaking algorithms have also existed for centuries.
+Ideally, the programming language best suited for the task at hand will be selected.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+However, readability is more than just programming style.
+One approach popular for requirements analysis is Use Case analysis.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.

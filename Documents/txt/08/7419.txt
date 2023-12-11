@@ -1,0 +1,16 @@
+ Different programming languages support different styles of programming (called programming paradigms).
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Programmable devices have existed for centuries.
+There are many approaches to the Software development process.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ Programs were mostly entered using punched cards or paper tape.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Scripting and breakpointing is also part of this process.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Many applications use a mix of several languages in their construction and use.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.

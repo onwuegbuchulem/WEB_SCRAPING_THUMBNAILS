@@ -1,0 +1,16 @@
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Programmable devices have existed for centuries.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Scripting and breakpointing is also part of this process.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Techniques like Code refactoring can enhance readability.
+ Programs were mostly entered using punched cards or paper tape.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.

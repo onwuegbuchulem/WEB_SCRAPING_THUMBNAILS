@@ -1,0 +1,16 @@
+
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Code-breaking algorithms have also existed for centuries.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Scripting and breakpointing is also part of this process.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

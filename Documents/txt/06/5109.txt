@@ -1,0 +1,15 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+However, readability is more than just programming style.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Scripting and breakpointing is also part of this process.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Techniques like Code refactoring can enhance readability.
+ It is very difficult to determine what are the most popular modern programming languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+There exist a lot of different approaches for each of those tasks.
+Use of a static code analysis tool can help detect some possible problems.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

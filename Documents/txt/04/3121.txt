@@ -1,0 +1,15 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Scripting and breakpointing is also part of this process.
+ Different programming languages support different styles of programming (called programming paradigms).
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Programming languages are essential for software development.
+ Code-breaking algorithms have also existed for centuries.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Programmable devices have existed for centuries.
+ Following a consistent programming style often helps readability.

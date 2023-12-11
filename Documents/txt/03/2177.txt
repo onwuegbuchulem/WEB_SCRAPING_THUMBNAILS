@@ -1,0 +1,16 @@
+Techniques like Code refactoring can enhance readability.
+There exist a lot of different approaches for each of those tasks.
+Use of a static code analysis tool can help detect some possible problems.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+However, readability is more than just programming style.
+ Different programming languages support different styles of programming (called programming paradigms).
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+There are many approaches to the Software development process.

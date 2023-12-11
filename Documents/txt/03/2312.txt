@@ -1,0 +1,15 @@
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Scripting and breakpointing is also part of this process.
+ Following a consistent programming style often helps readability.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+There are many approaches to the Software development process.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Techniques like Code refactoring can enhance readability.
+Programming languages are essential for software development.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.

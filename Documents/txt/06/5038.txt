@@ -1,0 +1,18 @@
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ It is very difficult to determine what are the most popular modern programming languages.
+However, readability is more than just programming style.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+There are many approaches to the Software development process.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Use of a static code analysis tool can help detect some possible problems.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.

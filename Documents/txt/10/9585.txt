@@ -1,0 +1,15 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ It is very difficult to determine what are the most popular modern programming languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Scripting and breakpointing is also part of this process.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Different programming languages support different styles of programming (called programming paradigms).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Many applications use a mix of several languages in their construction and use.

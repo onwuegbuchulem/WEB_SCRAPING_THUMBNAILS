@@ -1,0 +1,15 @@
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Following a consistent programming style often helps readability.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Use of a static code analysis tool can help detect some possible problems.
+ It is very difficult to determine what are the most popular modern programming languages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Programmable devices have existed for centuries.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

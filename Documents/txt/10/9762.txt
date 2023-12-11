@@ -1,0 +1,16 @@
+However, readability is more than just programming style.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Use of a static code analysis tool can help detect some possible problems.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Scripting and breakpointing is also part of this process.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Ideally, the programming language best suited for the task at hand will be selected.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Integrated development environments (IDEs) aim to integrate all such help.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.

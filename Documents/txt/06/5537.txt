@@ -1,0 +1,16 @@
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+There are many approaches to the Software development process.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Different programming languages support different styles of programming (called programming paradigms).
+Ideally, the programming language best suited for the task at hand will be selected.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Integrated development environments (IDEs) aim to integrate all such help.
+
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

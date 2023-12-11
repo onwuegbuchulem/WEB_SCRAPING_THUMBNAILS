@@ -1,0 +1,15 @@
+However, readability is more than just programming style.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Programming languages are essential for software development.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Different programming languages support different styles of programming (called programming paradigms).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Scripting and breakpointing is also part of this process.
+There exist a lot of different approaches for each of those tasks.

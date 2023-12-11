@@ -1,0 +1,17 @@
+ It is very difficult to determine what are the most popular modern programming languages.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+There are many approaches to the Software development process.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Following a consistent programming style often helps readability.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.

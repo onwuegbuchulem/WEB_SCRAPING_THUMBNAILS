@@ -1,0 +1,16 @@
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Programmable devices have existed for centuries.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Techniques like Code refactoring can enhance readability.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Computer programmers are those who write computer software.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.

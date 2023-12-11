@@ -1,0 +1,15 @@
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Use of a static code analysis tool can help detect some possible problems.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Many applications use a mix of several languages in their construction and use.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+However, readability is more than just programming style.
+Programming languages are essential for software development.

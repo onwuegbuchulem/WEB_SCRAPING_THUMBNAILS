@@ -1,0 +1,16 @@
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Techniques like Code refactoring can enhance readability.
+There exist a lot of different approaches for each of those tasks.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+However, readability is more than just programming style.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Code-breaking algorithms have also existed for centuries.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+One approach popular for requirements analysis is Use Case analysis.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It is usually easier to code in "high-level" languages than in "low-level" ones.

@@ -1,0 +1,15 @@
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Following a consistent programming style often helps readability.
+One approach popular for requirements analysis is Use Case analysis.
+ Code-breaking algorithms have also existed for centuries.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Integrated development environments (IDEs) aim to integrate all such help.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.

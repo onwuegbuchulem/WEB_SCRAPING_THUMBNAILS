@@ -1,0 +1,16 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Following a consistent programming style often helps readability.
+There are many approaches to the Software development process.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Different programming languages support different styles of programming (called programming paradigms).
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Use of a static code analysis tool can help detect some possible problems.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).

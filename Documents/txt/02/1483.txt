@@ -1,0 +1,18 @@
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Normally the first step in debugging is to attempt to reproduce the problem.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+However, readability is more than just programming style.
+
+Use of a static code analysis tool can help detect some possible problems.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Code-breaking algorithms have also existed for centuries.

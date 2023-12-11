@@ -1,0 +1,16 @@
+
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+However, readability is more than just programming style.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Programs were mostly entered using punched cards or paper tape.
+One approach popular for requirements analysis is Use Case analysis.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.

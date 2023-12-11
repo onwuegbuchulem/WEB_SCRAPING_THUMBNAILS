@@ -1,0 +1,16 @@
+ It is very difficult to determine what are the most popular modern programming languages.
+ Different programming languages support different styles of programming (called programming paradigms).
+However, readability is more than just programming style.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Computer programmers are those who write computer software.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Programmable devices have existed for centuries.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.

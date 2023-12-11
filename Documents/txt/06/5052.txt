@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Programming languages are essential for software development.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+However, readability is more than just programming style.
+Integrated development environments (IDEs) aim to integrate all such help.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+There exist a lot of different approaches for each of those tasks.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.

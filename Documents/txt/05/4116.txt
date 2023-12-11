@@ -1,0 +1,15 @@
+Integrated development environments (IDEs) aim to integrate all such help.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Following a consistent programming style often helps readability.
+Ideally, the programming language best suited for the task at hand will be selected.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Scripting and breakpointing is also part of this process.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Many applications use a mix of several languages in their construction and use.

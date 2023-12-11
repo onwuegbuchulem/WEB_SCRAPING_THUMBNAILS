@@ -1,0 +1,16 @@
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ It is very difficult to determine what are the most popular modern programming languages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Normally the first step in debugging is to attempt to reproduce the problem.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Use of a static code analysis tool can help detect some possible problems.

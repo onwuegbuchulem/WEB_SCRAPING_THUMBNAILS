@@ -1,0 +1,15 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Scripting and breakpointing is also part of this process.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Code-breaking algorithms have also existed for centuries.
+ It is very difficult to determine what are the most popular modern programming languages.

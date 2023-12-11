@@ -1,0 +1,16 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Use of a static code analysis tool can help detect some possible problems.
+Scripting and breakpointing is also part of this process.
+Programming languages are essential for software development.
+ Code-breaking algorithms have also existed for centuries.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+There exist a lot of different approaches for each of those tasks.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.

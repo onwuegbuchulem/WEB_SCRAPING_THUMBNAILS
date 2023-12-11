@@ -1,0 +1,16 @@
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Code-breaking algorithms have also existed for centuries.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Use of a static code analysis tool can help detect some possible problems.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Scripting and breakpointing is also part of this process.
+Techniques like Code refactoring can enhance readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.

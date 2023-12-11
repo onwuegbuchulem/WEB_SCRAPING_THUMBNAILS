@@ -1,0 +1,17 @@
+ Different programming languages support different styles of programming (called programming paradigms).
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

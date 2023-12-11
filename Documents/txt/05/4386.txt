@@ -1,0 +1,16 @@
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Techniques like Code refactoring can enhance readability.
+ Programmable devices have existed for centuries.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Normally the first step in debugging is to attempt to reproduce the problem.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+There exist a lot of different approaches for each of those tasks.
+Use of a static code analysis tool can help detect some possible problems.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
