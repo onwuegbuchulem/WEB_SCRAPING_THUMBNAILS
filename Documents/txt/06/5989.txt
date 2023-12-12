@@ -1,0 +1,15 @@
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Ideally, the programming language best suited for the task at hand will be selected.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Computer programmers are those who write computer software.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+There exist a lot of different approaches for each of those tasks.

@@ -1,0 +1,16 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Integrated development environments (IDEs) aim to integrate all such help.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Code-breaking algorithms have also existed for centuries.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+Use of a static code analysis tool can help detect some possible problems.
+ Different programming languages support different styles of programming (called programming paradigms).

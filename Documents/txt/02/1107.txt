@@ -1,0 +1,15 @@
+ Following a consistent programming style often helps readability.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Computer programmers are those who write computer software.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+However, readability is more than just programming style.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+One approach popular for requirements analysis is Use Case analysis.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

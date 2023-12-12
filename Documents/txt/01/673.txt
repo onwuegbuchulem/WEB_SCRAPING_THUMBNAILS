@@ -1,0 +1,16 @@
+Use of a static code analysis tool can help detect some possible problems.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+ Following a consistent programming style often helps readability.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+There are many approaches to the Software development process.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+Ideally, the programming language best suited for the task at hand will be selected.
+ It is very difficult to determine what are the most popular modern programming languages.

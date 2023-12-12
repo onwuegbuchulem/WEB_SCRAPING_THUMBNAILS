@@ -1,0 +1,18 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Following a consistent programming style often helps readability.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ It is very difficult to determine what are the most popular modern programming languages.
+Techniques like Code refactoring can enhance readability.
+There exist a lot of different approaches for each of those tasks.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.

@@ -1,0 +1,17 @@
+Programming languages are essential for software development.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Following a consistent programming style often helps readability.
+ Code-breaking algorithms have also existed for centuries.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Scripting and breakpointing is also part of this process.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

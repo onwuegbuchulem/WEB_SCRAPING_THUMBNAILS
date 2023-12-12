@@ -1,0 +1,16 @@
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ It is very difficult to determine what are the most popular modern programming languages.
+However, readability is more than just programming style.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Programming languages are essential for software development.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Integrated development environments (IDEs) aim to integrate all such help.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.

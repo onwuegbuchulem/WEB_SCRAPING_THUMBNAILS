@@ -1,0 +1,16 @@
+Techniques like Code refactoring can enhance readability.
+However, readability is more than just programming style.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Programming languages are essential for software development.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Following a consistent programming style often helps readability.
+ It is very difficult to determine what are the most popular modern programming languages.
+Use of a static code analysis tool can help detect some possible problems.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.

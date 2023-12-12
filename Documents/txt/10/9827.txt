@@ -1,0 +1,17 @@
+Scripting and breakpointing is also part of this process.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+ It is very difficult to determine what are the most popular modern programming languages.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Code-breaking algorithms have also existed for centuries.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Techniques like Code refactoring can enhance readability.

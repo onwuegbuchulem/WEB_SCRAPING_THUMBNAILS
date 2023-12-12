@@ -1,0 +1,16 @@
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Use of a static code analysis tool can help detect some possible problems.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Following a consistent programming style often helps readability.
+ It is very difficult to determine what are the most popular modern programming languages.

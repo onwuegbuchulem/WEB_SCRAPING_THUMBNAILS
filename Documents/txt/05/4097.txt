@@ -1,0 +1,19 @@
+Normally the first step in debugging is to attempt to reproduce the problem.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+One approach popular for requirements analysis is Use Case analysis.
+ Programmable devices have existed for centuries.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Following a consistent programming style often helps readability.
+There exist a lot of different approaches for each of those tasks.

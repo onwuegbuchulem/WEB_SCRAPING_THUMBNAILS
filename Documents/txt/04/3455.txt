@@ -1,0 +1,16 @@
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+There are many approaches to the Software development process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ It is very difficult to determine what are the most popular modern programming languages.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

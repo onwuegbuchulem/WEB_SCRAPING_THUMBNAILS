@@ -1,0 +1,15 @@
+ Code-breaking algorithms have also existed for centuries.
+
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Programmable devices have existed for centuries.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Ideally, the programming language best suited for the task at hand will be selected.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.

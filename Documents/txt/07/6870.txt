@@ -1,0 +1,17 @@
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Techniques like Code refactoring can enhance readability.
+Ideally, the programming language best suited for the task at hand will be selected.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Scripting and breakpointing is also part of this process.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.

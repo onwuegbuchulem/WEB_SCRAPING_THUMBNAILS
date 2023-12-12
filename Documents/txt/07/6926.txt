@@ -1,0 +1,15 @@
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Techniques like Code refactoring can enhance readability.
+Normally the first step in debugging is to attempt to reproduce the problem.
+ Programs were mostly entered using punched cards or paper tape.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ It is very difficult to determine what are the most popular modern programming languages.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many applications use a mix of several languages in their construction and use.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

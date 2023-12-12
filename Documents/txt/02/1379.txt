@@ -1,0 +1,15 @@
+There exist a lot of different approaches for each of those tasks.
+Programming languages are essential for software development.
+ It is very difficult to determine what are the most popular modern programming languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Different programming languages support different styles of programming (called programming paradigms).
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Programmable devices have existed for centuries.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.

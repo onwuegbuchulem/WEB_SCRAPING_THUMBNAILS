@@ -1,0 +1,15 @@
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Scripting and breakpointing is also part of this process.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Programming languages are essential for software development.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Computer programmers are those who write computer software.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.

@@ -1,0 +1,15 @@
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Code-breaking algorithms have also existed for centuries.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Integrated development environments (IDEs) aim to integrate all such help.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Following a consistent programming style often helps readability.
+
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

@@ -1,0 +1,18 @@
+ Following a consistent programming style often helps readability.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+However, readability is more than just programming style.
+ Programmable devices have existed for centuries.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Ideally, the programming language best suited for the task at hand will be selected.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ Computer programmers are those who write computer software.
+Scripting and breakpointing is also part of this process.
+ Programs were mostly entered using punched cards or paper tape.
+There are many approaches to the Software development process.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.

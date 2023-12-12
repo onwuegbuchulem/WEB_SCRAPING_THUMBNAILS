@@ -1,0 +1,15 @@
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ It is very difficult to determine what are the most popular modern programming languages.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ Computer programmers are those who write computer software.
+There are many approaches to the Software development process.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Use of a static code analysis tool can help detect some possible problems.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

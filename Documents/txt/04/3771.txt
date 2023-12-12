@@ -1,0 +1,17 @@
+ Programmable devices have existed for centuries.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Programming languages are essential for software development.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Integrated development environments (IDEs) aim to integrate all such help.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Ideally, the programming language best suited for the task at hand will be selected.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Different programming languages support different styles of programming (called programming paradigms).
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

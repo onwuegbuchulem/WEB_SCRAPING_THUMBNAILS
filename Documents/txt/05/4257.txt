@@ -1,0 +1,16 @@
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+However, readability is more than just programming style.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+There are many approaches to the Software development process.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+Techniques like Code refactoring can enhance readability.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+
+ Programs were mostly entered using punched cards or paper tape.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).

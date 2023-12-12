@@ -1,0 +1,19 @@
+
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Techniques like Code refactoring can enhance readability.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ It is very difficult to determine what are the most popular modern programming languages.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+There exist a lot of different approaches for each of those tasks.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Programming languages are essential for software development.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

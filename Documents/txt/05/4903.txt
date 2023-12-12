@@ -1,0 +1,16 @@
+Scripting and breakpointing is also part of this process.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+Many applications use a mix of several languages in their construction and use.
+ Programs were mostly entered using punched cards or paper tape.
+ Code-breaking algorithms have also existed for centuries.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+One approach popular for requirements analysis is Use Case analysis.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

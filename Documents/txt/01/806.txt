@@ -1,0 +1,15 @@
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+However, readability is more than just programming style.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Many applications use a mix of several languages in their construction and use.
+One approach popular for requirements analysis is Use Case analysis.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+Integrated development environments (IDEs) aim to integrate all such help.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+There are many approaches to the Software development process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Use of a static code analysis tool can help detect some possible problems.
+ Different programming languages support different styles of programming (called programming paradigms).

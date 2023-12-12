@@ -1,0 +1,17 @@
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Programmable devices have existed for centuries.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Code-breaking algorithms have also existed for centuries.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+However, readability is more than just programming style.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.

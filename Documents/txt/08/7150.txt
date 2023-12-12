@@ -1,0 +1,15 @@
+Techniques like Code refactoring can enhance readability.
+Use of a static code analysis tool can help detect some possible problems.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+However, readability is more than just programming style.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+One approach popular for requirements analysis is Use Case analysis.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Programming languages are essential for software development.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+ It is very difficult to determine what are the most popular modern programming languages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Programmable devices have existed for centuries.

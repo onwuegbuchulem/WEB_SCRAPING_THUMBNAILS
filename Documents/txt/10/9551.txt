@@ -1,0 +1,15 @@
+There exist a lot of different approaches for each of those tasks.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Following a consistent programming style often helps readability.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Programming languages are essential for software development.
+ Programs were mostly entered using punched cards or paper tape.
+Scripting and breakpointing is also part of this process.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

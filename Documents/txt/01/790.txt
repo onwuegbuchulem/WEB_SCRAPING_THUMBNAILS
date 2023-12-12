@@ -1,0 +1,18 @@
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Many applications use a mix of several languages in their construction and use.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+ Programmable devices have existed for centuries.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.

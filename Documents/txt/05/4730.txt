@@ -1,0 +1,19 @@
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Programs were mostly entered using punched cards or paper tape.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+There are many approaches to the Software development process.
+Many applications use a mix of several languages in their construction and use.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.

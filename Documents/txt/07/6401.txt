@@ -1,0 +1,15 @@
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Programs were mostly entered using punched cards or paper tape.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Code-breaking algorithms have also existed for centuries.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+One approach popular for requirements analysis is Use Case analysis.
+ Programmable devices have existed for centuries.
+There are many approaches to the Software development process.

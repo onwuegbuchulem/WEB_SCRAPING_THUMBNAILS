@@ -1,0 +1,15 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+One approach popular for requirements analysis is Use Case analysis.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Integrated development environments (IDEs) aim to integrate all such help.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ Programmable devices have existed for centuries.
+Scripting and breakpointing is also part of this process.

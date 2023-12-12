@@ -1,0 +1,17 @@
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+However, readability is more than just programming style.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ Following a consistent programming style often helps readability.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Code-breaking algorithms have also existed for centuries.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+There exist a lot of different approaches for each of those tasks.

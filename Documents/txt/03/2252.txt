@@ -1,0 +1,16 @@
+Techniques like Code refactoring can enhance readability.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+ Programmable devices have existed for centuries.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+There are many approaches to the Software development process.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ It is very difficult to determine what are the most popular modern programming languages.
+One approach popular for requirements analysis is Use Case analysis.

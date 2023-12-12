@@ -1,0 +1,16 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Code-breaking algorithms have also existed for centuries.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.

@@ -1,0 +1,15 @@
+There exist a lot of different approaches for each of those tasks.
+Many applications use a mix of several languages in their construction and use.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Programmable devices have existed for centuries.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.

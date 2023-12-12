@@ -1,0 +1,17 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ Programs were mostly entered using punched cards or paper tape.
+However, readability is more than just programming style.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+
+There are many approaches to the Software development process.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.

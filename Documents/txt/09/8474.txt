@@ -1,0 +1,15 @@
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+Ideally, the programming language best suited for the task at hand will be selected.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Programming languages are essential for software development.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Integrated development environments (IDEs) aim to integrate all such help.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

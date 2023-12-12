@@ -1,0 +1,16 @@
+ It is very difficult to determine what are the most popular modern programming languages.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+Techniques like Code refactoring can enhance readability.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Different programming languages support different styles of programming (called programming paradigms).
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Following a consistent programming style often helps readability.

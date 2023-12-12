@@ -1,0 +1,15 @@
+ Programmable devices have existed for centuries.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+ Following a consistent programming style often helps readability.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+
+ Code-breaking algorithms have also existed for centuries.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ Different programming languages support different styles of programming (called programming paradigms).
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.

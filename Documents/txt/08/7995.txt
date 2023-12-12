@@ -1,0 +1,17 @@
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+One approach popular for requirements analysis is Use Case analysis.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+ Computer programmers are those who write computer software.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.

@@ -1,0 +1,15 @@
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Use of a static code analysis tool can help detect some possible problems.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+However, readability is more than just programming style.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ Following a consistent programming style often helps readability.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

@@ -1,0 +1,15 @@
+ Code-breaking algorithms have also existed for centuries.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Integrated development environments (IDEs) aim to integrate all such help.
+Normally the first step in debugging is to attempt to reproduce the problem.
+However, readability is more than just programming style.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.

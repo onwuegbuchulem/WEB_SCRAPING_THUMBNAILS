@@ -1,0 +1,15 @@
+Compilers harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Programmable devices have existed for centuries.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+For this purpose, algorithms are classified into orders using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Scripting and breakpointing is also part of this process.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

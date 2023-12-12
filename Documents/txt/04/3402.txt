@@ -1,0 +1,16 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+There are many approaches to the Software development process.
+Programming languages are essential for software development.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Scripting and breakpointing is also part of this process.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ Following a consistent programming style often helps readability.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.

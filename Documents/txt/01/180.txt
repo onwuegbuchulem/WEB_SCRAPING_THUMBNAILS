@@ -1,0 +1,16 @@
+Programming languages are essential for software development.
+ Programmable devices have existed for centuries.
+Integrated development environments (IDEs) aim to integrate all such help.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ It is very difficult to determine what are the most popular modern programming languages.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Use of a static code analysis tool can help detect some possible problems.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.

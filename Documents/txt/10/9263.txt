@@ -1,0 +1,15 @@
+ It is very difficult to determine what are the most popular modern programming languages.
+
+ Programmable devices have existed for centuries.
+There are many approaches to the Software development process.
+Techniques like Code refactoring can enhance readability.
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Programs were mostly entered using punched cards or paper tape.
+ Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code.
+Use of a static code analysis tool can help detect some possible problems.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, COBOL aimed at commercial data processing, and Lisp for computer research.

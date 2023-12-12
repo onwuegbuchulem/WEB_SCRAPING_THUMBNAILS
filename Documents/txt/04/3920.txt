@@ -1,0 +1,16 @@
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Normally the first step in debugging is to attempt to reproduce the problem.
+One approach popular for requirements analysis is Use Case analysis.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Programs were mostly entered using punched cards or paper tape.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+However, readability is more than just programming style.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.

@@ -1,0 +1,16 @@
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, readability is more than just programming style.
+Use of a static code analysis tool can help detect some possible problems.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+One approach popular for requirements analysis is Use Case analysis.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Programmable devices have existed for centuries.
+Integrated development environments (IDEs) aim to integrate all such help.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.

@@ -1,0 +1,15 @@
+ Programs were mostly entered using punched cards or paper tape.
+However, readability is more than just programming style.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.

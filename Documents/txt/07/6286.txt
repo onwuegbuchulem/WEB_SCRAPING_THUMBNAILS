@@ -1,0 +1,16 @@
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+Use of a static code analysis tool can help detect some possible problems.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Techniques like Code refactoring can enhance readability.

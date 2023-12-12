@@ -1,0 +1,16 @@
+Scripting and breakpointing is also part of this process.
+ Different programming languages support different styles of programming (called programming paradigms).
+ Programmable devices have existed for centuries.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Programs were mostly entered using punched cards or paper tape.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

@@ -1,0 +1,17 @@
+Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit.
+Ideally, the programming language best suited for the task at hand will be selected.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Programs were mostly entered using punched cards or paper tape.
+However, readability is more than just programming style.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging).
+Integrated development environments (IDEs) aim to integrate all such help.
+ It is very difficult to determine what are the most popular modern programming languages.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).

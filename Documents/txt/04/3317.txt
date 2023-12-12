@@ -1,0 +1,16 @@
+ Code-breaking algorithms have also existed for centuries.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Computer programmers are those who write computer software.
+ It is very difficult to determine what are the most popular modern programming languages.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.

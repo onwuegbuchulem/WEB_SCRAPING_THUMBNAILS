@@ -1,0 +1,17 @@
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Techniques like Code refactoring can enhance readability.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Many applications use a mix of several languages in their construction and use.
+ Following a consistent programming style often helps readability.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.

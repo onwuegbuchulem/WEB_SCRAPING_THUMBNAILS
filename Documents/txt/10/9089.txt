@@ -1,0 +1,15 @@
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+ Code-breaking algorithms have also existed for centuries.
+One approach popular for requirements analysis is Use Case analysis.
+There are many approaches to the Software development process.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.

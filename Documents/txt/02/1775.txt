@@ -1,0 +1,15 @@
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Many programmers use forms of Agile software development where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Different programming languages support different styles of programming (called programming paradigms).
+Techniques like Code refactoring can enhance readability.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ Code-breaking algorithms have also existed for centuries.
+There are many approaches to the Software development process.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Assembly languages were soon developed that let the programmer specify instruction in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Programming languages are essential for software development.

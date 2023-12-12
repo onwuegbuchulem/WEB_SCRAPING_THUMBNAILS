@@ -1,0 +1,15 @@
+Ideally, the programming language best suited for the task at hand will be selected.
+Many applications use a mix of several languages in their construction and use.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+ Code-breaking algorithms have also existed for centuries.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+ Programmable devices have existed for centuries.
+There exist a lot of different approaches for each of those tasks.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+It is usually easier to code in "high-level" languages than in "low-level" ones.

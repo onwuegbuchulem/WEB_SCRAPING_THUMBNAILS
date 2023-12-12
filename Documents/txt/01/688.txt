@@ -1,0 +1,17 @@
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Integrated development environments (IDEs) aim to integrate all such help.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+ Programs were mostly entered using punched cards or paper tape.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Use of a static code analysis tool can help detect some possible problems.
+ Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line.
+One approach popular for requirements analysis is Use Case analysis.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+ Programmable devices have existed for centuries.

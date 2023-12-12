@@ -1,0 +1,16 @@
+ Programs were mostly entered using punched cards or paper tape.
+Use of a static code analysis tool can help detect some possible problems.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+There exist a lot of different approaches for each of those tasks.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Different programming languages support different styles of programming (called programming paradigms).
+Integrated development environments (IDEs) aim to integrate all such help.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+However, readability is more than just programming style.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.

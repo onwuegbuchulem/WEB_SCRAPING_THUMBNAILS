@@ -1,0 +1,17 @@
+ Readability is important because programmers spend the majority of their time reading, trying to understand, reusing and modifying existing source code, rather than writing new source code.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Following a consistent programming style often helps readability.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+
+There are many approaches to the Software development process.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+There exist a lot of different approaches for each of those tasks.
+However, readability is more than just programming style.
+Integrated development environments (IDEs) aim to integrate all such help.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+
+The first compiler related tool, the A-0 System, was developed in 1952 by Grace Hopper, who also coined the term 'compiler'.

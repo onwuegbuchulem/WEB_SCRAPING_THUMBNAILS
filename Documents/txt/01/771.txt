@@ -1,0 +1,16 @@
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+There are many approaches to the Software development process.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Use of a static code analysis tool can help detect some possible problems.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+ Following a consistent programming style often helps readability.
+While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.

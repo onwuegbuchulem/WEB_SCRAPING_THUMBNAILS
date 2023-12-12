@@ -1,0 +1,16 @@
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+Normally the first step in debugging is to attempt to reproduce the problem.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ It is very difficult to determine what are the most popular modern programming languages.
+It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+ Programs were mostly entered using punched cards or paper tape.
+Techniques like Code refactoring can enhance readability.

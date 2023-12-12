@@ -1,0 +1,17 @@
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.
+They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+ Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Programming languages are essential for software development.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Integrated development environments (IDEs) aim to integrate all such help.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA).
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Many applications use a mix of several languages in their construction and use.

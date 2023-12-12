@@ -1,0 +1,18 @@
+ Whatever the approach to development may be, the final program must satisfy some fundamental properties.
+ Programmable devices have existed for centuries.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Some of these factors include:
+ The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+ Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+ Different programming languages support different styles of programming (called programming paradigms).
+However, readability is more than just programming style.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Integrated development environments (IDEs) aim to integrate all such help.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.

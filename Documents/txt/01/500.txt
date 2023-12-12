@@ -1,0 +1,15 @@
+ Code-breaking algorithms have also existed for centuries.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Integrated development environments (IDEs) aim to integrate all such help.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Many applications use a mix of several languages in their construction and use.
+Unreadable code often leads to bugs, inefficiencies, and duplicated code.
+Techniques like Code refactoring can enhance readability.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+ It is very difficult to determine what are the most popular modern programming languages.
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+There exist a lot of different approaches for each of those tasks.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference.

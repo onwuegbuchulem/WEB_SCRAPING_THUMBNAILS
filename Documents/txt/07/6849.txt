@@ -1,0 +1,15 @@
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Normally the first step in debugging is to attempt to reproduce the problem.
+In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Programming languages are essential for software development.
+As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.
+ After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+One approach popular for requirements analysis is Use Case analysis.

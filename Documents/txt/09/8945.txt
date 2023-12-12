@@ -1,0 +1,19 @@
+Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+ In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.
+Their jobs usually involve:
+ Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+The following properties are among the most important:
+
+ In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+However, Charles Babbage had already written his first program for the Analytical Engine in 1837.
+ Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+ Many computer languages provide a mechanism to call functions provided by shared libraries.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly.
+There exist a lot of different approaches for each of those tasks.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.

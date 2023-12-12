@@ -1,0 +1,16 @@
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ The first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Integrated development environments (IDEs) aim to integrate all such help.
+Scripting and breakpointing is also part of this process.
+One approach popular for requirements analysis is Use Case analysis.
+Programming languages are essential for software development.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Programmable devices have existed for centuries.
+ Programs were mostly entered using punched cards or paper tape.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

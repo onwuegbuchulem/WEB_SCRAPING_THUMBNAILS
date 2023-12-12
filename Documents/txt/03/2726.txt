@@ -1,0 +1,15 @@
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Integrated development environments (IDEs) aim to integrate all such help.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+ Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+Scripting and breakpointing is also part of this process.
+ The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problems.
+There exist a lot of different approaches for each of those tasks.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+ High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists.
+ Following a consistent programming style often helps readability.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+ Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.

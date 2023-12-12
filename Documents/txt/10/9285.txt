@@ -1,0 +1,16 @@
+Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers.
+
+ Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+There are many approaches to the Software development process.
+He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+Scripting and breakpointing is also part of this process.
+For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash.
+ Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic languages.
+ Following a consistent programming style often helps readability.
+It is usually easier to code in "high-level" languages than in "low-level" ones.
+Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+Programming languages are essential for software development.
+ Programs were mostly entered using punched cards or paper tape.
